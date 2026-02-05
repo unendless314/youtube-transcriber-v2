@@ -179,9 +179,9 @@ class DownloadStage(Stage):
             path = temp_dir / f"{video_id}{ext}"
             if path.exists():
                 return path
-        # 搜尋任何包含 video_id 的檔案
+        # 搜尋任何以 video_id 開頭的檔案 (格式: video_id.ext)
         for f in temp_dir.iterdir():
-            if video_id in f.name and f.is_file():
+            if f.is_file() and f.name.startswith(f"{video_id}."):
                 return f
         return None
 
@@ -191,8 +191,8 @@ class TranscribeStage(Stage):
     
     def __init__(self, config: Config, state_manager: StateManager, backend = None) -> None:
         super().__init__(config, state_manager)
-        self._backend = backend
-        self._backend_instance = None
+        self._forced_backend = backend
+        self._backends: dict[tuple[str, str | None], Any] = {}
     
     @property
     def name(self) -> str:
@@ -206,22 +206,30 @@ class TranscribeStage(Stage):
             return True
         return False
     
-    def _get_backend(self):
+    def _get_backend(self, language: str | None):
         """取得或創建 Whisper 後端."""
-        if self._backend_instance is None:
+        if self._forced_backend:
+            return self._forced_backend
+            
+        model = self.config.whisper.model
+        key = (model, language)
+        
+        if key not in self._backends:
             from transcriber.backends.base import BackendFactory
             
-            language = self._get_language()
-            language = None if language == "auto" else language
+            # map "auto" to None for backend
+            backend_lang = None if language == "auto" else language
             
-            self._backend_instance = BackendFactory.create(
+            backend = BackendFactory.create(
                 backend=self.config.whisper.backend,
-                model=self.config.whisper.model,
-                language=language,
+                model=model,
+                language=backend_lang,
             )
-            self._backend_instance.load()
+            backend.load()
+            self._backends[key] = backend
+            self.logger.debug("backend_loaded", model=model, language=language)
         
-        return self._backend_instance
+        return self._backends[key]
     
     def execute(self, context: ProcessingContext) -> ProcessingContext:
         """轉錄音訊."""
@@ -239,8 +247,11 @@ class TranscribeStage(Stage):
         )
         self.state.mark_status(context.video_id, VideoStatus.TRANSCRIBING)
         
+        # 決定語言
+        language = self._get_language(context.channel_name)
+        
         # 使用後端進行轉錄
-        backend = self._get_backend()
+        backend = self._get_backend(language)
         result = backend.transcribe(context.audio_path)
         
         # 儲存結果
@@ -264,11 +275,11 @@ class TranscribeStage(Stage):
         
         return context
     
-    def _get_language(self) -> str:
+    def _get_language(self, channel_name: str) -> str:
         """取得頻道的語言設定."""
         # 先找頻道特定設定
         for ch in self.config.channels:
-            if ch.name == ch.name and ch.language is not None:
+            if ch.name == channel_name and ch.language is not None:
                 return ch.language
         # 使用全域設定
         return self.config.whisper.language
