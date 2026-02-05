@@ -189,6 +189,11 @@ class DownloadStage(Stage):
 class TranscribeStage(Stage):
     """轉錄 Stage - 使用 Whisper 轉錄音訊."""
     
+    def __init__(self, config: Config, state_manager: StateManager, backend = None) -> None:
+        super().__init__(config, state_manager)
+        self._backend = backend
+        self._backend_instance = None
+    
     @property
     def name(self) -> str:
         return "transcribe"
@@ -200,6 +205,23 @@ class TranscribeStage(Stage):
             self.logger.info("skip_transcribe", reason="already_completed", video_id=context.video_id)
             return True
         return False
+    
+    def _get_backend(self):
+        """取得或創建 Whisper 後端."""
+        if self._backend_instance is None:
+            from transcriber.backends.base import BackendFactory
+            
+            language = self._get_language()
+            language = None if language == "auto" else language
+            
+            self._backend_instance = BackendFactory.create(
+                backend=self.config.whisper.backend,
+                model=self.config.whisper.model,
+                language=language,
+            )
+            self._backend_instance.load()
+        
+        return self._backend_instance
     
     def execute(self, context: ProcessingContext) -> ProcessingContext:
         """轉錄音訊."""
@@ -217,48 +239,36 @@ class TranscribeStage(Stage):
         )
         self.state.mark_status(context.video_id, VideoStatus.TRANSCRIBING)
         
-        # Phase 1: 簡化實作，只支援 openai-whisper
-        try:
-            import whisper
-            
-            # 載入模型
-            self.logger.debug("loading_model", model=self.config.whisper.model)
-            model = whisper.load_model(self.config.whisper.model)
-            
-            # 執行轉錄
-            language = self._get_language(context.channel_name)
-            result = model.transcribe(
-                str(context.audio_path),
-                language=None if language == "auto" else language,
-                verbose=False,
-            )
-            
-            # 儲存結果
-            context.transcript = result["text"].strip()
-            context.transcript_segments = result.get("segments", [])
-            
-            self.logger.info(
-                "transcribe_complete",
-                video_id=context.video_id,
-                word_count=len(context.transcript),
-                segment_count=len(context.transcript_segments),
-            )
-            
-        except Exception as e:
-            error_str = str(e).lower()
-            if "cuda" in error_str or "memory" in error_str or "out of memory" in error_str:
-                category = ErrorCategory.RESOURCE
-            else:
-                category = ErrorCategory.UNKNOWN
-            raise TranscribeError(f"Whisper 轉錄失敗: {e}", category=category) from e
+        # 使用後端進行轉錄
+        backend = self._get_backend()
+        result = backend.transcribe(context.audio_path)
+        
+        # 儲存結果
+        context.transcript = result.text
+        context.transcript_segments = [
+            {
+                "start": seg.start,
+                "end": seg.end,
+                "text": seg.text,
+            }
+            for seg in result.segments
+        ]
+        
+        self.logger.info(
+            "transcribe_complete",
+            video_id=context.video_id,
+            word_count=result.word_count,
+            segment_count=len(result.segments),
+            language=result.language,
+        )
         
         return context
     
-    def _get_language(self, channel_name: str) -> str:
+    def _get_language(self) -> str:
         """取得頻道的語言設定."""
         # 先找頻道特定設定
         for ch in self.config.channels:
-            if ch.name == channel_name and ch.language is not None:
+            if ch.name == ch.name and ch.language is not None:
                 return ch.language
         # 使用全域設定
         return self.config.whisper.language

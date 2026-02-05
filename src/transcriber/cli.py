@@ -5,12 +5,21 @@ from pathlib import Path
 
 import click
 import structlog
+from rich.console import Console
 
+from transcriber import __version__
 from transcriber.config.manager import ConfigManager
+from transcriber.core.progress import ProgressTracker
+from transcriber.core.retry import RetryEngine, StageRetryWrapper
 from transcriber.core.state import StateManager
 from transcriber.pipeline.context import ProcessingContext
-from transcriber.pipeline.orchestrator import create_default_pipeline
-from transcriber import __version__
+from transcriber.pipeline.orchestrator import Pipeline
+from transcriber.pipeline.stages import (
+    CleanupStage,
+    DownloadStage,
+    SaveStage,
+    TranscribeStage,
+)
 
 # 配置結構化日誌
 structlog.configure(
@@ -33,62 +42,40 @@ logger = structlog.get_logger(__name__)
 
 
 def extract_video_id(url: str) -> str:
-    """從 YouTube URL 提取影片 ID.
-    
-    Args:
-        url: YouTube URL
-        
-    Returns:
-        影片 ID
-    """
-    # 支援格式：
-    # - https://www.youtube.com/watch?v=VIDEO_ID
-    # - https://youtu.be/VIDEO_ID
-    # - https://www.youtube.com/shorts/VIDEO_ID
-    
+    """從 YouTube URL 提取影片 ID."""
     import re
     
-    # youtu.be 格式
     if "youtu.be/" in url:
         match = re.search(r'youtu\.be/([^?&]+)', url)
         if match:
             return match.group(1)
     
-    # watch?v= 格式
     match = re.search(r'[?&]v=([^?&]+)', url)
     if match:
         return match.group(1)
     
-    # shorts 格式
     match = re.search(r'/shorts/([^?&]+)', url)
     if match:
         return match.group(1)
     
-    # 無法解析，使用 URL 雜湊
     import hashlib
     return hashlib.md5(url.encode()).hexdigest()[:11]
 
 
-def get_channel_videos(channel_config: dict, max_videos: int, cookies_file: Path | None) -> list[dict]:
-    """取得頻道的影片列表.
-    
-    Args:
-        channel_config: 頻道配置
-        max_videos: 最大影片數
-        cookies_file: cookies 檔案路徑
-        
-    Returns:
-        影片資訊列表
-    """
+def get_channel_videos(
+    channel_config: dict,
+    max_videos: int,
+    cookies_file: Path | None,
+) -> list[dict]:
+    """取得頻道的影片列表."""
     import yt_dlp
     
     url = channel_config["url"]
     
-    # 建構 yt-dlp 選項
     ydl_opts = {
         "quiet": True,
         "no_warnings": True,
-        "extract_flat": True,  # 只取得列表，不下載
+        "extract_flat": True,
         "playlistend": max_videos,
     }
     
@@ -97,7 +84,6 @@ def get_channel_videos(channel_config: dict, max_videos: int, cookies_file: Path
     
     try:
         with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            # 提取頻道資訊
             info = ydl.extract_info(url, download=False)
             
             if not info or "entries" not in info:
@@ -153,6 +139,11 @@ def get_channel_videos(channel_config: dict, max_videos: int, cookies_file: Path
     help="詳細輸出",
 )
 @click.option(
+    "--no-progress",
+    is_flag=True,
+    help="停用進度顯示",
+)
+@click.option(
     "--init-config",
     type=click.Path(path_type=Path),
     help="建立範例配置文件並退出",
@@ -164,6 +155,7 @@ def main(
     state_db: Path | None,
     dry_run: bool,
     verbose: bool,
+    no_progress: bool,
     init_config: Path | None,
 ) -> None:
     """YouTube Transcriber - 自動轉錄 YouTube 頻道影片."""
@@ -209,6 +201,14 @@ def main(
     if not state_db:
         state_db = app_config.output.base_dir / ".transcriber.db"
     
+    # 創建控制台
+    console = Console()
+    
+    # 創建進度追蹤器
+    progress = ProgressTracker(console)
+    if no_progress:
+        progress.disable()
+    
     # 初始化狀態管理器
     with StateManager(state_db) as state_manager:
         # 清理舊記錄
@@ -216,22 +216,21 @@ def main(
         if deleted > 0:
             logger.info("cleaned_old_records", count=deleted)
         
-        # 建立 Pipeline
-        pipeline = create_default_pipeline(app_config, state_manager)
+        # 建立重試引擎
+        retry_engine = RetryEngine()
         
-        # 處理每個頻道
-        total_processed = 0
-        total_skipped = 0
-        total_failed = 0
+        # 建立 Pipeline（帶重試）
+        pipeline = Pipeline(app_config, state_manager)
+        pipeline.add_stage(StageRetryWrapper(DownloadStage(app_config, state_manager), retry_engine))
+        pipeline.add_stage(StageRetryWrapper(TranscribeStage(app_config, state_manager), retry_engine))
+        pipeline.add_stage(SaveStage(app_config, state_manager))
+        pipeline.add_stage(CleanupStage(app_config, state_manager))
+        
+        # 收集所有頻道的影片資訊
+        channel_videos = []
+        all_channels_info = []
         
         for channel in app_config.channels:
-            logger.info(
-                "processing_channel",
-                name=channel.name,
-                url=channel.url,
-            )
-            
-            # 取得影片列表
             channel_dict = {
                 "name": channel.name,
                 "url": channel.url,
@@ -245,56 +244,66 @@ def main(
                 app_config.global_config.cookies_file,
             )
             
-            if not videos:
-                logger.warning("no_videos_found", channel=channel.name)
-                continue
-            
-            click.echo(f"\n頻道: {channel.name} - 找到 {len(videos)} 部影片")
-            
-            # 處理每部影片
-            for i, video in enumerate(videos, 1):
-                video_id = video["video_id"]
-                title = video["title"]
-                url = video["url"]
-                
-                # 檢查是否已處理
-                if state_manager.is_processed(video_id):
-                    click.echo(f"  [{i}/{len(videos)}] ⏭️  已處理: {title[:50]}...")
-                    total_skipped += 1
-                    continue
-                
-                click.echo(f"  [{i}/{len(videos)}] 處理: {title[:50]}...")
-                
-                if dry_run:
-                    click.echo(f"    📝 測試模式，跳過處理")
-                    total_skipped += 1
-                    continue
-                
-                # 建立處理上下文
-                context = ProcessingContext(
-                    video_id=video_id,
-                    channel_name=channel.name,
-                    title=title,
-                    url=url,
-                )
-                
-                # 執行 Pipeline
-                try:
-                    pipeline.process(context)
-                    total_processed += 1
-                    click.echo(f"    ✅ 完成: {context.output_path}")
-                except Exception as e:
-                    total_failed += 1
-                    click.echo(f"    ❌ 失敗: {e}")
-                    # 繼續處理下一部影片
-                    continue
+            if videos:
+                channel_videos.append((channel, videos))
+                all_channels_info.append((channel.name, len(videos)))
         
-        # 輸出摘要
-        click.echo("\n" + "="*50)
-        click.echo("處理摘要:")
-        click.echo(f"  成功: {total_processed}")
-        click.echo(f"  跳過: {total_skipped}")
-        click.echo(f"  失敗: {total_failed}")
+        if not channel_videos:
+            console.print("[yellow]沒有找到可處理的影片[/yellow]")
+            sys.exit(0)
+        
+        # 使用進度追蹤器
+        with progress:
+            # 開始追蹤頻道
+            progress.start_channels(all_channels_info)
+            
+            # 處理每個頻道
+            for channel, videos in channel_videos:
+                progress.start_channel(channel.name)
+                
+                logger.info("processing_channel", name=channel.name, video_count=len(videos))
+                
+                # 處理每部影片
+                for i, video in enumerate(videos, 1):
+                    video_id = video["video_id"]
+                    title = video["title"]
+                    url = video["url"]
+                    
+                    # 更新進度 - 當前處理
+                    progress.update_video(title, "processing")
+                    
+                    # 檢查是否已處理
+                    if state_manager.is_processed(video_id):
+                        progress.update_video(title, "skipped")
+                        logger.info("video_already_processed", video_id=video_id)
+                        continue
+                    
+                    if dry_run:
+                        progress.update_video(title, "skipped")
+                        continue
+                    
+                    # 建立處理上下文
+                    context = ProcessingContext(
+                        video_id=video_id,
+                        channel_name=channel.name,
+                        title=title,
+                        url=url,
+                    )
+                    
+                    # 執行 Pipeline
+                    try:
+                        pipeline.process(context)
+                        progress.update_video(title, "completed")
+                        logger.info("video_processed", video_id=video_id)
+                    except Exception as e:
+                        progress.update_video(title, "failed")
+                        logger.error("video_failed", video_id=video_id, error=str(e))
+                        # 繼續處理下一部影片
+                        continue
+        
+        # 列印摘要（如果啟用了進度顯示）
+        if not no_progress:
+            progress.print_summary()
     
     logger.info("youtube_transcriber_finished")
 

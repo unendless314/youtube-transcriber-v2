@@ -78,9 +78,9 @@ src/transcriber/
 
 ## 開發階段
 
-- **Phase 1** (進行中): 核心基礎設施 - 基本流程、SQLite 狀態、Pipeline
-- **Phase 2** (規劃中): 功能完善 - 重試機制、進度顯示、Backend 抽象
-- **Phase 3** (規劃中): 品質保證 - 測試、文件、發布
+- **Phase 1** ✅ (已完成): 核心基礎設施 - 基本流程、SQLite 狀態、Pipeline
+- **Phase 2** ✅ (已完成): 功能完善 - 重試機制、進度顯示、Backend 抽象
+- **Phase 3** (進行中): 品質保證 - 測試、文件、發布
 
 ## License
 

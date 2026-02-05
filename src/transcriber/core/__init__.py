@@ -9,6 +9,8 @@ from .errors import (
     TranscribeError,
     TranscriberError,
 )
+from .progress import ProgressTracker
+from .retry import RetryEngine, RetryPolicy, StageRetryWrapper
 from .state import StateManager, VideoState, VideoStatus
 
 __all__ = [
@@ -24,4 +26,10 @@ __all__ = [
     "StateManager",
     "VideoState",
     "VideoStatus",
+    # Retry
+    "RetryEngine",
+    "RetryPolicy",
+    "StageRetryWrapper",
+    # Progress
+    "ProgressTracker",
 ]
