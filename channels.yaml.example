@@ -1,0 +1,26 @@
+# YouTube Transcriber 配置檔範例
+# 複製此檔案為 channels.yaml 並修改後使用
+
+# 輸出設定
+output:
+  base_dir: "./output"     # 轉錄檔案輸出目錄
+  temp_dir: "./temp"       # 暫存音訊檔案目錄
+
+# Whisper 設定
+whisper:
+  backend: "openai"        # openai, cpp, faster-whisper
+  model: "medium"          # tiny, base, small, medium, large, large-v3
+  language: "auto"         # auto 或語言代碼 (zh, en, ja...)
+
+# 處理設定
+global:
+  max_videos_check: 5      # 每個頻道檢查最新 N 部影片
+  max_duration: 90         # 最大影片長度（分鐘）
+  cookies_file: null       # YouTube cookies 檔案路徑（用於會員專屬內容）
+
+# 頻道列表
+channels:
+  - name: "範例頻道"
+    url: "https://www.youtube.com/@example"
+    language: "zh"         # 可選，覆寫全域設定
+    max_duration: 120      # 可選，覆寫全域設定
