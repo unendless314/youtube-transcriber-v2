@@ -1,8 +1,10 @@
 """Pipeline Stage 實作 - 改為呼叫系統 CLI 工具."""
 
 import json
+import random
 import re
 import subprocess
+import time
 from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Any
@@ -61,6 +63,13 @@ class DownloadStage(Stage):
         """下載影片音訊."""
         self.logger.info("downloading_via_cli", video_id=context.video_id, title=context.title)
         self.state.mark_status(context.video_id, VideoStatus.DOWNLOADING)
+        
+        # ===== 智慧延遲：避免觸發 YouTube 反爬蟲 =====
+        # 只在「真的要下載」時延遲（已下載的影片會被 should_skip 跳過）
+        delay = random.uniform(30, 90)  # 30-90 秒隨機延遲
+        self.logger.info("rate_limit_delay", seconds=round(delay, 1), video_id=context.video_id)
+        time.sleep(delay)
+        # ============================================
         
         temp_dir = self.config.output.temp_dir
         temp_dir.mkdir(parents=True, exist_ok=True)
