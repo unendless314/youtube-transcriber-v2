@@ -259,6 +259,15 @@ class TranscribeStage(Stage):
         if not context.audio_path or not context.audio_path.exists():
             raise TranscribeError("音訊檔案不存在", category=ErrorCategory.SYSTEM)
         
+        # 輸出轉錄開始提示（讓 AI Agent 知道進入轉錄階段）
+        print(
+            f"\n[TRANSCRIBE] 開始轉錄 | "
+            f"頻道: {context.channel_name} | "
+            f"backend: {self.config.whisper.backend} | "
+            f"video: {context.video_id}",
+            flush=True
+        )
+        
         self.logger.info(
             "transcribing",
             video_id=context.video_id,
@@ -273,6 +282,13 @@ class TranscribeStage(Stage):
         
         context.transcript = result.text
         context.transcript_segments = [{"start": seg.start, "end": seg.end, "text": seg.text} for seg in result.segments]
+        
+        # 輸出轉錄完成提示
+        print(
+            f"  ✓ 轉錄完成 | 字數: {result.word_count} | 片段: {len(result.segments)} | "
+            f"語言: {result.language}\n",
+            flush=True
+        )
         
         self.logger.info(
             "transcribe_complete",
