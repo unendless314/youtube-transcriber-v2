@@ -27,7 +27,7 @@ categories:
   - macro_finance: 宏觀金融、貴金屬、外匯
   - spiritual_growth: 靈性成長、能量更新
   - remote_viewing: 遙視預測
-  - ufo_disclosure: UFO 揭秘、神秘學
+  - ufo: UFO 現象（官方揭秘、目擊故事、哲學反思）
   - tech_career: 職涯發展、技術趨勢
 
 channels:
@@ -82,4 +82,4 @@ channels:
   - name: "Richard Dolan Intelligent Disclosure"
     url: "https://www.youtube.com/@RichardMDolan"
     language: "en"
-    category: "ufo_disclosure"
+    category: "ufo"
