@@ -64,6 +64,30 @@ def extract_video_id(url: str) -> str:
     return hashlib.md5(url.encode()).hexdigest()[:11]
 
 
+def _check_output_exists(output_dir: Path, video_id: str) -> bool:
+    """檢查輸出目錄中是否已存在該 video_id 的 Markdown 檔案.
+    
+    這是防止數據庫遺失時重複處理的雙重保險機制。
+    檔案命名格式: {date}_{video_id}_{title}.md
+    
+    Args:
+        output_dir: 輸出根目錄
+        video_id: YouTube 影片 ID
+        
+    Returns:
+        是否找到匹配的輸出檔案
+    """
+    if not output_dir.exists():
+        return False
+    
+    # 遞迴搜尋所有 .md 檔案，檢查檔名是否包含 video_id
+    for md_file in output_dir.rglob("*.md"):
+        if video_id in md_file.name:
+            return True
+    
+    return False
+
+
 def get_channel_videos(
     channel_config: dict,
     max_videos: int,
@@ -281,10 +305,19 @@ def main(
                     # 更新進度 - 當前處理
                     progress.update_video(title, "processing")
                     
-                    # 檢查是否已處理
+                    # 檢查是否已處理（數據庫狀態）
                     if state_manager.is_processed(video_id):
                         progress.update_video(title, "skipped")
-                        logger.info("video_already_processed", video_id=video_id)
+                        logger.info("video_already_processed_db", video_id=video_id)
+                        continue
+                    
+                    # 檢查輸出檔案是否已存在（防止數據庫遺失導致重複處理）
+                    output_dir = app_config.output.base_dir
+                    if _check_output_exists(output_dir, video_id):
+                        progress.update_video(title, "skipped")
+                        logger.info("video_already_processed_file", video_id=video_id, output_dir=str(output_dir))
+                        # 標記為已完成，避免下次再檢查
+                        state_manager.mark_completed(video_id, "")
                         continue
                     
                     if dry_run:
