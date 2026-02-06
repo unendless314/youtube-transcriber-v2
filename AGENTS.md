@@ -1,22 +1,24 @@
 # YouTube Transcriber V2 - AGENTS.md
 
-> **版本**: 2.0  
-> **狀態**: 📝 設計階段（尚未實作）  
-> **最後更新**: 2026-02-05  
+> **版本**: 2.1  
+> **狀態**: ✅ 核心功能已完成 / 🚀 進入內容運營開發階段  
+> **最後更新**: 2026-02-06  
 > **文件語言**: 繁體中文（與專案文件一致）
 
 ---
 
 ## 1. 專案概述
 
-YouTube Transcriber V2 是一個生產環境可用的 YouTube 頻道自動轉錄工具，用於追蹤多個 YouTube 頻道的新影片，並使用 Whisper AI 將影片音訊轉錄為文字稿。
+YouTube Transcriber V2 是一個生產環境可用的 YouTube 頻道自動轉錄工具。目前**核心下載與轉錄功能已開發完成並通過驗收**。未來的開發重心將轉向對逐字稿的二次加工。
 
 ### 1.1 核心設計原則
+(保持不變...)
 
-1. **Reliability First** - 斷電不丟失進度是最高優先級
-2. **Simplicity** - 不做過度設計，單線程序列處理
-3. **Observable** - 用戶隨時知道「現在在幹嘛」「還要等多久」
-4. **Maintainable** - 模組化、可測試、文檔完整
+### 1.2 當前開發重心：內容加工流水線 (Content Factory)
+本專案已進入「內容運營」階段。開發焦點為將生成的 Markdown 逐字稿轉化為多平台內容。
+- **參考文檔：** `docs/CONTENT_FACTORY_PIPELINE.md`
+- **設計目標：** 透過 AI 進行智能評分、摘要、並產出適合 Threads, Blog, Shorts 等平台的文案。
+- **開發規範：** 內容加工功能應作為**獨立模組**開發，透過呼叫現有 output 目錄進行操作，不與核心 Pipeline 強耦合。
 
 ### 1.2 V2 相較 V1 的關鍵改進
 
@@ -166,6 +168,12 @@ youtube-transcriber/
 
 **驗收標準**: 測試覆蓋率 > 80%，可 pip 安裝
 
+### Phase 4: 內容工廠流水線 (進行中)
+- 實作「智能評分員」Prompt (評分與篩選)
+- 實作「多維度創作」Prompt (Threads, Blog, Shorts)
+- 實作「執行編輯」Prompt (品質檢核與去 AI 化)
+- 建立獨立的內容加工執行腳本 (獨立模組)
+
 ---
 
 ## 6. 預期使用的建置與測試命令
@@ -312,28 +320,21 @@ channels:
 
 ## 12. 當前狀態
 
-⚠️ **注意**: 本專案目前處於**設計階段**，只有文件，尚未實作原始碼。
+✅ **核心下載與轉錄引擎已實作完成**。
 
-### 已完成的設計
-- [x] 系統架構設計
-- [x] Pipeline 設計
-- [x] 資料庫 Schema 設計
-- [x] 錯誤處理策略
-- [x] 狀態管理設計
-- [x] 進度追蹤設計
-- [x] 開發路線圖
+### 已完成的設計與實作
+- [x] 系統架構設計與 Pipeline 實作
+- [x] StateManager (SQLite) 與狀態管理
+- [x] 錯誤處理策略與 RetryEngine
+- [x] ProgressTracker (Rich UI)
+- [x] 多種 Whisper Backend 支援
+- [x] CLI 介面實作
 
-### 待實作項目
-- [ ] 專案結構與 `pyproject.toml`
-- [ ] 配置管理模組
-- [ ] StateManager (SQLite)
-- [ ] Pipeline Orchestrator
-- [ ] 各 Stage 實作
-- [ ] RetryEngine
-- [ ] ProgressTracker
-- [ ] Whisper Backend 抽象
-- [ ] CLI 介面
-- [ ] 測試套件
+### 待實作項目 (內容加工模組)
+- [ ] 智能評分與摘要模組
+- [ ] 多平台創作 Prompt 範本
+- [ ] 品質檢核與去 AI 化流程
+- [ ] 獨立的內容加工執行腳本
 
 ---
 

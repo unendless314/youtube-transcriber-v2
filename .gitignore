@@ -43,7 +43,6 @@ htmlcov/
 .nox/
 
 # Project specific
-output/
 temp/
 *.db
 *.db-journal

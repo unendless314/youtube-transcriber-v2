@@ -20,8 +20,66 @@ global:
   cookies_from_browser: null  # 自動從瀏覽器取得 cookies: chrome/firefox/safari/edge
 
 # 頻道列表
+# category 欄位（可選）：定義頻道內容分類，用於內容篩選分析
+# 對應 prompts/scout/ 目錄下的評分標準檔案
+categories:
+  - crypto: 加密貨幣分析
+  - macro_finance: 宏觀金融、貴金屬、外匯
+  - spiritual_growth: 靈性成長、能量更新
+  - remote_viewing: 遙視預測
+  - ufo_disclosure: UFO 揭秘、神秘學
+  - tech_career: 職涯發展、技術趨勢
+
 channels:
+  # 範例頻道
   - name: "範例頻道"
     url: "https://www.youtube.com/@example"
     language: "zh"         # 可選，覆寫全域設定
     max_duration: 120      # 可選，覆寫全域設定
+    # category: "crypto"   # 可選，用於內容篩選分析
+
+  # Crypto 加密貨幣
+  - name: "Benjamin Cowen"
+    url: "https://www.youtube.com/@intothecryptoverse/videos"
+    language: "en"
+    category: "crypto"
+    
+  - name: "Coin Bureau"
+    url: "https://www.youtube.com/@CoinBureau/videos"
+    language: "en"
+    category: "crypto"
+
+  # Macro Finance 宏觀金融
+  - name: "Just Dario"
+    url: "https://www.youtube.com/@TheRealJustDario"
+    language: "en"
+    category: "macro_finance"
+    
+  - name: "Trade Talk"
+    url: "https://www.youtube.com/@tradetalk1/videos"
+    language: "en"
+    category: "macro_finance"
+
+  # Spiritual Growth 靈性成長
+  - name: "Paul Selig"
+    url: "https://www.youtube.com/@PaulSelig"
+    language: "en"
+    category: "spiritual_growth"
+
+  # Tech Career 職涯與技術
+  - name: "Asian Dad Energy"
+    url: "https://www.youtube.com/@AsianDadEnergy"
+    language: "en"
+    category: "tech_career"
+
+  # Remote Viewing 遙視預測
+  - name: "Farsight"
+    url: "https://www.youtube.com/@Farsight/videos"
+    language: "en"
+    category: "remote_viewing"
+
+  # UFO Disclosure 神秘學與 UFO
+  - name: "Richard Dolan Intelligent Disclosure"
+    url: "https://www.youtube.com/@RichardMDolan"
+    language: "en"
+    category: "ufo_disclosure"

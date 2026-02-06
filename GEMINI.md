@@ -63,6 +63,11 @@ pip install -e ".[openai-whisper,dev]"
 - All video processing states must be recorded in the SQLite database to ensure "resume-from-failure" capability (breakpoint resume).
 - Use `StateManager` to query or update status rather than direct SQL if possible.
 
+## Future Development & Content Operations
+- **Content Factory Pipeline:** A new strategic direction has been established to transform raw transcripts into multi-platform content (Threads, Blogs, Shorts, etc.).
+- **Architecture:** This is designed as a **standalone module** to be called after the transcription pipeline, ensuring that testing and iteration of content processing do not affect the core downloading/transcription engine.
+- **Reference:** See `docs/CONTENT_FACTORY_PIPELINE.md` for the detailed architectural plan and funnel-based filtering mechanism.
+
 ### Error Handling
 - Never catch-all `Exception` without re-raising or classifying it via `ErrorClassifier`.
 - Errors should be categorized into `NETWORK`, `RATE_LIMIT`, `RESOURCE`, `VIDEO`, or `SYSTEM` to trigger the appropriate retry strategy.
