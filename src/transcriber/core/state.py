@@ -299,6 +299,16 @@ class StateManager:
                 conn.rollback()
                 raise
     
+    def mark_skipped(self, video_id: str, reason: str = "") -> None:
+        """標記影片為已跳過（例如會員專屬、私人影片等預期無法處理的內容）.
+        
+        Args:
+            video_id: YouTube 影片 ID
+            reason: 跳過原因（例如 "members_only", "private", "unavailable"）
+        """
+        self.mark_status(video_id, VideoStatus.SKIPPED, error_message=reason)
+        logger.info("marked_skipped", video_id=video_id, reason=reason)
+    
     def get_pending_videos(self, channel_name: str | None = None) -> list[VideoState]:
         """取得等待處理的影片列表.
         

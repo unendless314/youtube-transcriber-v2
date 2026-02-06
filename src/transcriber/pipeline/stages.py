@@ -162,6 +162,16 @@ class DownloadStage(Stage):
             error_msg = e.stderr if e.stderr else str(e)
             self.logger.error("yt_dlp_cli_error", error=error_msg)
             
+            # 檢查是否為會員專屬影片（預期無法處理，標記為 SKIPPED）
+            error_lower = error_msg.lower()
+            if any(kw in error_lower for kw in ["members only", "members-only", "channel's members", "membership"]):
+                self.logger.info("members_only_video_detected", video_id=context.video_id)
+                self.state.mark_skipped(context.video_id, reason="members_only")
+                raise DownloadError(
+                    "會員專屬影片，已標記為跳過",
+                    category=ErrorCategory.VIDEO
+                )
+            
             # 解析錯誤類型，恢復精確的錯誤分類
             category = self._classify_ytdlp_error(error_msg)
             raise DownloadError(f"yt-dlp 執行失敗: {error_msg}", category=category)
