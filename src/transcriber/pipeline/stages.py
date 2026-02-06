@@ -4,14 +4,12 @@ import json
 import random
 import re
 import subprocess
-import sys
 import time
 from abc import ABC, abstractmethod
 from pathlib import Path
 from typing import Any
 
 import structlog
-from rich.console import Console
 
 from transcriber.config.models import Config
 from transcriber.core.errors import DownloadError, ErrorCategory, TranscribeError
@@ -48,10 +46,6 @@ class Stage(ABC):
 class DownloadStage(Stage):
     """下載 Stage - 使用系統安裝的 yt-dlp 執行檔."""
     
-    def __init__(self, config: Config, state_manager: StateManager) -> None:
-        super().__init__(config, state_manager)
-        self._console = Console(file=sys.stderr)  # 輸出到 stderr 避免干擾進度條
-    
     @property
     def name(self) -> str:
         return "download"
@@ -65,26 +59,33 @@ class DownloadStage(Stage):
                 return True
         return False
     
-    def _show_delay_progress(self, delay: float, video_id: str) -> None:
-        """顯示延遲等待進度，讓 AI Agent 知道程序正常運作中."""
+    def _show_delay_progress(self, delay: float, video_id: str, channel_name: str) -> None:
+        """顯示延遲等待進度，讓 AI Agent 知道程序正常運作中.
+        
+        注意：這個函數會直接輸出到 stdout，不與 Rich Progress 競爭。
+        輸出格式設計為適合 AI Agent 解析。
+        """
         delay_int = int(delay)
-        self._console.print(
-            f"[yellow]⏳ 等待 {delay_int} 秒以避免觸發 YouTube 反爬蟲機制...[/yellow] "
-            f"([blue]video_id={video_id}[/blue])"
+        
+        # 使用 print 而非 Rich Console，避免被 Progress 條覆蓋
+        # 格式：[RATE_LIMIT] 等待 XX 秒 | 頻道名稱 | video_id
+        print(
+            f"\n[RATE_LIMIT] 等待 {delay_int} 秒避免 YouTube 反爬蟲 | "
+            f"頻道: {channel_name} | video: {video_id}",
+            flush=True
         )
         
-        # 每 10 秒輸出一個進度點，減少輸出頻率但保持活動指示
-        for remaining in range(delay_int, 0, -10):
-            if remaining >= 10:
-                time.sleep(10)
-                self._console.print(f"[dim]   ...還剩 {remaining - 10} 秒[/dim]")
+        # 每 15 秒輸出一個進度點
+        elapsed = 0
+        while elapsed < delay_int:
+            sleep_time = min(15, delay_int - elapsed)
+            time.sleep(sleep_time)
+            elapsed += sleep_time
+            remaining = delay_int - elapsed
+            if remaining > 0:
+                print(f"  ...還剩 {remaining} 秒", flush=True)
         
-        # 等待剩餘時間
-        remaining = delay - (delay_int - (delay_int % 10))
-        if remaining > 0:
-            time.sleep(remaining)
-        
-        self._console.print("[green]   ✓ 等待完成，開始下載[/green]")
+        print(f"  ✓ 等待完成，開始下載 {video_id}\n", flush=True)
     
     def execute(self, context: ProcessingContext) -> ProcessingContext:
         """下載影片音訊."""
@@ -95,7 +96,7 @@ class DownloadStage(Stage):
         # 只在「真的要下載」時延遲（已下載的影片會被 should_skip 跳過）
         delay = random.uniform(30, 90)  # 30-90 秒隨機延遲
         self.logger.info("rate_limit_delay", seconds=round(delay, 1), video_id=context.video_id)
-        self._show_delay_progress(delay, context.video_id)
+        self._show_delay_progress(delay, context.video_id, context.channel_name)
         # ============================================
         
         temp_dir = self.config.output.temp_dir
