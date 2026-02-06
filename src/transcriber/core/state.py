@@ -51,13 +51,13 @@ class StateManager:
     4. 事務保證資料完整性
     """
     
-    def __init__(self, db_path: Path, max_records: int = 100, max_age_days: int = 7) -> None:
+    def __init__(self, db_path: Path, max_records: int = 10000, max_age_days: int = 30) -> None:
         """初始化狀態管理器.
         
         Args:
             db_path: SQLite 資料庫路徑
-            max_records: 最大保留記錄數
-            max_age_days: 最大保留天數
+            max_records: 最大保留記錄數（預設 10000，約可保留 3 個月每日 100 部的量）
+            max_age_days: 最大保留天數（預設 30 天）
         """
         self.db_path = db_path.resolve()
         self.max_records = max_records
