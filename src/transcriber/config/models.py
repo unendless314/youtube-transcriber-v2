@@ -25,13 +25,22 @@ class WhisperConfig(BaseModel):
         default="openai",
         description="Whisper 實現後端",
     )
-    model: Literal["tiny", "base", "small", "medium", "large", "large-v3"] = Field(
+    model: str = Field(
         default="medium",
-        description="Whisper 模型大小",
+        description="Whisper 模型名稱或路徑",
     )
     language: str = Field(
         default="auto",
         description="語言代碼 (auto 表示自動偵測)",
+    )
+    # whisper.cpp 專屬設定
+    cpp_bin: Path | None = Field(
+        default=None,
+        description="whisper.cpp 執行檔路徑 (例如 whisper-cli)",
+    )
+    model_path: Path | None = Field(
+        default=None,
+        description="whisper.cpp 模型檔案路徑 (.bin)",
     )
 
     @field_validator("language")

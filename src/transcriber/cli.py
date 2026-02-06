@@ -1,5 +1,7 @@
-"""CLI 入口."""
+"""CLI 入口 - 已改為使用 yt-dlp CLI 掃描頻道."""
 
+import json
+import subprocess
 import sys
 from pathlib import Path
 
@@ -67,47 +69,50 @@ def get_channel_videos(
     max_videos: int,
     cookies_file: Path | None,
 ) -> list[dict]:
-    """取得頻道的影片列表."""
-    import yt_dlp
-    
+    """取得頻道的影片列表 (透過 yt-dlp CLI)."""
     url = channel_config["url"]
     
-    ydl_opts = {
-        "quiet": True,
-        "no_warnings": True,
-        "extract_flat": True,
-        "playlistend": max_videos,
-    }
+    # 準備 yt-dlp 指令
+    cmd = [
+        "yt-dlp",
+        "--quiet",
+        "--no-warnings",
+        "--flat-playlist",
+        "--dump-json",
+        "--playlist-end", str(max_videos),
+        url
+    ]
     
     if cookies_file:
-        ydl_opts["cookiefile"] = str(cookies_file)
+        cmd.extend(["--cookiefile", str(cookies_file)])
     
     try:
-        with yt_dlp.YoutubeDL(ydl_opts) as ydl:
-            info = ydl.extract_info(url, download=False)
+        # 執行並獲取 JSON 輸出
+        result = subprocess.run(cmd, capture_output=True, text=True, check=True)
+        
+        # yt-dlp 在 dump-json 時，如果是播放清單/頻道，會每行輸出一個 entry 的 JSON
+        videos = []
+        for line in result.stdout.strip().split('\n'):
+            if not line:
+                continue
+            entry = json.loads(line)
             
-            if not info or "entries" not in info:
-                logger.warning("no_videos_found", channel=channel_config["name"], url=url)
-                return []
+            video_id = entry.get("id") or extract_video_id(entry.get("url", ""))
+            video_url = entry.get("url") or f"https://www.youtube.com/watch?v={video_id}"
             
-            videos = []
-            for entry in info["entries"]:
-                if not entry:
-                    continue
-                
-                video_id = entry.get("id") or extract_video_id(entry.get("url", ""))
-                video_url = entry.get("url") or f"https://www.youtube.com/watch?v={video_id}"
-                
-                videos.append({
-                    "video_id": video_id,
-                    "title": entry.get("title", "Unknown"),
-                    "url": video_url,
-                })
+            videos.append({
+                "video_id": video_id,
+                "title": entry.get("title", "Unknown"),
+                "url": video_url,
+            })
+        
+        return videos
             
-            return videos
-            
+    except subprocess.CalledProcessError as e:
+        logger.error("failed_to_fetch_channel_cli", channel=channel_config["name"], error=e.stderr)
+        return []
     except Exception as e:
-        logger.error("failed_to_fetch_channel", channel=channel_config["name"], error=str(e))
+        logger.error("failed_to_fetch_channel_unexpected", channel=channel_config["name"], error=str(e))
         return []
 
 

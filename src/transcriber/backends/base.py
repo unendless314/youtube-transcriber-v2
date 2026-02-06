@@ -89,6 +89,8 @@ class BackendFactory:
         backend: str,
         model: str,
         language: str | None = None,
+        cpp_bin: Path | None = None,
+        model_path: Path | None = None,
     ) -> WhisperBackend:
         """創建 Whisper 後端.
         
@@ -96,6 +98,8 @@ class BackendFactory:
             backend: 後端類型（"openai", "cpp", "faster-whisper"）
             model: 模型名稱
             language: 語言代碼
+            cpp_bin: whisper.cpp 執行檔路徑
+            model_path: whisper.cpp 模型路徑
             
         Returns:
             WhisperBackend 實例
@@ -110,7 +114,7 @@ class BackendFactory:
         
         elif backend == "cpp":
             from transcriber.backends.whisper_cpp import WhisperCppBackend
-            return WhisperCppBackend(model, language)
+            return WhisperCppBackend(model, language, cpp_bin=cpp_bin, model_path=model_path)
         
         elif backend == "faster-whisper":
             from transcriber.backends.faster_whisper import FasterWhisperBackend
