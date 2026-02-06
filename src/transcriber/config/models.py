@@ -74,7 +74,11 @@ class GlobalConfig(BaseModel):
     )
     cookies_file: Path | None = Field(
         default=None,
-        description="YouTube cookies 檔案路徑（用於會員專屬內容）",
+        description="YouTube cookies 檔案路徑（用於會員專屬內容，與 cookies_from_browser 二選一）",
+    )
+    cookies_from_browser: Literal["chrome", "firefox", "safari", "edge"] | None = Field(
+        default=None,
+        description="自動從瀏覽器取得 cookies（chrome/firefox/safari/edge）",
     )
 
     @field_validator("cookies_file")

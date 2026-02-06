@@ -74,6 +74,10 @@ class DownloadStage(Stage):
             if self.config.global_config.cookies_file:
                 info_cmd.extend(["--cookiefile", str(self.config.global_config.cookies_file)])
             
+            # 加入瀏覽器 cookies（如果設定）
+            if self.config.global_config.cookies_from_browser:
+                info_cmd.extend(["--cookies-from-browser", self.config.global_config.cookies_from_browser])
+            
             self.logger.debug("fetching_video_info", command=" ".join(info_cmd))
             info_result = subprocess.run(info_cmd, capture_output=True, text=True, check=True)
             info = json.loads(info_result.stdout)
@@ -102,6 +106,8 @@ class DownloadStage(Stage):
             ]
             if self.config.global_config.cookies_file:
                 download_cmd.extend(["--cookiefile", str(self.config.global_config.cookies_file)])
+            elif self.config.global_config.cookies_from_browser:
+                download_cmd.extend(["--cookies-from-browser", self.config.global_config.cookies_from_browser])
             
             self.logger.info("starting_download_process", video_id=context.video_id)
             subprocess.run(download_cmd, capture_output=True, check=True)
@@ -137,6 +143,16 @@ class DownloadStage(Stage):
     def _classify_ytdlp_error(self, error_msg: str) -> ErrorCategory:
         """根據 yt-dlp 錯誤訊息分類錯誤類型."""
         error_lower = error_msg.lower()
+        
+        # YouTube 反爬蟲 / 需要登入
+        bot_keywords = [
+            "sign in to confirm you're not a bot",
+            "sign in to confirm",
+            "not a bot",
+            "unable to extract uploader id"
+        ]
+        if any(kw in error_lower for kw in bot_keywords):
+            return ErrorCategory.VIDEO  # 歸類為影片問題，但實際需要 cookies
         
         # 影片相關錯誤
         video_keywords = [

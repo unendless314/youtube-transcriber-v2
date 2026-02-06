@@ -68,6 +68,7 @@ def get_channel_videos(
     channel_config: dict,
     max_videos: int,
     cookies_file: Path | None,
+    cookies_from_browser: str | None = None,
 ) -> list[dict]:
     """取得頻道的影片列表 (透過 yt-dlp CLI)."""
     url = channel_config["url"]
@@ -85,6 +86,8 @@ def get_channel_videos(
     
     if cookies_file:
         cmd.extend(["--cookiefile", str(cookies_file)])
+    elif cookies_from_browser:
+        cmd.extend(["--cookies-from-browser", cookies_from_browser])
     
     try:
         # 執行並獲取 JSON 輸出
@@ -247,6 +250,7 @@ def main(
                 channel_dict,
                 app_config.global_config.max_videos_check,
                 app_config.global_config.cookies_file,
+                app_config.global_config.cookies_from_browser,
             )
             
             if videos:

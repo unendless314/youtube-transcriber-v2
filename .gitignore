@@ -50,6 +50,11 @@ temp/
 *.log
 channels.yaml
 
+# Cookies and sensitive files (DO NOT COMMIT)
+youtube_cookies.txt
+*.cookies.txt
+cookies.txt
+
 # OS
 .DS_Store
 Thumbs.db

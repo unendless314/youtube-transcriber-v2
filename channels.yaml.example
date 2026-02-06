@@ -16,7 +16,8 @@ whisper:
 global:
   max_videos_check: 5      # 每個頻道檢查最新 N 部影片
   max_duration: 90         # 最大影片長度（分鐘）
-  cookies_file: null       # YouTube cookies 檔案路徑（用於會員專屬內容）
+  cookies_file: null       # YouTube cookies 檔案路徑（與 cookies_from_browser 二選一）
+  cookies_from_browser: null  # 自動從瀏覽器取得 cookies: chrome/firefox/safari/edge
 
 # 頻道列表
 channels:
