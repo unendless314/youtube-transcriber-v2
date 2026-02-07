@@ -47,7 +47,6 @@ temp/
 *.db
 *.db-journal
 *.log
-channels.yaml
 
 # Cookies and sensitive files (DO NOT COMMIT)
 youtube_cookies.txt
