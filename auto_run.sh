@@ -5,8 +5,9 @@
 # =================================================================
 
 # 1. 進入專案目錄
-PROJECT_DIR="/Users/linchunchiao/Documents/GitHub/youtube-transcriber-v2"
-cd "$PROJECT_DIR" || exit
+cd "$(dirname "$0")" || exit
+PROJECT_DIR="$(pwd)"
+export PYTHONPATH="$PYTHONPATH:$PROJECT_DIR/src"
 
 echo "--- [$(date +'%Y-%m-%d %H:%M:%S')] 啟動自動化任務 ---"
 

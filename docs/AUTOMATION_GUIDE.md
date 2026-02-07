@@ -47,7 +47,8 @@ rm ~/Library/LaunchAgents/com.user.yt_sync.plist
 ```
 
 ## 注意事項
-- **權限**：本機必須先執行過 `gh auth login` 並確保 `git fetch --dry-run` 無需輸入密碼。
+- **權限與路徑**：**強烈建議不要將專案放在 `~/Documents`, `~/Desktop` 或 `~/Downloads` 中**。macOS 的安全性機制 (TCC) 會阻擋 `launchd` 自動存取這些目錄，導致 `Operation not permitted` 錯誤。建議放在 `~/GitHub/` 或 `~/youtube-transcriber-v2/`。
+- **Git 權限**：本機必須先執行過 `gh auth login` 並確保 `git fetch --dry-run` 無需輸入密碼。
 - **休眠**：腳本已包含 `caffeinate` 指令，轉錄期間會自動阻止系統進入休眠。
 - **頻率**：預設為每日凌晨 03:00 執行。
 

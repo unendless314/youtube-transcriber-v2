@@ -7,7 +7,7 @@
     <key>ProgramArguments</key>
     <array>
         <string>/bin/bash</string>
-        <string>/Users/linchunchiao/Documents/GitHub/youtube-transcriber-v2/auto_run.sh</string>
+        <string>/Users/linchunchiao/Automation/youtube-transcriber-v2/auto_run.sh</string>
     </array>
     <key>StartCalendarInterval</key>
     <dict>
