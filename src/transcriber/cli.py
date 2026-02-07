@@ -307,14 +307,14 @@ def main(
                     
                     # 檢查是否已處理（數據庫狀態）
                     if state_manager.is_processed(video_id):
-                        progress.update_video(title, "skipped")
+                        progress.update_video(title, "cached")
                         logger.info("video_already_processed_db", video_id=video_id)
                         continue
                     
                     # 檢查輸出檔案是否已存在（防止數據庫遺失導致重複處理）
                     output_dir = app_config.output.base_dir
                     if _check_output_exists(output_dir, video_id):
-                        progress.update_video(title, "skipped")
+                        progress.update_video(title, "cached")
                         logger.info("video_already_processed_file", video_id=video_id, output_dir=str(output_dir))
                         # 標記為已完成，避免下次再檢查
                         state_manager.mark_completed(video_id, "")

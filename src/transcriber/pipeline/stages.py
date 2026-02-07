@@ -12,7 +12,7 @@ from typing import Any
 import structlog
 
 from transcriber.config.models import Config
-from transcriber.core.errors import DownloadError, ErrorCategory, TranscribeError
+from transcriber.core.errors import DownloadError, ErrorCategory, TranscribeError, TranscriberError
 from transcriber.core.state import StateManager, VideoStatus
 from transcriber.pipeline.context import ProcessingContext
 
@@ -175,6 +175,9 @@ class DownloadStage(Stage):
             # 解析錯誤類型，恢復精確的錯誤分類
             category = self._classify_ytdlp_error(error_msg)
             raise DownloadError(f"yt-dlp 執行失敗: {error_msg}", category=category)
+        except TranscriberError:
+            # 已經正確分類的錯誤（如時長過長），直接向上拋出不再重新包裝
+            raise
         except Exception as e:
             self.logger.error("download_unexpected_error", error=str(e))
             raise DownloadError(f"下載過程發生未知錯誤: {e}", category=ErrorCategory.UNKNOWN)

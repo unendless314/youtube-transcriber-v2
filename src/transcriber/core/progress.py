@@ -30,11 +30,13 @@ class ChannelProgress:
     completed: int = 0
     failed: int = 0
     skipped: int = 0
+    cached: int = 0  # 已存在（之前處理過）
     current_video: str = ""
     
     @property
     def processed(self) -> int:
-        return self.completed + self.failed + self.skipped
+        # 已存在也要計入 processed，讓進度條能正確前進
+        return self.completed + self.failed + self.skipped + self.cached
     
     @property
     def pending(self) -> int:
@@ -42,9 +44,11 @@ class ChannelProgress:
     
     @property
     def success_rate(self) -> float:
-        if self.processed == 0:
+        # 成功率只計算本次實際處理的（排除已存在和跳過）
+        actual_processed = self.completed + self.failed
+        if actual_processed == 0:
             return 0.0
-        return self.completed / self.processed
+        return self.completed / actual_processed
 
 
 @dataclass
@@ -63,9 +67,9 @@ class OverallProgress:
         self,
         channel_name: str,
         video_title: str,
-        status: str,  # "completed", "failed", "skipped"
+        status: str,  # "completed", "failed", "skipped", "cached"
     ) -> None:
-        """更新影片狀態."""
+        """更新影片狀態. 狀態值: completed(成功), failed(失敗), skipped(跳過), cached(已存在)"""
         if channel_name not in self.channels:
             return
         
@@ -78,6 +82,8 @@ class OverallProgress:
             ch.failed += 1
         elif status == "skipped":
             ch.skipped += 1
+        elif status == "cached":
+            ch.cached += 1
     
     @property
     def total_videos(self) -> int:
@@ -98,6 +104,10 @@ class OverallProgress:
     @property
     def total_skipped(self) -> int:
         return sum(ch.skipped for ch in self.channels.values())
+    
+    @property
+    def total_cached(self) -> int:
+        return sum(ch.cached for ch in self.channels.values())
     
     @property
     def overall_progress(self) -> float:
@@ -232,7 +242,12 @@ class ProgressTracker:
         
         Args:
             video_title: 影片標題
-            status: 狀態（"processing", "completed", "failed", "skipped"）
+            status: 狀態（"processing", "completed", "failed", "skipped", "cached"）
+                  - processing: 處理中
+                  - completed: 成功完成
+                  - failed: 處理失敗
+                  - skipped: 跳過（會員專屬/私人影片等）
+                  - cached: 已存在（之前已處理過）
             message: 額外訊息
         """
         self._overall.update_video(self._current_channel, video_title, status)
@@ -273,6 +288,7 @@ class ProgressTracker:
         table.add_column("總數", justify="right")
         table.add_column("成功", justify="right", style="green")
         table.add_column("失敗", justify="right", style="red")
+        table.add_column("已存在", justify="right", style="dim")
         table.add_column("跳過", justify="right", style="yellow")
         table.add_column("成功率", justify="right")
         
@@ -282,18 +298,25 @@ class ProgressTracker:
                 str(ch.total),
                 str(ch.completed),
                 str(ch.failed),
+                str(ch.cached),
                 str(ch.skipped),
                 f"{ch.success_rate:.1%}",
             )
         
         # 總計行
+        actual_total_processed = self._overall.total_completed + self._overall.total_failed
+        overall_success_rate = (
+            self._overall.total_completed / actual_total_processed
+            if actual_total_processed > 0 else 0.0
+        )
         table.add_row(
             "[bold]總計",
             str(self._overall.total_videos),
             str(self._overall.total_completed),
             str(self._overall.total_failed),
+            str(self._overall.total_cached),
             str(self._overall.total_skipped),
-            f"{self._overall.total_completed / max(self._overall.total_processed, 1):.1%}",
+            f"{overall_success_rate:.1%}",
             style="bold",
         )
         
