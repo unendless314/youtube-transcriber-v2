@@ -210,7 +210,8 @@ class DownloadStage(Stage):
             "video unavailable", "content unavailable", "deleted",
             "copyright", "blocked", "age-restricted", "age restricted",
             "not available", "does not exist", "couldn't find",
-            "unable to extract", "unsupported url"
+            "unable to extract", "unsupported url", "premieres in",
+            "upcoming", "live stream"
         ]
         if any(kw in error_lower for kw in video_keywords):
             return ErrorCategory.VIDEO
