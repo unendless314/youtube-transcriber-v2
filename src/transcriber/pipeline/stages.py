@@ -121,7 +121,7 @@ class DownloadStage(Stage):
             
             duration = info.get("duration", 0)
             context.duration = duration
-            context.published_at = info.get("upload_date", "")
+            context.published_at = self._format_upload_date(info.get("upload_date", ""))
             
             # 2. 檢查時長限制
             max_duration = self._get_max_duration(context.channel_name)
@@ -189,6 +189,18 @@ class DownloadStage(Stage):
             if ch.name == channel_name and ch.max_duration is not None:
                 return ch.max_duration
         return self.config.global_config.max_duration
+    
+    def _format_upload_date(self, upload_date: str) -> str:
+        """將 yt-dlp 的 upload_date (YYYYMMDD) 轉換為 ISO 8601 格式 (YYYY-MM-DD)."""
+        if not upload_date or len(upload_date) != 8:
+            return upload_date
+        try:
+            year = upload_date[:4]
+            month = upload_date[4:6]
+            day = upload_date[6:8]
+            return f"{year}-{month}-{day}"
+        except (IndexError, ValueError):
+            return upload_date
     
     def _classify_ytdlp_error(self, error_msg: str) -> ErrorCategory:
         """根據 yt-dlp 錯誤訊息分類錯誤類型."""
@@ -348,7 +360,12 @@ class SaveStage(Stage):
         channel_name = self._sanitize_filename(context.channel_name)
         year_month = "unknown"
         if context.published_at:
-            if len(context.published_at) >= 6:
+            # 支持 ISO 格式 (YYYY-MM-DD) 和舊格式 (YYYYMMDD)
+            if len(context.published_at) >= 10 and context.published_at[4] == '-':
+                # ISO 格式: 2026-02-05
+                year_month = context.published_at[:7]
+            elif len(context.published_at) >= 6:
+                # 舊格式: 20260205
                 year_month = f"{context.published_at[:4]}-{context.published_at[4:6]}"
         
         title_slug = self._sanitize_filename(context.title)[:50]
