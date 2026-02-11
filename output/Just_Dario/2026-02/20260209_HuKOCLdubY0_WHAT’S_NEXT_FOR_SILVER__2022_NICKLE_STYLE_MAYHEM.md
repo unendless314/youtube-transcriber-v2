@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "HuKOCLdubY0"
 title: "WHAT’S NEXT FOR SILVER? 2022 NICKLE STYLE MAYHEM"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "13:09"
 word_count: 11228
 ---

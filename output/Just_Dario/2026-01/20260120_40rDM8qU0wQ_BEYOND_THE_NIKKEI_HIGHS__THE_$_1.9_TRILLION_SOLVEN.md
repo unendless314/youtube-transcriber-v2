@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "40rDM8qU0wQ"
 title: "BEYOND THE NIKKEI HIGHS: THE $ 1.9 TRILLION SOLVENCY CRISIS CRIPPLING JAPAN"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "10:38"
 word_count: 8399
 ---

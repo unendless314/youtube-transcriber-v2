@@ -2,7 +2,7 @@
 channel: "Bankless"
 video_id: "c81Ddx3-Q-E"
 title: "Vitalik Signals the End of the Rollup-Centric Roadmap: What's Next?"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "52:55"
 word_count: 53956
 ---

@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "72Y9eJQ5DZs"
 title: "The Beauty Within Reality - Paul Selig (Channeled Teaching 2024)"
-published_at: "20241122"
+published_at: "2024-11-22"
 duration: "0:59"
 word_count: 1060
 ---

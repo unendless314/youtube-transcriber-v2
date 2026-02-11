@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "q3wZIslfRxg"
 title: "MH370 Thermal Signatures Prove Fusion Reactors"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "18:05"
 word_count: 19898
 ---

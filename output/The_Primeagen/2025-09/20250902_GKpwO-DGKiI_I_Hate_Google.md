@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "GKpwO-DGKiI"
 title: "I Hate Google"
-published_at: "20250902"
+published_at: "2025-09-02"
 duration: "0:29"
 word_count: 402
 ---

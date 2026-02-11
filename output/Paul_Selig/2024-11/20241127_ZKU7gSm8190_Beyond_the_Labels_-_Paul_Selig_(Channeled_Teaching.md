@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "ZKU7gSm8190"
 title: "Beyond the Labels - Paul Selig (Channeled Teaching 2024)"
-published_at: "20241127"
+published_at: "2024-11-27"
 duration: "0:50"
 word_count: 950
 ---

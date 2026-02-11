@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "YmQ0Gir1nXc"
 title: "A Shifting Reality - Paul Selig (Channeled Teaching 2024)"
-published_at: "20241119"
+published_at: "2024-11-19"
 duration: "0:30"
 word_count: 524
 ---

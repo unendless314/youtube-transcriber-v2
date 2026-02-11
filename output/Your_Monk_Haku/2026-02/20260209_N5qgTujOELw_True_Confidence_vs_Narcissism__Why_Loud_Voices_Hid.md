@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "N5qgTujOELw"
 title: "True Confidence vs Narcissism: Why Loud Voices Hide Weakness"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:10"
 word_count: 989
 ---

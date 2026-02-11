@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "OGuGB9EyMjo"
 title: "The Worst Crypto Collapse Ever [What Really Happened]"
-published_at: "20260131"
+published_at: "2026-01-31"
 duration: "22:27"
 word_count: 19877
 ---

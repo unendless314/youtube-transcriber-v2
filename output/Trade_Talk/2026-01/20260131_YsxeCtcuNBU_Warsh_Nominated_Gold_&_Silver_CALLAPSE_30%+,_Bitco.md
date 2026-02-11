@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "YsxeCtcuNBU"
 title: "Warsh Nominated   Gold & Silver CALLAPSE 30%+, Bitcoin Breaks DOWN!"
-published_at: "20260131"
+published_at: "2026-01-31"
 duration: "4:20"
 word_count: 3874
 ---

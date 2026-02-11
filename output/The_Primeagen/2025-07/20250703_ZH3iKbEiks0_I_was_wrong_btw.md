@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "ZH3iKbEiks0"
 title: "I was wrong btw"
-published_at: "20250703"
+published_at: "2025-07-03"
 duration: "17:59"
 word_count: 19273
 ---

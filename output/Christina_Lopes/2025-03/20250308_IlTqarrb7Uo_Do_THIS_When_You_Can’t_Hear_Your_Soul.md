@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "IlTqarrb7Uo"
 title: "Do THIS When You Can’t Hear Your Soul."
-published_at: "20250308"
+published_at: "2025-03-08"
 duration: "1:01:57"
 word_count: 53359
 ---

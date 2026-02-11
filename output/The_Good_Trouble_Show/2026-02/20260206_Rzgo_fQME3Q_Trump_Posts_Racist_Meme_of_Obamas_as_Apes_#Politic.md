@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "Rzgo_fQME3Q"
 title: "Trump Posts Racist Meme of Obamas as Apes #Politics #News #Shorts"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "2:18"
 word_count: 2060
 ---

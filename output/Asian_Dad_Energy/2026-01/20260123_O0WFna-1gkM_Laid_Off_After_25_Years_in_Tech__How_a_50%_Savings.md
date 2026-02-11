@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "O0WFna-1gkM"
 title: "Laid Off After 25 Years in Tech: How a 50% Savings Rate Made It Stress-Free"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "17:24"
 word_count: 14328
 ---

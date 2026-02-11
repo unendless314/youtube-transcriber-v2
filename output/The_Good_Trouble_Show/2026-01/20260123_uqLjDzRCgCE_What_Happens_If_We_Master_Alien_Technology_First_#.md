@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "uqLjDzRCgCE"
 title: "What Happens If We Master Alien Technology First #shorts #nhi #scifi"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "1:21"
 word_count: 1252
 ---

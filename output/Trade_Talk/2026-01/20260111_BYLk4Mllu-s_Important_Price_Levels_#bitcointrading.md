@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "BYLk4Mllu-s"
 title: "Important Price Levels #bitcointrading"
-published_at: "20260111"
+published_at: "2026-01-11"
 duration: "2:57"
 word_count: 3192
 ---

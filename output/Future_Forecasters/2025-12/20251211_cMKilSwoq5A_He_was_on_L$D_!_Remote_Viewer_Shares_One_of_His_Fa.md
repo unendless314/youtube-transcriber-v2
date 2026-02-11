@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "cMKilSwoq5A"
 title: "He was on L$D?! Remote Viewer Shares One of His Favorite Remote Viewings"
-published_at: "20251211"
+published_at: "2025-12-11"
 duration: "0:45"
 word_count: 454
 ---

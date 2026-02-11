@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "DWy2GxiFCgs"
 title: "2024 Energy Upgrade For Lightworkers"
-published_at: "20240127"
+published_at: "2024-01-27"
 duration: "1:18:15"
 word_count: 67963
 ---

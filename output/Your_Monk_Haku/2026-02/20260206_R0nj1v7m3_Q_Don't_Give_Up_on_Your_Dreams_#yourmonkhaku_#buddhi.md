@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "R0nj1v7m3_Q"
 title: "Don't Give Up on Your Dreams #yourmonkhaku #buddhism #motivation #mindfulness #meditation #quotes"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "0:45"
 word_count: 688
 ---

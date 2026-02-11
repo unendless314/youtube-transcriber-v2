@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "8_QEivLsqUE"
 title: "Whistleblowers: Heroes Facing Huge Personal Risks"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:42"
 word_count: 1734
 ---

@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "-oIsG-xu5iI"
 title: "Remember when the news actually informed you?"
-published_at: "20240808"
+published_at: "2024-08-08"
 duration: "0:57"
 word_count: 912
 ---

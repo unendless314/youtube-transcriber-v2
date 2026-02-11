@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "C2CNYxZ1FZU"
 title: "A Hawkish Surprise Just Changed Everything… Did the Debasement Trade End?"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "35:15"
 word_count: 27240
 ---

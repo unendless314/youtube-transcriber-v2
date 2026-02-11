@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "zongVc-1iew"
 title: "The Secret Language of Narcissists"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:12"
 word_count: 1070
 ---

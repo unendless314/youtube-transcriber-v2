@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "eiSuOfkywfM"
 title: "Elite Trading Strategies for Bitcoin & Ethereum"
-published_at: "20240310"
+published_at: "2024-03-10"
 duration: "45:26"
 word_count: 40842
 ---

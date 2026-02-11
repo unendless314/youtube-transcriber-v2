@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "-UwXoF3UmVE"
 title: "The Epstein Files Just Exposed Bitcoin's Darkest Secret"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "22:10"
 word_count: 20361
 ---

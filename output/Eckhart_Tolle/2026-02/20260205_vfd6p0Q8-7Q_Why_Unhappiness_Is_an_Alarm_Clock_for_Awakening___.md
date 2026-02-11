@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "vfd6p0Q8-7Q"
 title: "Why Unhappiness Is an Alarm Clock for Awakening | Eckhart Tolle"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:09"
 word_count: 765
 ---

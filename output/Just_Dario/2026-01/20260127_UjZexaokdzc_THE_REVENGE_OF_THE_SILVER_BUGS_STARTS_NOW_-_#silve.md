@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "UjZexaokdzc"
 title: "THE REVENGE OF THE SILVER BUGS STARTS NOW - #silver #investing #trading"
-published_at: "20260127"
+published_at: "2026-01-27"
 duration: "2:15"
 word_count: 2293
 ---

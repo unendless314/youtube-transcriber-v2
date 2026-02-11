@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "Fq5dZohuVcI"
 title: "What Will The New Fed Chairman Do?"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "5:47"
 word_count: 4753
 ---

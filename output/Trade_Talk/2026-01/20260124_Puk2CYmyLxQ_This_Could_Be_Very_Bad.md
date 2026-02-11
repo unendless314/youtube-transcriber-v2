@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "Puk2CYmyLxQ"
 title: "This Could Be Very Bad"
-published_at: "20260124"
+published_at: "2026-01-24"
 duration: "5:20"
 word_count: 4753
 ---

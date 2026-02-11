@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "V4owaV3cMfo"
 title: "OWN PHYSICAL GOLD AND SILVER #silver #investing"
-published_at: "20260113"
+published_at: "2026-01-13"
 duration: "1:06"
 word_count: 1217
 ---

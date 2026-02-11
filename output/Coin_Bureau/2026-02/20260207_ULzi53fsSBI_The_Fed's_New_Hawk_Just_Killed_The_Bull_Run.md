@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "ULzi53fsSBI"
 title: "The Fed's New Hawk Just Killed The Bull Run"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "14:08"
 word_count: 14064
 ---

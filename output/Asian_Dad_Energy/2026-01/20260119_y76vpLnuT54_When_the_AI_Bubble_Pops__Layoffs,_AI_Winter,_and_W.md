@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "y76vpLnuT54"
 title: "When the AI Bubble Pops: Layoffs, AI Winter, and What Comes Next"
-published_at: "20260119"
+published_at: "2026-01-19"
 duration: "14:50"
 word_count: 12795
 ---

@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "oVRgazhQcDo"
 title: "Not All Triggers Are the Same (3 Levels Everyone Misses)"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "24:55"
 word_count: 23992
 ---

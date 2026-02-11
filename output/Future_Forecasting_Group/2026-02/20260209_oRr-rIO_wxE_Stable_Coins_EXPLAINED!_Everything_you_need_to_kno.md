@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "oRr-rIO_wxE"
 title: "Stable Coins EXPLAINED! Everything you need to know (2026)"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "50:42"
 word_count: 53268
 ---

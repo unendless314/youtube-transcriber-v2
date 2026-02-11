@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "D9E2RnnUTaU"
 title: "Are your thoughts weakening your aura?"
-published_at: "20230929"
+published_at: "2023-09-29"
 duration: "0:56"
 word_count: 1022
 ---

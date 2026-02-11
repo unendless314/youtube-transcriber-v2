@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "JqwrSTwtf1M"
 title: "2026 Annual Energy Forecast: The Year of Energetic Re-Organization | Lee Harris"
-published_at: "20260111"
+published_at: "2026-01-11"
 duration: "1:10:58"
 word_count: 59750
 ---

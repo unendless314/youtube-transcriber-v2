@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "z3bC-241xRY"
 title: "Bitcoin Cycle Update: Something Big Is Shifting"
-published_at: "20260129"
+published_at: "2026-01-29"
 duration: "42:41"
 word_count: 33453
 ---

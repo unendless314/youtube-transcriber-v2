@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "DGtncPRQXdY"
 title: "Baal vs Yam - Trailer"
-published_at: "20260122"
+published_at: "2026-01-22"
 duration: "2:17"
 word_count: 122
 ---

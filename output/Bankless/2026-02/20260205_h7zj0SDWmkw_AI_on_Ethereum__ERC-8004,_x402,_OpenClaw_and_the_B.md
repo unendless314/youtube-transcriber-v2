@@ -2,7 +2,7 @@
 channel: "Bankless"
 video_id: "h7zj0SDWmkw"
 title: "AI on Ethereum: ERC-8004, x402, OpenClaw and the Botconomy"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:37:18"
 word_count: 97688
 ---

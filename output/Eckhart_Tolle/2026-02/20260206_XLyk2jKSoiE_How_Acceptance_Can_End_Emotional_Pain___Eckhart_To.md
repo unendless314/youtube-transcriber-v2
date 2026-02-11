@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "XLyk2jKSoiE"
 title: "How Acceptance Can End Emotional Pain | Eckhart Tolle"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "9:19"
 word_count: 5152
 ---

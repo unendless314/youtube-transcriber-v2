@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "vNx0A-yWsBg"
 title: "Rebirth - Paul Selig (Channeled Teaching 2025)"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "10:44"
 word_count: 8655
 ---

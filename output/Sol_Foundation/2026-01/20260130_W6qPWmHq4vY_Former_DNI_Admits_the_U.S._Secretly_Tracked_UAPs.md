@@ -2,7 +2,7 @@
 channel: "Sol Foundation"
 video_id: "W6qPWmHq4vY"
 title: "Former DNI Admits the U.S. Secretly Tracked UAPs"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "10:40"
 word_count: 8533
 ---

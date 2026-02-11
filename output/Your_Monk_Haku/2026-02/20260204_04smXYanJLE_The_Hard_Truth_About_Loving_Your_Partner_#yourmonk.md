@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "04smXYanJLE"
 title: "The Hard Truth About Loving Your Partner #yourmonkhaku #buddhism #motivation #mindfulness #shorts"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "1:33"
 word_count: 1274
 ---

@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "-rWNkgdaYZI"
 title: "The 30-second fix for #AI on mobile"
-published_at: "20251002"
+published_at: "2025-10-02"
 duration: "0:42"
 word_count: 714
 ---

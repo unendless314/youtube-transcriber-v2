@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "l0gZrlwPXgM"
 title: "Humanity's 4th Stage: Transhumanism, Surveillance, and UBI!"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:04"
 word_count: 727
 ---

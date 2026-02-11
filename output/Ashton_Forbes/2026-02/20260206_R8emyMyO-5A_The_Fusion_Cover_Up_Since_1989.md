@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "R8emyMyO-5A"
 title: "The Fusion Cover Up Since 1989"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "1:23"
 word_count: 1277
 ---

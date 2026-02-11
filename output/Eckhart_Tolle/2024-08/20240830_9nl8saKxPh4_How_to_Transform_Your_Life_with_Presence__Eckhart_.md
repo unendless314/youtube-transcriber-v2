@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "9nl8saKxPh4"
 title: "How to Transform Your Life with Presence: Eckhart Tolle's Live Teaching"
-published_at: "20240830"
+published_at: "2024-08-30"
 duration: "1:08:35"
 word_count: 36646
 ---

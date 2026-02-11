@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "I_Na27xxCOM"
 title: "Surviving the 2009 Tech Layoffs: All-Nighters, Broken Open Source & Impostor Syndrome"
-published_at: "20260128"
+published_at: "2026-01-28"
 duration: "13:42"
 word_count: 11359
 ---

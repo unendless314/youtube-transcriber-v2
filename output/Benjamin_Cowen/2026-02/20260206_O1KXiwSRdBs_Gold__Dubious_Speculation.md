@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "O1KXiwSRdBs"
 title: "Gold: Dubious Speculation"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "16:23"
 word_count: 12767
 ---

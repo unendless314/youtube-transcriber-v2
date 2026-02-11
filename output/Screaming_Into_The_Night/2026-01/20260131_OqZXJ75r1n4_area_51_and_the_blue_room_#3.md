@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "OqZXJ75r1n4"
 title: "area 51 and the blue room #3"
-published_at: "20260131"
+published_at: "2026-01-31"
 duration: "24:21"
 word_count: 11888
 ---

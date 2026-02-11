@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "5ptKRBPe7jE"
 title: "Reclaiming Your Life After a Breakup"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:21"
 word_count: 1090
 ---

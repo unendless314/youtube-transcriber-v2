@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "wGidfTI6RRg"
 title: "Awakening Presence in Times of Adversity, with Eckhart Tolle"
-published_at: "20250507"
+published_at: "2025-05-07"
 duration: "1:17:55"
 word_count: 48880
 ---

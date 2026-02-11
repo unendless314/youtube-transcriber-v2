@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "G3cv0RL4riw"
 title: "Spanish YouTube Channel Launch"
-published_at: "20260122"
+published_at: "2026-01-22"
 duration: "5:47"
 word_count: 4856
 ---

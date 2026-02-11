@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "w7D2g30nB4A"
 title: "UAP Detection and Tracking Summit"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "0:49"
 word_count: 648
 ---

@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "z1VM4vHc__4"
 title: "Bitcoin Crash Continues"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "23:48"
 word_count: 19665
 ---

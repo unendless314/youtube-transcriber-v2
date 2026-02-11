@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "k27zqJymrIc"
 title: "They Don’t Teach This in FAANG: How We Saved Prod at 3AM #bigtech #programming #developerlife"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:24"
 word_count: 1152
 ---

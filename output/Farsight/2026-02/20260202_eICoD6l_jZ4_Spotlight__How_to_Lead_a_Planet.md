@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "eICoD6l_jZ4"
 title: "Spotlight: How to Lead a Planet"
-published_at: "20260202"
+published_at: "2026-02-02"
 duration: "1:06:10"
 word_count: 48146
 ---

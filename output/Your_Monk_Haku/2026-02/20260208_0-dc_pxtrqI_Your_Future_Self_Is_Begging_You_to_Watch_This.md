@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "0-dc_pxtrqI"
 title: "Your Future Self Is Begging You to Watch This"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "7:40"
 word_count: 7547
 ---

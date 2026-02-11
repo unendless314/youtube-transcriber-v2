@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "utraeJ9s0ks"
 title: "How to End Unhappiness Right Now | Eckhart Tolle"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "10:10"
 word_count: 6124
 ---

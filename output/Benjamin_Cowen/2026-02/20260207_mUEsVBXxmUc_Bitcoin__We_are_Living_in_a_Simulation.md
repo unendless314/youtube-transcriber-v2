@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "mUEsVBXxmUc"
 title: "Bitcoin: We are Living in a Simulation"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "25:49"
 word_count: 22557
 ---

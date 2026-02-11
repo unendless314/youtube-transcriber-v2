@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "ZTRxoRs3VM8"
 title: "Silver Drops 38%"
-published_at: "20260131"
+published_at: "2026-01-31"
 duration: "25:11"
 word_count: 20956
 ---

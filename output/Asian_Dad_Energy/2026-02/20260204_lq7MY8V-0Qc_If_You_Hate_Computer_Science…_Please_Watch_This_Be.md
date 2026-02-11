@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "lq7MY8V-0Qc"
 title: "If You Hate Computer Science… Please Watch This Before It’s Too Late  #developer #computerscience"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "0:51"
 word_count: 569
 ---

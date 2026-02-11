@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "lua_Imp_bcE"
 title: "DO THIS when you feel overwhelmed"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:23"
 word_count: 1233
 ---

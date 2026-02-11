@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "luAPSo6191Q"
 title: "BULLION EXCHANGES PROBLEM: THE PRICE OF SILVER IS TOO LOW"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "12:15"
 word_count: 10974
 ---

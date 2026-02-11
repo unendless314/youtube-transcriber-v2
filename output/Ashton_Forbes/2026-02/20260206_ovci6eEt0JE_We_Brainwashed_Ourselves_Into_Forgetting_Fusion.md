@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "ovci6eEt0JE"
 title: "We Brainwashed Ourselves Into Forgetting Fusion"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "14:50"
 word_count: 16850
 ---

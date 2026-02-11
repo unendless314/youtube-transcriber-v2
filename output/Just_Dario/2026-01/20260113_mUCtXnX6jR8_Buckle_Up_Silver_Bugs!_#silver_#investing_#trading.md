@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "mUCtXnX6jR8"
 title: "Buckle Up Silver Bugs! #silver #investing #trading"
-published_at: "20260113"
+published_at: "2026-01-13"
 duration: "2:34"
 word_count: 2271
 ---

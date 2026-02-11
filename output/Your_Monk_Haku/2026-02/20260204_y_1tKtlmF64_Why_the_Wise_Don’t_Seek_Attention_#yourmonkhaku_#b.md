@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "y_1tKtlmF64"
 title: "Why the Wise Don’t Seek Attention #yourmonkhaku #buddhism #motivation #mindfulness #meditation"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "1:23"
 word_count: 1131
 ---

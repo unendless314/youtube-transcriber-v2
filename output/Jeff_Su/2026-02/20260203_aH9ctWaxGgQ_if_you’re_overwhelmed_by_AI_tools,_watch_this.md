@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "aH9ctWaxGgQ"
 title: "if you’re overwhelmed by AI tools, watch this"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "13:34"
 word_count: 15087
 ---

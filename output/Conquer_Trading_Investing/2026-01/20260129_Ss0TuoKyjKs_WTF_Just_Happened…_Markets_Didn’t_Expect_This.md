@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "Ss0TuoKyjKs"
 title: "WTF Just Happened… Markets Didn’t Expect This"
-published_at: "20260129"
+published_at: "2026-01-29"
 duration: "44:07"
 word_count: 33112
 ---

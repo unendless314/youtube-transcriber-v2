@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "QH1dXwPWgj4"
 title: "Why Is Everyone Talking About Gold and Silver Prices?"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "21:51"
 word_count: 18536
 ---

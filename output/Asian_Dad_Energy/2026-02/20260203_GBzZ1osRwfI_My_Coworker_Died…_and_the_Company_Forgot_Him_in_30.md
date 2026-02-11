@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "GBzZ1osRwfI"
 title: "My Coworker Died… and the Company Forgot Him in 30 Days  #bigtech #layoffs #worklife #developer"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "0:53"
 word_count: 535
 ---

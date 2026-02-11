@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "hC17v2qhd9I"
 title: "You Won't Be a Life Raft for Everyone 🫂 #energyupdate #leeharrisenergy #nervoussystem"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "1:00"
 word_count: 995
 ---

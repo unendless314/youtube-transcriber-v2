@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "JFjuGKRJk-Y"
 title: "Air Force Base UFO Sighting They Tried to Ignore"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "1:11"
 word_count: 1235
 ---

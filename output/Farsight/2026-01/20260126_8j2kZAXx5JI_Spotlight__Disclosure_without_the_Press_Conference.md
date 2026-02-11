@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "8j2kZAXx5JI"
 title: "Spotlight: Disclosure without the Press Conference"
-published_at: "20260126"
+published_at: "2026-01-26"
 duration: "50:16"
 word_count: 37053
 ---

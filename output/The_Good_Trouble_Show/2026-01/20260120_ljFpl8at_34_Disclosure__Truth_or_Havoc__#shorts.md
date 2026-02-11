@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "ljFpl8at_34"
 title: "Disclosure: Truth or Havoc? #shorts"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "0:59"
 word_count: 935
 ---

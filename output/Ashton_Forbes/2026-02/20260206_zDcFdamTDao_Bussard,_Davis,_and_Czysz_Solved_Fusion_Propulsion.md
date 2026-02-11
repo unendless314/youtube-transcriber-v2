@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "zDcFdamTDao"
 title: "Bussard, Davis, and Czysz Solved Fusion Propulsion"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "20:00"
 word_count: 18413
 ---

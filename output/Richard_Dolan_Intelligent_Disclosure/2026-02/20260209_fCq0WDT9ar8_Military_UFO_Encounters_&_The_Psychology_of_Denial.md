@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "fCq0WDT9ar8"
 title: "Military UFO Encounters & The Psychology of Denial (2019 Members)"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "18:10"
 word_count: 16269
 ---

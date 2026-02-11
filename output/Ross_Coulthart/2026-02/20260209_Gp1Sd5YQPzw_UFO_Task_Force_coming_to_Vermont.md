@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "Gp1Sd5YQPzw"
 title: "UFO Task Force coming to Vermont?"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "17:40"
 word_count: 16388
 ---

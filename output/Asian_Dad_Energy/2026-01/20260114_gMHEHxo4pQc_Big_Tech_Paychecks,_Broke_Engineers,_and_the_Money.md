@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "gMHEHxo4pQc"
 title: "Big Tech Paychecks, Broke Engineers, and the Money Black Holes"
-published_at: "20260114"
+published_at: "2026-01-14"
 duration: "11:36"
 word_count: 10167
 ---

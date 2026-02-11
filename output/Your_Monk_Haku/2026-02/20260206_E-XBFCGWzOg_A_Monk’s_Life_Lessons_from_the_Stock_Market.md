@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "E-XBFCGWzOg"
 title: "A Monk’s Life Lessons from the Stock Market"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "20:26"
 word_count: 19900
 ---

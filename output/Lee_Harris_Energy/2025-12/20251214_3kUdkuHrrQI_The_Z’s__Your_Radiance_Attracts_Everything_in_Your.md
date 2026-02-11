@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "3kUdkuHrrQI"
 title: "The Z’s: Your Radiance Attracts Everything in Your Life"
-published_at: "20251214"
+published_at: "2025-12-14"
 duration: "5:51"
 word_count: 5057
 ---

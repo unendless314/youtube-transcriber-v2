@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "bGV-wTZN-FA"
 title: "2026 January Energy Update | Lee Harris"
-published_at: "20251231"
+published_at: "2025-12-31"
 duration: "34:32"
 word_count: 30885
 ---

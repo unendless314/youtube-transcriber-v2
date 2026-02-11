@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "nl5OQmgLn2Q"
 title: "UFO Disclosure Needs Cultural Shift: It's Happening NOW!"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:25"
 word_count: 1461
 ---

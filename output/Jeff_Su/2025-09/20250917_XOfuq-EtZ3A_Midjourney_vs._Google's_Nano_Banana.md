@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "XOfuq-EtZ3A"
 title: "Midjourney vs. Google's Nano Banana"
-published_at: "20250917"
+published_at: "2025-09-17"
 duration: "0:35"
 word_count: 626
 ---

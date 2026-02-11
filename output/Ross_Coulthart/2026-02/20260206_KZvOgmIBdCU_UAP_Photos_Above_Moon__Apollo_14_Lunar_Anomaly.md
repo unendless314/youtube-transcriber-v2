@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "KZvOgmIBdCU"
 title: "UAP Photos Above Moon: Apollo 14 Lunar Anomaly"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "0:55"
 word_count: 696
 ---

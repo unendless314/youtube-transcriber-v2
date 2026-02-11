@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "RQthWuqll50"
 title: "True Confidence Doesn't Need to Compete"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:04"
 word_count: 894
 ---

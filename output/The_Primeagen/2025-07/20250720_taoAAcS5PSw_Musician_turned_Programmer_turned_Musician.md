@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "taoAAcS5PSw"
 title: "Musician turned Programmer turned Musician"
-published_at: "20250720"
+published_at: "2025-07-20"
 duration: "8:15"
 word_count: 6949
 ---

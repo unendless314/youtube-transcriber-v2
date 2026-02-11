@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "tSq5Uw8DmHI"
 title: "Spotlight: Epstein Disclosures and Governance Decay"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:14:36"
 word_count: 52821
 ---

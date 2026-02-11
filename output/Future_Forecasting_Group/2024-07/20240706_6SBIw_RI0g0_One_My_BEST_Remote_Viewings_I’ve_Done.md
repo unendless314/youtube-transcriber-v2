@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "6SBIw_RI0g0"
 title: "One My BEST Remote Viewings I’ve Done"
-published_at: "20240706"
+published_at: "2024-07-06"
 duration: "0:38"
 word_count: 720
 ---

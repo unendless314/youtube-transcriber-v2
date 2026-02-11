@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "GqJQ2ssV5bk"
 title: "arv j20  lx arv 90831      gonna try this again  2/7/26"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "25:00"
 word_count: 23600
 ---

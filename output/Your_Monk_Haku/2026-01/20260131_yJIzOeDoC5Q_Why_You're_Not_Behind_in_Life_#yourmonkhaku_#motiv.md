@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "yJIzOeDoC5Q"
 title: "Why You're Not Behind in Life #yourmonkhaku #motivation #purposedrivenlife #lifejourney #lifeadvice"
-published_at: "20260131"
+published_at: "2026-01-31"
 duration: "27:13"
 word_count: 27338
 ---

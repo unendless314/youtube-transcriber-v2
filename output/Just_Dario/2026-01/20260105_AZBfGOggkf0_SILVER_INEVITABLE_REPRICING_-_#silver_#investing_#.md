@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "AZBfGOggkf0"
 title: "SILVER INEVITABLE REPRICING - #silver #investing #trading"
-published_at: "20260105"
+published_at: "2026-01-05"
 duration: "2:25"
 word_count: 2354
 ---

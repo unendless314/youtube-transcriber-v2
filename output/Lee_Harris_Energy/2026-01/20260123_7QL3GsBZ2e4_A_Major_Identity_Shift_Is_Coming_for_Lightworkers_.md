@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "7QL3GsBZ2e4"
 title: "A Major Identity Shift Is Coming for Lightworkers (2026 Message)"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "10:15"
 word_count: 9452
 ---

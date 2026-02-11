@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "zSK2--SUdFA"
 title: "Why You Can't Focus (and how to fix it) #focus #WorkEthic #CreativeFlow #LifeHacks #successsecrets"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:33"
 word_count: 1270
 ---

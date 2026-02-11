@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "cPmYexV4Ljw"
 title: "Ross Coulthart: Lost Civilizations & Tridactyl Mystery"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:59"
 word_count: 1594
 ---

@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "bnpeIw_ADSM"
 title: "This Can Not be Happening"
-published_at: "20260117"
+published_at: "2026-01-17"
 duration: "7:08"
 word_count: 5820
 ---

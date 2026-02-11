@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "jlkFLId6u6k"
 title: "He Predicted 9/11? Remote Viewer Shares Unbelievable Story"
-published_at: "20251211"
+published_at: "2025-12-11"
 duration: "1:03"
 word_count: 1022
 ---

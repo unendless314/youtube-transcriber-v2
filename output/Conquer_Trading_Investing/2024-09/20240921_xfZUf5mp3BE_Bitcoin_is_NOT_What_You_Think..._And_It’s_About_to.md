@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "xfZUf5mp3BE"
 title: "Bitcoin is NOT What You Think... And It’s About to Shock Everyone!"
-published_at: "20240921"
+published_at: "2024-09-21"
 duration: "34:45"
 word_count: 28549
 ---

@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "ebaaqMIoQUc"
 title: "Bitcoin: The Beauty of Mathematics (Part 67)"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "6:11"
 word_count: 5317
 ---

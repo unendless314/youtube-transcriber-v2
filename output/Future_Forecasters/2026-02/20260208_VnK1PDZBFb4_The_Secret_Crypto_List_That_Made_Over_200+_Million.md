@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "VnK1PDZBFb4"
 title: "The Secret Crypto List That Made Over 200+ Millionaires Just Got UPGRADED"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "11:24"
 word_count: 9546
 ---

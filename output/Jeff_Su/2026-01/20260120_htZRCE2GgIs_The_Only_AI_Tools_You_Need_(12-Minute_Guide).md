@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "htZRCE2GgIs"
 title: "The Only AI Tools You Need (12-Minute Guide)"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "11:56"
 word_count: 13155
 ---

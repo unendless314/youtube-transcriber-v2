@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "A_GEOgvcR2A"
 title: "Age of Disclosure Documentary / Expert Panel Discussion (Part 2)"
-published_at: "20260115"
+published_at: "2026-01-15"
 duration: "1:05:04"
 word_count: 59134
 ---

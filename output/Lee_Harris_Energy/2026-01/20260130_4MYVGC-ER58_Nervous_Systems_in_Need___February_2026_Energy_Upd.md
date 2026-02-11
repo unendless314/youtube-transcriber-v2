@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "4MYVGC-ER58"
 title: "Nervous Systems in Need | February 2026 Energy Update - Lee Harris"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "36:27"
 word_count: 32948
 ---

@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "AQa-dv9DBI8"
 title: "Which Corporations Actually Have UFO Technology"
-published_at: "20260125"
+published_at: "2026-01-25"
 duration: "1:21"
 word_count: 1454
 ---

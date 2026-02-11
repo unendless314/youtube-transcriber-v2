@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "LDZTQAZ7wnY"
 title: "You Don’t Need Predictions to Win This Market"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "41:56"
 word_count: 32791
 ---

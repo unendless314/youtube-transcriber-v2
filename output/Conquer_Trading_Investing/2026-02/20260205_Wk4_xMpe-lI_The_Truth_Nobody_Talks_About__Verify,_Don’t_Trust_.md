@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "Wk4_xMpe-lI"
 title: "The Truth Nobody Talks About: Verify, Don’t Trust -- Power, Bitcoin, and Control"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "50:52"
 word_count: 39410
 ---

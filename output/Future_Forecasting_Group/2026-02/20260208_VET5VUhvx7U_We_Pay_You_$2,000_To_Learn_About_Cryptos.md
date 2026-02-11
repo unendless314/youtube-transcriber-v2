@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "VET5VUhvx7U"
 title: "We Pay You $2,000 To Learn About Cryptos"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "6:03"
 word_count: 5343
 ---

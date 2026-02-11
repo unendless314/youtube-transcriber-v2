@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "-30VBqHGk98"
 title: "Why 2026 Feels Like a Complete Rebirth #spirituality #transformation #energyupdate #leeharrisenergy"
-published_at: "20260121"
+published_at: "2026-01-21"
 duration: "0:54"
 word_count: 772
 ---

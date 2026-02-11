@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "fk5SRmkGzyY"
 title: "They Spent TRILLIONS on AI… and Couldn’t Make Money 😬💸  #bigtech #aibubble #layoffs #economiccrisis"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "0:28"
 word_count: 326
 ---

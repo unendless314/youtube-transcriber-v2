@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "M4GEqKlgQVg"
 title: "WHAT SHOULD I DO WITH MY BITCOIN???"
-published_at: "20251213"
+published_at: "2025-12-13"
 duration: "7:48"
 word_count: 7124
 ---

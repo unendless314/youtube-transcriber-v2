@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "BNKuKMYWthc"
 title: "Trump Claims Norway Controls Nobel Prize and He Deserves One For Each War"
-published_at: "20260122"
+published_at: "2026-01-22"
 duration: "4:26"
 word_count: 3787
 ---

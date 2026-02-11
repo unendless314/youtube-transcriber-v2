@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "tLLQoF2JjAg"
 title: "Prime picks one language (Challenge Level: Impossible)"
-published_at: "20250821"
+published_at: "2025-08-21"
 duration: "1:11"
 word_count: 971
 ---

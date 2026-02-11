@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "SPnOZSunqOA"
 title: "summer solstice 480272      2/9/26"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "37:48"
 word_count: 37059
 ---

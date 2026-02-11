@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "A_XGsAl-LqY"
 title: "the worst man in tech"
-published_at: "20241023"
+published_at: "2024-10-23"
 duration: "6:24"
 word_count: 6468
 ---

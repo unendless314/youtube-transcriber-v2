@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "UFcBvJnyoB0"
 title: "Japan's Shock: Was It Aliens or Advanced Tech?"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:14"
 word_count: 1038
 ---

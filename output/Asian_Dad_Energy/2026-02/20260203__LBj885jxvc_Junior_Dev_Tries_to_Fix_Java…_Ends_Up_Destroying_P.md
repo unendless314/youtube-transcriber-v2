@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "_LBj885jxvc"
 title: "Junior Dev Tries to Fix Java… Ends Up Destroying Packages 😱  #computerprogrammer #softwaredeveloper"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "1:00"
 word_count: 859
 ---

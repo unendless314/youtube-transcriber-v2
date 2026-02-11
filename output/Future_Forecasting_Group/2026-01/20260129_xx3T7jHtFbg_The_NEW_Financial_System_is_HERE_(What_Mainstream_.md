@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "xx3T7jHtFbg"
 title: "The NEW Financial System is HERE (What Mainstream ISN'T Telling You)"
-published_at: "20260129"
+published_at: "2026-01-29"
 duration: "1:00:11"
 word_count: 60170
 ---

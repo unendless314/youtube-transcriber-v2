@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "T48YhWgLCgA"
 title: "Has Everything Already Been Determined?"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "1:30"
 word_count: 1603
 ---

@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "Oz548ESnO9s"
 title: "Remote Viewing Report: February 2026 Could Mark a Turning Point"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "11:30"
 word_count: 10342
 ---

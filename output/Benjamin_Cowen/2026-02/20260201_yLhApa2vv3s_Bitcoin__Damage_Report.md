@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "yLhApa2vv3s"
 title: "Bitcoin: Damage Report"
-published_at: "20260201"
+published_at: "2026-02-01"
 duration: "31:15"
 word_count: 26911
 ---

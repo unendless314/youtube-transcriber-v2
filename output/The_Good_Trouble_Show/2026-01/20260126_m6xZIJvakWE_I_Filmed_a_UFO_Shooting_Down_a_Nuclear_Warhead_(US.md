@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "m6xZIJvakWE"
 title: "I Filmed a UFO Shooting Down a Nuclear Warhead (USAF Captain)"
-published_at: "20260126"
+published_at: "2026-01-26"
 duration: "1:45:02"
 word_count: 86703
 ---

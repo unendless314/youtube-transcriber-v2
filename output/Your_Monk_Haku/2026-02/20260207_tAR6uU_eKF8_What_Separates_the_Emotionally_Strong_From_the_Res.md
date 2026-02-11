@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "tAR6uU_eKF8"
 title: "What Separates the Emotionally Strong From the Rest #mentalstrength #spirituality #discipline"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:26"
 word_count: 1221
 ---

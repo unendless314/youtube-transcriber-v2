@@ -2,7 +2,7 @@
 channel: "Sol Foundation"
 video_id: "JtA-UykPA4E"
 title: "A New Pathway toward Disclosure with Admiral (ret.) Tim Gallaudet, PhD"
-published_at: "20260127"
+published_at: "2026-01-27"
 duration: "27:18"
 word_count: 24641
 ---

@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "G1YsYOSTfys"
 title: "Dormant Bitcoin Wakes After 14 Years – $8 6B Moved as Trump Extends Tariff Deadline Again"
-published_at: "20250706"
+published_at: "2025-07-06"
 duration: "15:39"
 word_count: 12433
 ---

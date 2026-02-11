@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "OPQ56qtmwZw"
 title: "Enough Pain for a Bottom - Or One More Flush Ahead?"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "31:05"
 word_count: 23238
 ---

@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "4sidYLNoqgE"
 title: "Watch this if you’re feeling overwhelmed today #yourmonkhaku #buddhism #motivation #mindfulness"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "0:59"
 word_count: 730
 ---

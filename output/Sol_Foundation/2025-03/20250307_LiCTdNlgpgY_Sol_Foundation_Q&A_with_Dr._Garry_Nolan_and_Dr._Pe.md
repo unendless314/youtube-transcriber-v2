@@ -2,7 +2,7 @@
 channel: "Sol Foundation"
 video_id: "LiCTdNlgpgY"
 title: "Sol Foundation Q&A with Dr. Garry Nolan and Dr. Peter Skafish + Special Announcement"
-published_at: "20250307"
+published_at: "2025-03-07"
 duration: "1:34:40"
 word_count: 79120
 ---

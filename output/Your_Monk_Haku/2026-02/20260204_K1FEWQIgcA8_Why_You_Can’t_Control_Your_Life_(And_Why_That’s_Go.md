@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "K1FEWQIgcA8"
 title: "Why You Can’t Control Your Life (And Why That’s Good) #yourmonkhaku #buddhism #motivation #success"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "0:42"
 word_count: 567
 ---

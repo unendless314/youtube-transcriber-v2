@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "eTV_VuuXbc4"
 title: "When You're Upset Remember This #healing #energyupdate #leeharrisenergy"
-published_at: "20260127"
+published_at: "2026-01-27"
 duration: "1:06"
 word_count: 995
 ---

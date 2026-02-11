@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "FDYXI1Z7kn0"
 title: "nancy guthrie / a live group view/"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:06:38"
 word_count: 35249
 ---

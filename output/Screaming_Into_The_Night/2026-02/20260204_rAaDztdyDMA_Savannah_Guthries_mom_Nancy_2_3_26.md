@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "rAaDztdyDMA"
 title: "Savannah Guthries mom/Nancy  2/3/26"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "39:30"
 word_count: 26266
 ---

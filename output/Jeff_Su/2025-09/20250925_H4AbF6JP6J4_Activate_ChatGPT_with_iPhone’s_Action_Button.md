@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "H4AbF6JP6J4"
 title: "Activate ChatGPT with iPhone’s Action Button"
-published_at: "20250925"
+published_at: "2025-09-25"
 duration: "0:49"
 word_count: 813
 ---

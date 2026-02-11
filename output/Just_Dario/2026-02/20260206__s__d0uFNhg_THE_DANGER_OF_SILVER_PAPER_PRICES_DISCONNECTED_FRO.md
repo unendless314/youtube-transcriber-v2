@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "_s__d0uFNhg"
 title: "THE DANGER OF SILVER PAPER PRICES DISCONNECTED FROM REALITY"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "10:18"
 word_count: 10156
 ---

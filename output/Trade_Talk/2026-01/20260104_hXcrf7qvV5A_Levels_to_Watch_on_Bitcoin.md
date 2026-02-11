@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "hXcrf7qvV5A"
 title: "Levels to Watch on Bitcoin"
-published_at: "20260104"
+published_at: "2026-01-04"
 duration: "5:00"
 word_count: 4291
 ---

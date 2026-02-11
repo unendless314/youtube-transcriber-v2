@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "-yeD7z8WM0I"
 title: "A Global Meditation With Eckhart Tolle"
-published_at: "20250314"
+published_at: "2025-03-14"
 duration: "1:03:13"
 word_count: 33742
 ---

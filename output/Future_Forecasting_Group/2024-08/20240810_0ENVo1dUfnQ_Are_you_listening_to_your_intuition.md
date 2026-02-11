@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "0ENVo1dUfnQ"
 title: "Are you listening to your intuition?"
-published_at: "20240810"
+published_at: "2024-08-10"
 duration: "0:51"
 word_count: 740
 ---

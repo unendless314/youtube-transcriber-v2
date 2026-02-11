@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "bN1FLSpLVXI"
 title: "Feel Better by Surrendering to Your True Feelings | Eckhart Tolle"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "0:47"
 word_count: 645
 ---

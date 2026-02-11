@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "E5VQ1nd-sIs"
 title: "25 Years in Tech, Now Laid Off: Honest Advice for Junior Engineers in a Brutal Job Market"
-published_at: "20260107"
+published_at: "2026-01-07"
 duration: "12:51"
 word_count: 10975
 ---

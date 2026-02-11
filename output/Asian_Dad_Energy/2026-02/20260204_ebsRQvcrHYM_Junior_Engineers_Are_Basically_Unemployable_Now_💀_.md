@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "ebsRQvcrHYM"
 title: "Junior Engineers Are Basically Unemployable Now 💀  #bigtech #juniorengineer #techjobs #unemployment"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "1:04"
 word_count: 936
 ---

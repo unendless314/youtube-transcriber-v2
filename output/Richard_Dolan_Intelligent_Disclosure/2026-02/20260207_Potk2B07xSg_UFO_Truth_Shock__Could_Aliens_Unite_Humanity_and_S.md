@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "Potk2B07xSg"
 title: "UFO Truth Shock: Could Aliens Unite Humanity and Spark Change?"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:12"
 word_count: 981
 ---

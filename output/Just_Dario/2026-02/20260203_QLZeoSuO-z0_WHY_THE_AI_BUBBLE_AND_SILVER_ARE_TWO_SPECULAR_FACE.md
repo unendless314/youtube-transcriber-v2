@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "QLZeoSuO-z0"
 title: "WHY THE AI BUBBLE AND SILVER ARE TWO SPECULAR FACES OF THE SAME BROKEN SYSTEM"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "16:56"
 word_count: 14612
 ---

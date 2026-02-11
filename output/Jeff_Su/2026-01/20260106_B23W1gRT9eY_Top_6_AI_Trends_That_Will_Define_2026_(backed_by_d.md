@@ -2,7 +2,7 @@
 channel: "Jeff Su"
 video_id: "B23W1gRT9eY"
 title: "Top 6 AI Trends That Will Define 2026 (backed by data)"
-published_at: "20260106"
+published_at: "2026-01-06"
 duration: "13:13"
 word_count: 14527
 ---

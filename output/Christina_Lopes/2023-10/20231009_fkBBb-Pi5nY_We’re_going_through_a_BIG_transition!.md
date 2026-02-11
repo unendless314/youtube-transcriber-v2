@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "fkBBb-Pi5nY"
 title: "We’re going through a BIG transition!"
-published_at: "20231009"
+published_at: "2023-10-09"
 duration: "0:58"
 word_count: 1004
 ---

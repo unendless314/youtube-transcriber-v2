@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "I-YJcCgPjYE"
 title: "This Single Choice Rewrites Your Life #yourmonkhaku #buddhistwisdom #lifechanging #mindfulness"
-published_at: "20260201"
+published_at: "2026-02-01"
 duration: "13:52"
 word_count: 13464
 ---

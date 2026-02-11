@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "IzWr45whlpA"
 title: "How to Navigate Life’s Challenges with a Zen Attitude #zen #lifeadvice #lifelessons #buddhistwisdom"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "8:43"
 word_count: 8048
 ---

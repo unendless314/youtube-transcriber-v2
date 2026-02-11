@@ -2,7 +2,7 @@
 channel: "Bankless"
 video_id: "KDcZMIIIFEo"
 title: "New Fed Chair, Gold, Silver & Crypto Tank! Where Will Markets Go From Here?"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "59:33"
 word_count: 58047
 ---

@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "Gm-8ljQjGw8"
 title: "Reclaim Your Inner Knowing (Live Channel from ARISE)"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "8:21"
 word_count: 6065
 ---

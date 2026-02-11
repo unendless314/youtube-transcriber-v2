@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "IOnVtbi5ha0"
 title: "Adaptive Optics Proves the Reference Frame Concept"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:28"
 word_count: 1416
 ---

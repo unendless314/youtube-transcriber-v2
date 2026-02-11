@@ -2,7 +2,7 @@
 channel: "Bankless"
 video_id: "ltjwSDtQe_4"
 title: "Why Everything Broke at Once (Crypto, Tech, Gold) & What Happens Next..."
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "1:04:39"
 word_count: 66176
 ---

@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "4ffRB_Bi6sA"
 title: "The ONE Truth At The Heart Of Every Spiritual Awakening"
-published_at: "20251202"
+published_at: "2025-12-02"
 duration: "8:50"
 word_count: 9052
 ---

@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "cHFSn6dXFk8"
 title: "Smoke Visible Before It Disappeared"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:20"
 word_count: 1389
 ---

@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "Pvxm2iaQXL0"
 title: "A One-Minute Guide to Morning Stillness #MorningMindset #InnerPeace #MorningRoutine"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "1:28"
 word_count: 1220
 ---

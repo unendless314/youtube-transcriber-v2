@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "Yqh7gB9Zeyw"
 title: "Here’s the secret to being inflation-proof (what most won’t tell you)"
-published_at: "20240805"
+published_at: "2024-08-05"
 duration: "0:50"
 word_count: 699
 ---

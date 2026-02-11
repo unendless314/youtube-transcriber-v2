@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "Shaz3HL3cGM"
 title: "NASDAQ Bubble? Dot Com Days? Market Crash Incoming?"
-published_at: "20250725"
+published_at: "2025-07-25"
 duration: "17:07"
 word_count: 14171
 ---

@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "AesfJp_fIz8"
 title: "arv /j20   2/7/26   round 2"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "8:54"
 word_count: 4470
 ---

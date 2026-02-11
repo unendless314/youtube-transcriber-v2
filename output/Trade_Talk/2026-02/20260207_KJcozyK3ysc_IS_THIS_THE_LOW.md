@@ -2,7 +2,7 @@
 channel: "Trade Talk"
 video_id: "KJcozyK3ysc"
 title: "IS THIS THE LOW"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "6:45"
 word_count: 5767
 ---

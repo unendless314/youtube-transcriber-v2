@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "O9hoiZZj6ew"
 title: "Farsight Spotlight: Baal vs Yam, and Middle East Conflicts"
-published_at: "20260119"
+published_at: "2026-01-19"
 duration: "48:32"
 word_count: 38143
 ---

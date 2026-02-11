@@ -2,7 +2,7 @@
 channel: "Real Vision"
 video_id: "Wdk5veN1D1c"
 title: "Pyth Network: The Bloomberg of Crypto? ft. Mike Cahill"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "18:14"
 word_count: 17688
 ---

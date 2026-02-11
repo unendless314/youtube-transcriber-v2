@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "3Vnuyj1vbG4"
 title: "Hiking Saved My Week #motivation #meditation #yourmonkhaku"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:25"
 word_count: 1246
 ---

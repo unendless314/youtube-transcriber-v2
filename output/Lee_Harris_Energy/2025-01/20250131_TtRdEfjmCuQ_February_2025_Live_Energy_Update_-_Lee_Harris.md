@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "TtRdEfjmCuQ"
 title: "February 2025 Live Energy Update - Lee Harris"
-published_at: "20250131"
+published_at: "2025-01-31"
 duration: "41:49"
 word_count: 36846
 ---

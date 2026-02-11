@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "2nExBRezzp4"
 title: "3 Buddhist Secrets to Ending the Stress Loop"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:42"
 word_count: 1303
 ---

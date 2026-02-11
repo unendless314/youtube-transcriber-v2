@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "5zq6l54ALgI"
 title: "FRIDAY MARKET OVERVIEW! FFG Bullrun Bunker"
-published_at: "20260124"
+published_at: "2026-01-24"
 duration: "49:57"
 word_count: 53982
 ---

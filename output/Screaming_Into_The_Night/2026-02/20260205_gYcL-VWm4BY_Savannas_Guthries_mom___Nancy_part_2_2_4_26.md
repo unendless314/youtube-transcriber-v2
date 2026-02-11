@@ -2,7 +2,7 @@
 channel: "Screaming Into The Night"
 video_id: "gYcL-VWm4BY"
 title: "Savannas Guthries mom / Nancy  part 2   2/4/26"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "35:05"
 word_count: 24913
 ---

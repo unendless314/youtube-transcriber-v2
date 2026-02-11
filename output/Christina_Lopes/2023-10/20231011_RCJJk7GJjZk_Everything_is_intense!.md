@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "RCJJk7GJjZk"
 title: "Everything is intense!"
-published_at: "20231011"
+published_at: "2023-10-11"
 duration: "0:55"
 word_count: 958
 ---

@@ -2,7 +2,7 @@
 channel: "Real Vision"
 video_id: "z46MaGEGDBM"
 title: "We're "So Early Still" With Crypto ft. Yat Siu from Animoca Brands"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "24:53"
 word_count: 30651
 ---

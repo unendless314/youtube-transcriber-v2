@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "51svXfmQn1I"
 title: "You Better Listen To This About Your Crypto Taxes"
-published_at: "20260201"
+published_at: "2026-02-01"
 duration: "6:19"
 word_count: 4831
 ---

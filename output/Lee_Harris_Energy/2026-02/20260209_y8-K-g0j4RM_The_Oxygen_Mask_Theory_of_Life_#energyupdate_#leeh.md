@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "y8-K-g0j4RM"
 title: "The Oxygen Mask Theory of Life #energyupdate #leeharrisenergy #healing"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:04"
 word_count: 1020
 ---

@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "ytL6yabCEK4"
 title: "UFOs: Trump's Administration Could Reveal All?"
-published_at: "20260121"
+published_at: "2026-01-21"
 duration: "1:06"
 word_count: 1067
 ---

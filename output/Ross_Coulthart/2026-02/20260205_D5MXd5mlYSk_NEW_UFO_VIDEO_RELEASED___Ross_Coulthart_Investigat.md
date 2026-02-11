@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "D5MXd5mlYSk"
 title: "NEW UFO VIDEO RELEASED | Ross Coulthart Investigates"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "18:28"
 word_count: 15854
 ---

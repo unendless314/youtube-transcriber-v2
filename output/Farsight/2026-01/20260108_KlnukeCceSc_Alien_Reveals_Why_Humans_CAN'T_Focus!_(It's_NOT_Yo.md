@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "KlnukeCceSc"
 title: "Alien Reveals Why Humans CAN'T Focus! (It's NOT Your Fault) #shorts"
-published_at: "20260108"
+published_at: "2026-01-08"
 duration: "0:38"
 word_count: 519
 ---

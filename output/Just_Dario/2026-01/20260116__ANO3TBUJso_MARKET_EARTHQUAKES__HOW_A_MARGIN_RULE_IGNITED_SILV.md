@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "_ANO3TBUJso"
 title: "MARKET EARTHQUAKES: HOW A MARGIN RULE IGNITED SILVER & WHY JAPAN IS NEXT"
-published_at: "20260116"
+published_at: "2026-01-16"
 duration: "19:07"
 word_count: 18449
 ---

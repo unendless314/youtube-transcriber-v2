@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "5cJLxolvJyA"
 title: "The UAP Threat Narrative: A Calculated Strategy or Real Danger?"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "25:42"
 word_count: 21090
 ---

@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "UFa2hY6Iyjw"
 title: "The Government's Story Just Collapsed"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "11:08"
 word_count: 8837
 ---

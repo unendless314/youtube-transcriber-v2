@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "Lr8XIVKerS4"
 title: "Lonnie Zamora's Alien Encounter - Richard and Tracey Dolan"
-published_at: "20260130"
+published_at: "2026-01-30"
 duration: "12:48"
 word_count: 11012
 ---

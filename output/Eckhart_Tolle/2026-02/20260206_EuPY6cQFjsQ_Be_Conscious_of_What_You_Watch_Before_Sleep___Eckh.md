@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "EuPY6cQFjsQ"
 title: "Be Conscious of What You Watch Before Sleep | Eckhart Tolle"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "0:51"
 word_count: 592
 ---

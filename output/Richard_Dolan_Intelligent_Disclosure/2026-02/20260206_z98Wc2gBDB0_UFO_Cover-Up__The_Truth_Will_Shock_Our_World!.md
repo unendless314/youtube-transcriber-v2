@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "z98Wc2gBDB0"
 title: "UFO Cover-Up: The Truth Will Shock Our World!"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "1:21"
 word_count: 751
 ---

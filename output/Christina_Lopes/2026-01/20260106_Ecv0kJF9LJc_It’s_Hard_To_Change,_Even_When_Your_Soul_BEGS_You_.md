@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "Ecv0kJF9LJc"
 title: "It’s Hard To Change, Even When Your Soul BEGS You To"
-published_at: "20260106"
+published_at: "2026-01-06"
 duration: "17:02"
 word_count: 17476
 ---

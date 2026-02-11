@@ -2,7 +2,7 @@
 channel: "Farsight"
 video_id: "t1rO1PhlzlI"
 title: "Farsight Spotlight: Anatomy of a Revolution"
-published_at: "20260112"
+published_at: "2026-01-12"
 duration: "37:41"
 word_count: 30150
 ---

@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "Ynsz552nmSs"
 title: "JEROME POWELL'S POINTLESS FIGHT FOR HIS LEGACY"
-published_at: "20260127"
+published_at: "2026-01-27"
 duration: "8:00"
 word_count: 6702
 ---

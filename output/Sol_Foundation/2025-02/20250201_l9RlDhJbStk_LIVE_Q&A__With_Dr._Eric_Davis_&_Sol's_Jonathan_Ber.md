@@ -2,7 +2,7 @@
 channel: "Sol Foundation"
 video_id: "l9RlDhJbStk"
 title: "LIVE Q&A: With Dr. Eric Davis & Sol's Jonathan Berte moderated by Dr. Peter Skafish"
-published_at: "20250201"
+published_at: "2025-02-01"
 duration: "1:26:55"
 word_count: 75926
 ---

@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "YjAThltd448"
 title: "How monks rewire their brain to appreciate everything #buddhism #mindset #meditation"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "1:34"
 word_count: 1252
 ---

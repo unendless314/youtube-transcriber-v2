@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "ZZNFVcbzUE4"
 title: "Welcome Back Home, Ethereum!"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "14:28"
 word_count: 12458
 ---

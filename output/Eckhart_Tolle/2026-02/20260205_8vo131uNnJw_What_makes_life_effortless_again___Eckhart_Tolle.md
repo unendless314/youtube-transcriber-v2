@@ -2,7 +2,7 @@
 channel: "Eckhart Tolle"
 video_id: "8vo131uNnJw"
 title: "What makes life effortless again | Eckhart Tolle"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "10:38"
 word_count: 6224
 ---

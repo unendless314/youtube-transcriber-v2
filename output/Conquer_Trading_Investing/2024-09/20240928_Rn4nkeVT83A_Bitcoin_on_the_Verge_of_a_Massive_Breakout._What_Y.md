@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "Rn4nkeVT83A"
 title: "Bitcoin on the Verge of a Massive Breakout. What You Need to Know!"
-published_at: "20240928"
+published_at: "2024-09-28"
 duration: "30:19"
 word_count: 26414
 ---

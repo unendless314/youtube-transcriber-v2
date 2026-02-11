@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "x5ugF-62A1k"
 title: "Everyone’s Hyping AGI… and It’s Starting to Feel Like 1999  #bigtech #agi #artificialintelligence"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "0:57"
 word_count: 710
 ---

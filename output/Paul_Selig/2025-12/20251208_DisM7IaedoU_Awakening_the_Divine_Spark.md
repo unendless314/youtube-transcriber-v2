@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "DisM7IaedoU"
 title: "Awakening the Divine Spark"
-published_at: "20251208"
+published_at: "2025-12-08"
 duration: "5:18"
 word_count: 3276
 ---

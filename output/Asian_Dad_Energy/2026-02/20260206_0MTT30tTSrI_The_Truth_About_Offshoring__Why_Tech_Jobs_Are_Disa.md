@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "0MTT30tTSrI"
 title: "The Truth About Offshoring: Why Tech Jobs Are Disappearing for Good"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "20:05"
 word_count: 16947
 ---

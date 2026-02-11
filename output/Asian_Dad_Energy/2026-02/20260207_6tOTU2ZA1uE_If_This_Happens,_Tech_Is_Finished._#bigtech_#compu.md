@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "6tOTU2ZA1uE"
 title: "If This Happens, Tech Is Finished.  #bigtech #computerprogrammer #layoffs #aibubble #economiccrisis"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "0:46"
 word_count: 610
 ---

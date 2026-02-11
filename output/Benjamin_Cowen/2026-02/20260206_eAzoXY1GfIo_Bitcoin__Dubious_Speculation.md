@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "eAzoXY1GfIo"
 title: "Bitcoin: Dubious Speculation"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "36:46"
 word_count: 29936
 ---

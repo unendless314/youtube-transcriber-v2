@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "bxxhYc65hx4"
 title: "The Self-Love Advice That Actually Ends Inner Struggle #yourmonkhaku #SelfLove #BuddhistWisdom"
-published_at: "20260202"
+published_at: "2026-02-02"
 duration: "9:24"
 word_count: 9136
 ---

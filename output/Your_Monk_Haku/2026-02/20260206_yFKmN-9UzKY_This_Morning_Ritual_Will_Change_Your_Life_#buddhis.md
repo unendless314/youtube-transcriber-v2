@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "yFKmN-9UzKY"
 title: "This Morning Ritual Will Change Your Life #buddhism #spirituality #motivation"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "1:05"
 word_count: 963
 ---

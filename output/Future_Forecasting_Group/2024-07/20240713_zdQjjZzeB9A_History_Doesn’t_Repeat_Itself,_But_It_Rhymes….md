@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "zdQjjZzeB9A"
 title: "History Doesn’t Repeat Itself, But It Rhymes…"
-published_at: "20240713"
+published_at: "2024-07-13"
 duration: "1:00"
 word_count: 1118
 ---

@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "e8blENnB2UQ"
 title: "Gold & Bitcoin Are Being Revalued in Real Time – Here’s Why"
-published_at: "20250724"
+published_at: "2025-07-24"
 duration: "10:39"
 word_count: 8255
 ---

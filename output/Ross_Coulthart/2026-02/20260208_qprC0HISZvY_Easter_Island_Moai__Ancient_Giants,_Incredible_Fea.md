@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "qprC0HISZvY"
 title: "Easter Island Moai: Ancient Giants, Incredible Feats"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "0:54"
 word_count: 767
 ---

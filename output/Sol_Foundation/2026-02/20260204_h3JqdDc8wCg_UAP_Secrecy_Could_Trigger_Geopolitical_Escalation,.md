@@ -2,7 +2,7 @@
 channel: "Sol Foundation"
 video_id: "h3JqdDc8wCg"
 title: "UAP Secrecy Could Trigger Geopolitical Escalation, Warns Member of European Parliament"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "38:28"
 word_count: 30182
 ---

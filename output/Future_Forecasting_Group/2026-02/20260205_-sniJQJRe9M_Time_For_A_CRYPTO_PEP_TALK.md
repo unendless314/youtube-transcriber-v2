@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "-sniJQJRe9M"
 title: "Time For A CRYPTO PEP TALK"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "6:16"
 word_count: 5003
 ---

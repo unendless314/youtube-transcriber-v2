@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "bvhO_VanzKk"
 title: "Big Tech Is Faking AI Growth… and Wall Street Knows It  #bigtech #aibubble #layoffs #economiccrisis"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "0:52"
 word_count: 614
 ---

@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "qNiBXcmLqCY"
 title: "Selling Silver"
-published_at: "20260129"
+published_at: "2026-01-29"
 duration: "4:21"
 word_count: 3355
 ---

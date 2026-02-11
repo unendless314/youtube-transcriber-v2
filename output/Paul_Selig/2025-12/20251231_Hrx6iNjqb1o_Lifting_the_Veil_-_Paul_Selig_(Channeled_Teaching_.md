@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "Hrx6iNjqb1o"
 title: "Lifting the Veil - Paul Selig (Channeled Teaching 2025)"
-published_at: "20251231"
+published_at: "2025-12-31"
 duration: "8:33"
 word_count: 5787
 ---

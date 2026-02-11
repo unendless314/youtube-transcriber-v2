@@ -2,7 +2,7 @@
 channel: "Real Vision"
 video_id: "EzJaokSMCK0"
 title: "Oil, Metals, and More Geopolitical Risk | Macro Mondays: Feb. 2, 2026"
-published_at: "20260202"
+published_at: "2026-02-02"
 duration: "31:03"
 word_count: 28533
 ---

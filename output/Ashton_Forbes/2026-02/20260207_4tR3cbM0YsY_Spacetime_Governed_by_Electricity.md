@@ -2,7 +2,7 @@
 channel: "Ashton Forbes"
 video_id: "4tR3cbM0YsY"
 title: "Spacetime Governed by Electricity"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "0:55"
 word_count: 783
 ---

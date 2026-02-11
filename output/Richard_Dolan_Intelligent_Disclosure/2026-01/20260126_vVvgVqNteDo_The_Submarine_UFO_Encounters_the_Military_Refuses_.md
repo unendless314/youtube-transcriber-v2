@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "vVvgVqNteDo"
 title: "The Submarine UFO Encounters the Military Refuses to Acknowledge"
-published_at: "20260126"
+published_at: "2026-01-26"
 duration: "11:20"
 word_count: 9713
 ---

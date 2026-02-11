@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "X9UMLiYNMrM"
 title: "Martyr Energy #leeharrisenergy #healing #energyupdate"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "0:59"
 word_count: 1032
 ---

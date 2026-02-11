@@ -2,7 +2,7 @@
 channel: "Ross Coulthart"
 video_id: "Q5F9yLs7Tu4"
 title: "Why does NASA have blurred photos of the moon? | Ross Coulthart Investigates"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "25:11"
 word_count: 19881
 ---

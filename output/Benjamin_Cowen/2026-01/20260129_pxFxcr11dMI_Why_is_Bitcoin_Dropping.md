@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "pxFxcr11dMI"
 title: "Why is Bitcoin Dropping?"
-published_at: "20260129"
+published_at: "2026-01-29"
 duration: "10:19"
 word_count: 10534
 ---

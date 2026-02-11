@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "46LMNK6ee5A"
 title: "Manipulation Energy #energyupdate #emotional #leeharrisenergy"
-published_at: "20260205"
+published_at: "2026-02-05"
 duration: "1:10"
 word_count: 1028
 ---

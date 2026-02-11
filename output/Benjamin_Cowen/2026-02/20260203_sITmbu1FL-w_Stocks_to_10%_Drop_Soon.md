@@ -2,7 +2,7 @@
 channel: "Benjamin Cowen"
 video_id: "sITmbu1FL-w"
 title: "Stocks to 10% Drop Soon?"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "10:45"
 word_count: 8468
 ---

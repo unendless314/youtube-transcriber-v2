@@ -2,7 +2,7 @@
 channel: "The Good Trouble Show"
 video_id: "bKWnLFSEH0U"
 title: "We Can Finally See Them: New UAP Tech Revealed"
-published_at: "20260201"
+published_at: "2026-02-01"
 duration: "38:27"
 word_count: 37738
 ---

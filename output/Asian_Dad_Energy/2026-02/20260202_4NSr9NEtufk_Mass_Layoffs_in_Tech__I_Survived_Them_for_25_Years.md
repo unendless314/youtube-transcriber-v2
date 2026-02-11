@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "4NSr9NEtufk"
 title: "Mass Layoffs in Tech: I Survived Them for 25 Years—Until I Didn’t"
-published_at: "20260202"
+published_at: "2026-02-02"
 duration: "10:45"
 word_count: 9199
 ---

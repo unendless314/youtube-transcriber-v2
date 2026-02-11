@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "cuhz-DHuqVw"
 title: "Fidelity Just EXPOSED Crypto's Biggest Secret [Not What You Think]"
-published_at: "20260201"
+published_at: "2026-02-01"
 duration: "21:27"
 word_count: 21631
 ---

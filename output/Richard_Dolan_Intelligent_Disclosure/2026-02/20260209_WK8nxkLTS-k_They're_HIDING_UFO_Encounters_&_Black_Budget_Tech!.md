@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "WK8nxkLTS-k"
 title: "They're HIDING UFO Encounters & Black Budget Tech!"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:05"
 word_count: 908
 ---

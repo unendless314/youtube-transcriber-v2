@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "e7qO8ODxYHE"
 title: "Tracking the Unknown: USOs, Sensors, & The Future of UAP Research"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "2:42"
 word_count: 2210
 ---

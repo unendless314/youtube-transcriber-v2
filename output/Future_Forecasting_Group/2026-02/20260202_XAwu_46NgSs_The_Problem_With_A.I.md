@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "XAwu_46NgSs"
 title: "The Problem With A.I."
-published_at: "20260202"
+published_at: "2026-02-02"
 duration: "5:46"
 word_count: 4443
 ---

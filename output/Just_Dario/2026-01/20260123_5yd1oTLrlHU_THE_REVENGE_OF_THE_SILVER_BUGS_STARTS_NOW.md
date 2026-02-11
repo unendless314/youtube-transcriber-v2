@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "5yd1oTLrlHU"
 title: "THE REVENGE OF THE SILVER BUGS STARTS NOW"
-published_at: "20260123"
+published_at: "2026-01-23"
 duration: "15:14"
 word_count: 14327
 ---

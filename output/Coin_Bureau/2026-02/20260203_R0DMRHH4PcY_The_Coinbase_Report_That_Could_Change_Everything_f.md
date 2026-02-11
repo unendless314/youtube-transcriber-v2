@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "R0DMRHH4PcY"
 title: "The Coinbase Report That Could Change Everything for Q1"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "19:01"
 word_count: 18744
 ---

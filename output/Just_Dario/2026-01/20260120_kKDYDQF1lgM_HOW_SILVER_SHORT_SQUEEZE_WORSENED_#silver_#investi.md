@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "kKDYDQF1lgM"
 title: "HOW SILVER SHORT SQUEEZE WORSENED #silver #investing #trading"
-published_at: "20260120"
+published_at: "2026-01-20"
 duration: "2:35"
 word_count: 3170
 ---

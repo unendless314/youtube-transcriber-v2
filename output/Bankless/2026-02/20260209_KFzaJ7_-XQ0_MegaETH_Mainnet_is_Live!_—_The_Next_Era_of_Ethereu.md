@@ -2,7 +2,7 @@
 channel: "Bankless"
 video_id: "KFzaJ7_-XQ0"
 title: "MegaETH Mainnet is Live! — The Next Era of Ethereum Scaling"
-published_at: "20260209"
+published_at: "2026-02-09"
 duration: "1:22:18"
 word_count: 82618
 ---

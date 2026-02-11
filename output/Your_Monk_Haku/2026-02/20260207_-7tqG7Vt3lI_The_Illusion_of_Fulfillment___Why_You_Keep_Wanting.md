@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "-7tqG7Vt3lI"
 title: "The Illusion of Fulfillment | Why You Keep Wanting More"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "18:35"
 word_count: 17193
 ---

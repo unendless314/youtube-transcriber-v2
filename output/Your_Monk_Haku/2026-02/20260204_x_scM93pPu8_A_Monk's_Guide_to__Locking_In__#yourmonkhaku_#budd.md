@@ -2,7 +2,7 @@
 channel: "Your Monk Haku"
 video_id: "x_scM93pPu8"
 title: "A Monk's Guide to "Locking In" #yourmonkhaku #buddhism #motivation #mindfulness #meditation"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "12:06"
 word_count: 12177
 ---

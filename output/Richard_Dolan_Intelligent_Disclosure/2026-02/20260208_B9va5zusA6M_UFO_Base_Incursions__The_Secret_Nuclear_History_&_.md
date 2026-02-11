@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "B9va5zusA6M"
 title: "UFO Base Incursions: The Secret Nuclear History & Why Disclosure Escaped Government Control"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "22:04"
 word_count: 18413
 ---

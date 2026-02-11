@@ -2,7 +2,7 @@
 channel: "The Primeagen"
 video_id: "q5jcjAQXiIU"
 title: "WHY STARBUCKS, WHY?!?!"
-published_at: "20250822"
+published_at: "2025-08-22"
 duration: "0:18"
 word_count: 248
 ---

@@ -2,7 +2,7 @@
 channel: "Lee Harris Energy"
 video_id: "QdkFxfBWrKY"
 title: "How Space Creates New Possibilities #energyshift #leeharrisenergy"
-published_at: "20260125"
+published_at: "2026-01-25"
 duration: "1:03"
 word_count: 908
 ---

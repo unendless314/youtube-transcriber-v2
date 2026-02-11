@@ -2,7 +2,7 @@
 channel: "Conquer Trading Investing"
 video_id: "EaKGeguvfeE"
 title: "Bitcoin vs Its Long-Term Growth Curve"
-published_at: "20260203"
+published_at: "2026-02-03"
 duration: "30:50"
 word_count: 24635
 ---

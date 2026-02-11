@@ -2,7 +2,7 @@
 channel: "Future Forecasting Group"
 video_id: "c6pwWYbumxU"
 title: "We're Giving Someone FREE MONEY To Invest In Cryptos"
-published_at: "20260207"
+published_at: "2026-02-07"
 duration: "4:34"
 word_count: 3628
 ---

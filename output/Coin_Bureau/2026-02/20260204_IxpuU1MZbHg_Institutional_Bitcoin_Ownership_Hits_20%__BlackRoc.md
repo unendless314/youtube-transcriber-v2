@@ -2,7 +2,7 @@
 channel: "Coin Bureau"
 video_id: "IxpuU1MZbHg"
 title: "Institutional Bitcoin Ownership Hits 20%: BlackRock, ETFs & What It Means for BTC Price"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "20:52"
 word_count: 18246
 ---

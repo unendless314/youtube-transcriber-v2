@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "VYrn7KzifPw"
 title: "Manifestation from the Upper Room - Paul Selig (Channeled Teaching 2025)"
-published_at: "20251216"
+published_at: "2025-12-16"
 duration: "7:10"
 word_count: 5629
 ---

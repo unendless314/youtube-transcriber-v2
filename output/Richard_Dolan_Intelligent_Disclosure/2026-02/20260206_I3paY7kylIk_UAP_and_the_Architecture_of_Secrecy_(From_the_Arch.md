@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "I3paY7kylIk"
 title: "UAP and the Architecture of Secrecy (From the Archives)"
-published_at: "20260206"
+published_at: "2026-02-06"
 duration: "21:08"
 word_count: 18505
 ---

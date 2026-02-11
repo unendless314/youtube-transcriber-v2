@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "gCuA8AcCrH8"
 title: "Perception & Expectation - Paul Selig (Channeled Teaching)"
-published_at: "20260127"
+published_at: "2026-01-27"
 duration: "8:13"
 word_count: 5637
 ---

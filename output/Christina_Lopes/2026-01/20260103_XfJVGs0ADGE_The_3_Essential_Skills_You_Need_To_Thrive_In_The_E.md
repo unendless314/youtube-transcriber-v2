@@ -2,7 +2,7 @@
 channel: "Christina Lopes"
 video_id: "XfJVGs0ADGE"
 title: "The 3 Essential Skills You Need To Thrive In The Energy Of 2026."
-published_at: "20260103"
+published_at: "2026-01-03"
 duration: "1:23:40"
 word_count: 82147
 ---

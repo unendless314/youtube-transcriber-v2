@@ -2,7 +2,7 @@
 channel: "Just Dario"
 video_id: "eLy6IeLmRKc"
 title: "JAPAN FINANCIAL SYSTEM SOLVENCY CRISIS #trading #investing #stockmarket #japan"
-published_at: "20260121"
+published_at: "2026-01-21"
 duration: "2:38"
 word_count: 2081
 ---

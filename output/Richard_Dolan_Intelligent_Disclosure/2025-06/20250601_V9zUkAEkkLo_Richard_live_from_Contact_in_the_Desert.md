@@ -2,7 +2,7 @@
 channel: "Richard Dolan Intelligent Disclosure"
 video_id: "V9zUkAEkkLo"
 title: "Richard live from Contact in the Desert"
-published_at: "20250601"
+published_at: "2025-06-01"
 duration: "11:15"
 word_count: 9357
 ---

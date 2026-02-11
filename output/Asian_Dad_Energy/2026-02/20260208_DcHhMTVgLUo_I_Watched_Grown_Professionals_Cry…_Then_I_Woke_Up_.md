@@ -2,7 +2,7 @@
 channel: "Asian Dad Energy"
 video_id: "DcHhMTVgLUo"
 title: "I Watched Grown Professionals Cry… Then I Woke Up #bigtech #financialindependence #layoffs #tech"
-published_at: "20260208"
+published_at: "2026-02-08"
 duration: "1:03"
 word_count: 698
 ---

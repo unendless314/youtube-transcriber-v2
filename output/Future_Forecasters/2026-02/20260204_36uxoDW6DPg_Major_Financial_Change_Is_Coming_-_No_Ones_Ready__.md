@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "36uxoDW6DPg"
 title: ""Major Financial Change Is Coming - No Ones Ready" - Remote Viewer Hints at Huge Institution Change"
-published_at: "20260204"
+published_at: "2026-02-04"
 duration: "3:17"
 word_count: 2684
 ---

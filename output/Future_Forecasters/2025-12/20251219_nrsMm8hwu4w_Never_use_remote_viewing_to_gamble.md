@@ -2,7 +2,7 @@
 channel: "Future Forecasters"
 video_id: "nrsMm8hwu4w"
 title: "Never use remote viewing to gamble"
-published_at: "20251219"
+published_at: "2025-12-19"
 duration: "0:31"
 word_count: 437
 ---

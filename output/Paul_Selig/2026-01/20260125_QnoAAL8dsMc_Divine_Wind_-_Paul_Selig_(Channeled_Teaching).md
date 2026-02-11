@@ -2,7 +2,7 @@
 channel: "Paul Selig"
 video_id: "QnoAAL8dsMc"
 title: "Divine Wind - Paul Selig (Channeled Teaching)"
-published_at: "20260125"
+published_at: "2026-01-25"
 duration: "9:12"
 word_count: 5883
 ---
