@@ -384,7 +384,7 @@ class SaveStage(Stage):
             "---",
             f'channel: "{context.channel_name}"',
             f'video_id: "{context.video_id}"',
-            f'title: "{context.title}"',
+            f"title: '{context.title.replace(chr(39), chr(39)*2)}'",
             f'published_at: "{context.published_at or "unknown"}"',
             f'duration: "{duration_str}"',
             f'word_count: {word_count}',
