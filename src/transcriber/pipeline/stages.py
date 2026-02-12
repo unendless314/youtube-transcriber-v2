@@ -393,14 +393,112 @@ class SaveStage(Stage):
             f"# {context.title}",
             "",
         ]
-        for segment in context.transcript_segments:
-            start = segment.get("start", 0)
-            text = segment.get("text", "").strip()
-            if text:
-                lines.append(f"[{self._format_timestamp(start)}] {text}")
-        if not context.transcript_segments:
+        if context.transcript_segments:
+            reconstructed = self._reconstruct_sentences(context.transcript_segments)
+            lines.extend(reconstructed)
+        else:
             lines.append(context.transcript)
         return "\n".join(lines)
+    
+    # ── 句子重建邏輯 ──────────────────────────────────────────────
+    
+    # 句末標點：支援英文 (.!?…) 和中文 (。！？)，允許結尾引號/括號
+    _TERMINAL_PUNCT = re.compile(r'[.!?…。！？]+["\'\u201d\u2019\)\]]*$')
+    _MAX_MERGE_SEGMENTS = 10  # 安全上限，防止無限合併
+    
+    def _reconstruct_sentences(self, segments: list[dict]) -> list[str]:
+        """將 Whisper 短句 segments 合併為完整句子.
+        
+        合併策略（改編自 transcripts 專案的 SegmentMerger）：
+        1. 持續累積 segment 到 buffer
+        2. 當 buffer 末尾有句末標點時，檢查下一個 segment：
+           - 若下一段以大寫字母開頭 → 視為新句子，輸出 buffer
+           - 若下一段以小寫字母開頭 → 繼續合併（句子可能跨標點延續）
+        3. 若累積超過安全上限 → 強制輸出
+        4. 中文不做大小寫判斷，直接以標點分段
+        """
+        if not segments:
+            return []
+        
+        result_lines: list[str] = []
+        buffer_texts: list[str] = []
+        buffer_start: float = 0
+        
+        for idx, seg in enumerate(segments):
+            text = seg.get("text", "").strip()
+            start = seg.get("start", 0)
+            
+            if not text:
+                continue
+            
+            # 開始新 buffer
+            if not buffer_texts:
+                buffer_start = start
+            
+            buffer_texts.append(text)
+            
+            # 檢查是否應該輸出
+            should_flush = False
+            
+            # 條件 1：安全上限
+            if len(buffer_texts) >= self._MAX_MERGE_SEGMENTS:
+                should_flush = True
+            # 條件 2：有句末標點
+            elif self._TERMINAL_PUNCT.search(text):
+                # 檢查下一個 segment 是否為新句子
+                next_seg = segments[idx + 1] if idx + 1 < len(segments) else None
+                if next_seg is None:
+                    # 最後一個 segment，直接輸出
+                    should_flush = True
+                else:
+                    next_text = next_seg.get("text", "").strip()
+                    if self._is_new_sentence_start(next_text):
+                        should_flush = True
+                    # 否則繼續合併（小寫開頭意味著句子延續）
+            
+            if should_flush:
+                merged_text = " ".join(buffer_texts)
+                timestamp = self._format_timestamp(buffer_start)
+                result_lines.append(f"[{timestamp}] {merged_text}")
+                buffer_texts = []
+        
+        # 處理 buffer 中剩餘的內容
+        if buffer_texts:
+            merged_text = " ".join(buffer_texts)
+            timestamp = self._format_timestamp(buffer_start)
+            result_lines.append(f"[{timestamp}] {merged_text}")
+        
+        return result_lines
+    
+    @staticmethod
+    def _is_new_sentence_start(text: str) -> bool:
+        """判斷文字是否為新句子的開頭.
+        
+        策略：
+        - 去除開頭的引號、括號等
+        - 若以大寫字母開頭 → 新句子
+        - 若以中文字開頭 → 新句子（中文無大小寫區分，用標點分段即可）
+        - 若以小寫字母開頭 → 接續前句
+        """
+        # 去除開頭引號和括號
+        normalized = text.lstrip()
+        opening_chars = '"\'\u201c\u201d\u2018((['
+        while normalized and normalized[0] in opening_chars:
+            normalized = normalized[1:].lstrip()
+        
+        if not normalized:
+            return False
+        
+        first_char = normalized[0]
+        
+        # 中文字元：視為新句子開頭
+        if '\u4e00' <= first_char <= '\u9fff':
+            return True
+        
+        # 英文：大寫 = 新句子
+        return first_char.isupper()
+    
+    # ── 格式化工具 ────────────────────────────────────────────────
     
     def _format_duration(self, seconds: int) -> str:
         hours, remainder = divmod(seconds, 3600)

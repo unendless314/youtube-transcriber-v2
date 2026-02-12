@@ -1,5 +1,6 @@
 """whisper.cpp 後端實作 - 透過 CLI 執行檔串接."""
 
+import re
 import subprocess
 import tempfile
 from pathlib import Path
@@ -57,8 +58,8 @@ class WhisperCppBackend(WhisperBackend):
         
         流程:
         1. 使用 ffmpeg 轉換為 16kHz WAV (whisper.cpp 要求)
-        2. 執行 whisper-cli
-        3. 讀取輸出的文字檔案
+        2. 執行 whisper-cli (使用 -osrt 以獲得時間戳)
+        3. 解析 SRT 輸出為 segments
         """
         if not self.is_loaded:
             self.load()
@@ -71,14 +72,13 @@ class WhisperCppBackend(WhisperBackend):
             # 1. 轉換音訊格式
             self._convert_to_wav(audio_path, wav_path)
             
-            # 2. 準備指令
-            # 使用 -oj (JSON) 以獲得精確的時間戳記，若不支援則退而求其次
+            # 2. 準備指令 — 使用 -osrt 以獲得每個 segment 的時間戳
             cmd = [
                 str(self.cpp_bin),
                 "-m", str(self.model_path),
                 "-f", str(wav_path),
                 "-l", self.language if self.language and self.language != "auto" else "auto",
-                "-otxt",
+                "-osrt",
                 "-of", str(output_base)
             ]
             
@@ -92,24 +92,30 @@ class WhisperCppBackend(WhisperBackend):
                     check=True
                 )
                 
-                # 3. 讀取結果
-                txt_file = tmp_path / "output.txt"
-                if not txt_file.exists():
+                # 3. 讀取並解析 SRT 結果
+                srt_file = tmp_path / "output.srt"
+                if not srt_file.exists():
                     raise TranscribeError(
                         f"whisper.cpp 執行成功但未產生輸出檔案: {result.stderr}",
                         category=ErrorCategory.SYSTEM,
                     )
                 
-                text = txt_file.read_text(encoding="utf-8").strip()
+                srt_content = srt_file.read_text(encoding="utf-8").strip()
+                segments = self._parse_srt(srt_content)
                 
-                # 由於 CLI 輸出的 txt 格式可能沒有詳細時間戳
-                # 這裡我們先簡單包裝，若未來需要 SRT 解析可再擴充
+                if not segments:
+                    raise TranscribeError(
+                        "SRT 解析結果為空",
+                        category=ErrorCategory.SYSTEM,
+                    )
+                
+                # 合併所有 segment 文字作為完整文本
+                full_text = " ".join(seg.text for seg in segments)
+                
                 return TranscriptionResult(
-                    text=text,
+                    text=full_text,
                     language=self.language or "auto",
-                    segments=[
-                        TranscriptionSegment(start=0, end=0, text=text)
-                    ]
+                    segments=segments,
                 )
                 
             except subprocess.CalledProcessError as e:
@@ -119,6 +125,62 @@ class WhisperCppBackend(WhisperBackend):
                     f"whisper.cpp 執行失敗: {e.stderr}",
                     category=category,
                 )
+    
+    def _parse_srt(self, srt_text: str) -> list[TranscriptionSegment]:
+        """解析 SRT 格式為 TranscriptionSegment 列表.
+        
+        SRT 格式範例:
+            1
+            00:00:00,000 --> 00:00:08,960
+             It's my distinct honor to once again administer the oath
+        """
+        timecode_pattern = re.compile(
+            r'(\d{2}:\d{2}:\d{2},\d{3})\s*-->\s*(\d{2}:\d{2}:\d{2},\d{3})'
+        )
+        
+        segments: list[TranscriptionSegment] = []
+        blocks = re.split(r'\n\s*\n', srt_text.strip())
+        
+        for block in blocks:
+            if not block.strip():
+                continue
+            
+            lines = block.strip().split('\n')
+            if len(lines) < 3:
+                continue
+            
+            try:
+                timecode_match = timecode_pattern.search(lines[1])
+                if not timecode_match:
+                    continue
+                
+                start_tc, end_tc = timecode_match.groups()
+                start_sec = self._srt_timecode_to_seconds(start_tc)
+                end_sec = self._srt_timecode_to_seconds(end_tc)
+                
+                # 合併多行文字為單行
+                text = ' '.join(line.strip() for line in lines[2:]).strip()
+                
+                if text:
+                    segments.append(TranscriptionSegment(
+                        start=start_sec,
+                        end=end_sec,
+                        text=text,
+                    ))
+            except (ValueError, IndexError) as e:
+                self.logger.warning("srt_parse_warning", error=str(e), block=block[:80])
+                continue
+        
+        self.logger.info("srt_parsed", segment_count=len(segments))
+        return segments
+    
+    @staticmethod
+    def _srt_timecode_to_seconds(timecode: str) -> float:
+        """將 SRT 時間碼 (HH:MM:SS,mmm) 轉換為秒數."""
+        time_part, ms_part = timecode.split(',')
+        h, m, s = map(int, time_part.split(':'))
+        ms = int(ms_part)
+        return h * 3600 + m * 60 + s + ms / 1000.0
 
     def _classify_error(self, error_msg: str) -> ErrorCategory:
         """根據錯誤訊息分類錯誤類型."""
