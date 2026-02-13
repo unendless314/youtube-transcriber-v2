@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "3ZGA8ayHGAA"
+title: 'This Will Change Their Lives'
+published_at: "2026-02-12"
+duration: "3:54"
+word_count: 2669
+---
+
+# This Will Change Their Lives
+
+[00:00] okay an update on our chosen few challenge our promotional segment where we're going to select three people and we're going to pay them each two thousand dollars and give them information to help them get started set up a crypto account invest in cryptos and watch it change their lives I spent the entire morning watching videos those of you that have sent in entries here's a screenshot we've got all the videos in one place and I'm watching them and other members of the future forecasting group team are watching these and I'm getting to know each and every one of you like hi Angela Anita I watch your video coral I see your cello yeah Emmanuel Javier Javier I like you Joyce Kelly but there's so many Skylar Cody on and on down the list it's a lot of work I wish I could give I wish we could do this for each and every one of you it's going to be difficult to narrow it down to three but we will do that and it's going to we're going to do it pretty soon but for those of you that entered I want
+[01:21] you to know that we're considering each and every one of you and unfortunately it's going to be only three it's going to be tough choice so we'll keep you posted we are working hard at this it's going to be an amazing I want to get this done pretty quick because cryptos are so low right now and we also think that there's going to be an issue with all markets later this week I think we could see Dow Jones I called it the Valentine's Day massacre we'll see what happens there but it's a good time to be buying cryptos right now and three of you you're going to get paid the $2,000 stay tuned we're working hard it's difficult to go through all this but we're doing it because it's it's meaningful I actually was I've actually recorded this segment a couple times I look at the videos and they're very moving I sit here and I have a camera here and I'm just talking to the camera but this really brings it home that we're we're dealing with real people with real lives and real real trouble real problems these
+[02:48] days and three of them we're going to hopefully uplift their lives so that's why we're doing it we'll have more soon bye bye bye bye oops edit I I forgot to add one thing I forgot to mention this we need we need some younger contestants most of the contestants are like Millennials and older we we needed like somebody in their 20s please like some young people hey we're gonna we're gonna pay 2,000 bucks and put you on a popular YouTube segment and help you learn cryptos so apply younger people this is this is the real deal we're gonna pay you $2,000 let's get some somebody a little bit younger okay there that's what I needed to add okay bye bye you
