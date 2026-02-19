@@ -1,0 +1,19 @@
+---
+channel: "Future Forecasting Group"
+video_id: "hH72tpNbchU"
+title: 'Escape The Gravity Of The Past'
+published_at: "2026-02-18"
+duration: "4:50"
+word_count: 3531
+---
+
+# Escape The Gravity Of The Past
+
+[00:00] Escaping the gravity of the past. You've got to escape the gravity of the past. Hi there, crypto fans. Hi there, remote viewing fans. Dick Allgaier here. It's a beautiful day at Ethereum Place. I'm going to have an update on our crypto beginner challenge. The three people that we're giving $2,000 each to invest in cryptos. I'll have that at the end of this report in about two minutes.
+[00:26] But first, escaping the gravity of the past. There's a wave coming, a huge wave and it's going to hit your location whether you like it or not. I used to surf when I was younger and if you know how to ride a wave and a wave comes, you can have one of the best experiences of your life because you catch that wave and it's just amazing. It's the most amazing thing. If you don't know how to surf and that wave hits you, it is one of the worst moments of your life. You're thrashed. It's really horrific.
+[01:04] And AI is going to be like that. So you either learn to adapt, you learn how to use AI, or you're going to get wiped out. There's no in-between.
+[01:18] Humanity always moves forward and upward. That's what humanity has to do. And we are about to take a giant leap forward and a giant leap upward. The gravity of the past is very comfortable.
+[01:33] Humans get very comfortable in the way things were. They don't embrace change often, but big change is coming and it's time to embrace it. You cannot cling to the old paradigm. All the major corporations, BlackRock, Samsung, Microsoft, Mellon Bank, all the banks, the Depository Trust Clearing Corporation, the DTCC, all major corporations have a fiduciary responsibility to bring in a new system of finance for planet Earth. And they're currently, they've been designing this and building it for as long as I've been doing future forecasting, which is about eight years. They're getting ready to roll this out.
+[02:22] And when they roll this out and move into the new system, the jurisdiction and administration as defined by countries, that's going to be obsolete. Let me say that again because that's a mouthful and that's something that people are going to have to contend with. The jurisdiction and administration of humanity as defined by countries, by nation states, will become obsolete. They will not be needed anymore. You've been given life to become a creator, so what you need to do is get busy and create.
+[03:01] Future Forecasting Group, ffgrv.com, is here to help people. Probably the greatest achievement of my life, looking back, I would say my greatest achievement was creating Future Forecasting Group. Why?
+[03:17] Because we provide priceless knowledge. It really is knowledge that you cannot put a price on, priceless knowledge. And with that, we're going to be helping three people learn about cryptos. We've had a contest and all the entries are in. We're looking at the videos, we're sorting through them and we'll make a decision very soon. So if you send us a video and you're one of the contestants, stay with us. We'll be getting a hold of you soon, within a few days. What will happen with those people is we'll let them know, we'll have them make an account at a crypto brokerage. Then we are going to pay them $2,000, which they will invest in cryptos based on the priceless knowledge that we provide at ffgrv.com. And they're going to watch those investments grow by leaps and bounds. Okay, how I was selected to be involved in FFGRV, how I was selected to be in Future Forecasting Group, that involves magic. And that's a really good story. We'll get into that another time. FFGRV.com. Aloha.
