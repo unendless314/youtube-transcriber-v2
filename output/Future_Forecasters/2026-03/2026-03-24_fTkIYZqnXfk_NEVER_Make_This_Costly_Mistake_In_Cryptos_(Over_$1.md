@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "fTkIYZqnXfk"
+title: 'NEVER Make This Costly Mistake In Cryptos (Over $100,000 Lost)'
+published_at: "2026-03-24"
+duration: "2:46"
+word_count: 2613
+---
+
+# NEVER Make This Costly Mistake In Cryptos (Over $100,000 Lost)
+
+[00:00] three about four years ago was it theta was the new darling remember when theta was hot and everybody bix weir was writing songs about theta and we did a remote viewing on theta and i liked it and we were big on theta i was buying theta for 25 cents for 12 cents and that thing went up to 16 dollars and a friend of mine who was really smart said theta at 16 bucks i'm taking my profit he took it out i rode that up and i i had so much money in our theta wallet i was looking at it with mimi going look how much this is worth and it was a lot and we wrote it back then i didn't take any out because i was thinking well i'm going to take it all out at once when the market really pumps so theta had its big run it may have another run but man i lost it i my money's down on that one that was a lesson for me yeah when i studied forex trading one of the big principles they talk because it was about that's all about making your money like they call it pips like it goes up
+[01:01] a little spot that goes up one pip you're just trying to lock in your pips for the day like as soon as it goes up they showed it on so many different charts you have like three big candles then the momentum will really start to slow down and there might be one kind of spike candle up it's by the time that third candle arrives is when you want to be out you don't even want to chase that last spike up because that's when everybody starts fumbling and it gets harder to get your orders filled so by the time that those three candles really get there you want to kind of exit out and just be looking for your next trade or just calming down and not chasing the tops or the bottoms you want to be in the up like 80 percentile on either side just to kind of maximize your gains without adding extra stress we're trying trying to time the market when that's really challenging most people don't miss crypto at the top they miss it at the beginning they wait until it feels obvious
+[01:52] but by the time it feels obvious it's too late this is exactly why we just released our crypto list before this bull run because when prices are still discounted and there's blood on the streets that means their opportunity an opportunity to make life-changing money but dennis there's over 30 plus million cryptos out there which ones are worth looking at our simple crypto list solves that updated every week we use our remote viewing and thousands of hours of research to provide you a curated list of cryptos that we expect to perform well and have major upside now this is exclusive to our founders tier so if you want to access it go below and sign up today
