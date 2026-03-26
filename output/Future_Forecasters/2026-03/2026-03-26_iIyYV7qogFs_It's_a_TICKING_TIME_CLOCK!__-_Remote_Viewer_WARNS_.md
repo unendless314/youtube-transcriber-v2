@@ -1,0 +1,17 @@
+---
+channel: "Future Forecasters"
+video_id: "iIyYV7qogFs"
+title: '"It''s a TICKING TIME CLOCK!" - Remote Viewer WARNS of Future Military Psyop'
+published_at: "2026-03-26"
+duration: "3:41"
+word_count: 3122
+---
+
+# "It's a TICKING TIME CLOCK!" - Remote Viewer WARNS of Future Military Psyop
+
+[00:00] move to after the event, lots of energy here, speed, chaos, interest, fraction, loud shouting, men in suits rushing around, not quite the effect wanted with a surprise outcome and a drop.
+[00:16] Okay, so my first piece of data here is a movement ideography, and then I had a word crash feel to this. It felt like something crashed with an abrupt halt. There was a release of lots of action, motion, and energy, and then just a complete stop to this. And I had a visual image of time stopping, almost like a literal freeze frame or something, and the AOL that time was important to this. And I had a movie-like atmosphere feeling to the entire target, almost like a not real feeling to it. And then I had a complex ideogram of two parts. I had a life that was central to this target. I tried to explore the crash stop data. I felt that it's going to be a future event. It's going to be a crash, a sudden halt. Something's going to be like hitting a brick wall. It just instantly stops. And I wrote here, it really does feel like time stops. Yeah, so very, and I could actually see that this could be viewed from
+[01:17] multiple angles or observed and examined as well. So it's like an event where almost like time stops, and then it's examined. I tried to ask why. I had this weird energy kind of ideogram here. And it felt kind of with financial implications. It had a very sci-fi feel to it, like a movie script.
+[01:37] It felt future-based. It felt like there were powerful people involved. There were suited people involved. There was a security force and more. And I had the feel that this had something to do with stopping something. And I did kind of like a timeline from this as well. And it felt like the important part would be mid-2024, but it had implications that went way past 2027. Almost like a long-term impact and reverb on this. And then I broke down Windows Opportunity in, you know, all different words, like a planned operation, pre-planned, scaled up. I felt that this also had a male, a central male over 40 involved, an American male. He was an operative. This was all very covert, operational, undercover. Yes, it was very funded and planned. Had a political feel to it as well. But it felt like this was both political and military. So a military and political operation kind of thing going on, like a spy type thing or an intel thing. You know what I mean when I try to get to the fund of that.
+[02:47] Then there was also an energy release. But it also felt like a plan or an op. And it's something to do with in the future of fluidity. All this had a forward momentum. And I wrote here like a ticking clock. It was almost like there was a countdown going on towards an event. Tried to move to the core data of this target. And I just wrote, it will be swift and decisive. A fluid future action or operation or operation. A planned series of interconnected events to move towards a goal or purpose. Then I had this weird ideogram here. Felt like it was planned by institutional people that were organized and they wore suits, corporate looking.
+[03:32] Watch the full session today with our private membership using the link below.
