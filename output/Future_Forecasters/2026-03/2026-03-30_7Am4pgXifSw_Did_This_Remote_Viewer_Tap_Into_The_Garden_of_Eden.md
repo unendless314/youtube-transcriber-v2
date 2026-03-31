@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "7Am4pgXifSw"
+title: 'Did This Remote Viewer Tap Into The Garden of Eden Paradox?!'
+published_at: "2026-03-30"
+duration: "3:43"
+word_count: 2536
+---
+
+# Did This Remote Viewer Tap Into The Garden of Eden Paradox?!
+
+[00:00] a force that is attempting to harness these natural elements very very dangerous to gain the power and to have it taken away a time loop like groundhog's day but is this energy being manipulated by a sentient being i wondered i contemplated out loud actually there is the idea of a force that is attempting to harness these natural elements but for what purpose do i pondered an attempt to enter this natural realm and manipulate or control it like the reported philadelphia experiment to gain control of these forces to utilize them to bend time and space to gain power and fortune very very dangerous to gain the power and to have it taken away a time loop like groundhog's day then i saw this person and it was like a blind person cannot see hopelessly blind what does this person have how does this person relate to the task do i wonder that was it was very strange telling a story of which they themselves did not see the storytelling of a
+[01:35] person who cannot see a blind perspective this was very very interesting to me some of the senses are not not working like some are malfunctioning or turned off what does that even mean people being disabled or harmed in some way a point of view can become distorted very very strange but distorted however memory loss physical discomfort even pain wild mental imagery hallucinations brought on by a psychoactive agent feeling impaired at a loss but again what does this have to do with the tasking order to see something but not with the use of the eyes to see while blind what i like that sentence i might write a song about that this is a form of quote-unquote other realmness an altered state or paradigm shift for someone someone sees things differently through an alternate door but what is it what is that about them seeing a situation from a different perspective a different point of view but why i wonder in order to see something in a specific way to understand something differently to see
+[02:55] into a different possibility what may be ordinary suddenly becomes extraordinary like what though i wondered it was like that was all at me like other life forms that may be invisible otherwise to objects that might otherwise be invisible or the forces of nature seeing what exists inside of a shadow this has to do with seeing something that is otherwise unseeable but for what reason it reminds me of the garden of eden story leaving the garden eating the fruit of knowledge once you see it you can't unsee it watch the full session today with our private membership using the link below
