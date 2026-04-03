@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "qZb1HURPe2o"
+title: 'Remote Viewer Taps Into the Matrix'
+published_at: "2026-04-02"
+duration: "3:02"
+word_count: 2439
+---
+
+# Remote Viewer Taps Into the Matrix
+
+[00:00] a hidden science of understanding like the matrix kind of thing a hidden world or simulation or existence and i just kept seeing all these strings thousands of strings but some were vibrating causing patterns and holograms it is sentient and connected and i wrote here a note where this feels like what we are today seeing with the uap phenomenon energy felt like it was coming from the universe downwards so energy very exotic very esoteric very natural flowing downwards through and into this felt very past with ancient origins i tried to work out when but it felt like pre-flood origins to this you know so you know way past 10 000 years in in the past all to do with shamans magicians and wise men and it's all about showing a way to transform and use energy and frequency um and it becomes like semi-solid like plasma and it's all about like manipulated energy and how it affects or connects everything and i had the word mana there as well
+[01:19] i had the word harmonics and i just broke down down into all this kind of stuff manipulation of matter bodies and faults and all kinds of classic esoteric stuff so this is an ancient knowledge wisdom transferred or passed down over eons is secretly encoded in words and buildings a hidden science of kind of understanding like the matrix kind of thing a hidden world or simulation or existence and i just kept seeing all these strings all these weird strings thousands of strings but some were vibrating uh and causing patterns and holograms lots of images and symbols and stuff um very well almost felt like as i wrote here like a simulation of some kind very kind of weird esoteric so i write here what i feel and see here is something from before known time antiquity a knowledge power and skill energy frequency with the mind body interaction so like when that interacts the reality fins uh it's passed down through shamans magicians wise men elders secret societies and then into buildings in words uh it's encoded a message or a set of instructions
+[02:29] distributed in many forms like a pathway at the heart of this is a real physical energy appears light as light and sound it vibrates in something can be semi-solid it feels natural it's manifested it's sentient and connected and i wrote here a note why this feels like what we are today seeing with the uap phenomena so yeah something's manifesting the energy watch the full session today with our private membership using the link below
