@@ -1,0 +1,18 @@
+---
+channel: "Eckhart Tolle"
+video_id: "5ii0maKKl38"
+title: 'You Don''t Need 23 More Lifetimes | Eckhart Tolle'
+published_at: "2026-04-10"
+duration: "5:49"
+word_count: 3368
+---
+
+# You Don't Need 23 More Lifetimes | Eckhart Tolle
+
+[00:00] What is thought? Thought is an energy form at a particular vibrational frequency, as is emotion.
+[00:08] There are energy formations at a particular frequency. Oh, by the way, as you probably know, scientists, science does not really know what a thought is.
+[00:27] Nobody really knows what a thought is. There is a certain association between thinking and the neural neural activity in the brain, neurons firing brain cells. There is a certain correlation between the two. But what is a thought? What is its nature? Could you identify a thought by cutting open the brain, your brain? The brain sergeant cuts open your thought. Could he find a thought? No, he sees the activity of neurons. But what is all the stuff that you carry in your memory banks, so to speak, that does not exist on the level of visibility. You cannot find it by using a microscope or anything. It already exists in the realm of the invisible. All the things that in your old, your million, hundreds of thousands, million memories that you carry that you could access at any moment. How does that live in you? So thought is a mystery, but we can experience it and we can see that undoubtedly it is an energy form as is emotion. Everything is energy. So it is invisible energy
+[01:55] and it is a form. Every form. Every form. Every thought. Now, what does that mean? What does it actually consist of? It requires consciousness for a thought to be. It requires consciousness. In fact, there is not thought and consciousness. Thought is a form that consciousness takes temporarily.
+[02:21] It assumes a form. Emotion is a form that consciousness assumes like a disguise. It is born into a form.
+[02:32] That is, to me, that is the meaning of rebirth, what the Buddhists talk about. They're talking about incarnations. How many incarnations do I need to be fully enlightened? They ask. And if you ask a Buddhist master, I don't know if there are many left. If you ask a Buddhist master, how many incarnations do I need to be fully enlightened? Really what it means to be fully myself or to know who or what I am at the deepest level? How many incarnations? Please tell me how many incarnations do I still need? And if the Buddhist master is not a true master, he'll probably say, well, I guess you need another 23, 23 lifetimes of further suffering. And then eventually, then you'll be ready to be enlightened. Oh, 23. Okay. Thank you, master. If it's a real master, then he would say, you don't need any more incarnations. You can stop the continuous unconscious, the unconscious process of continuous incarnations of consciousness into one thought form after another. Don't identify with the
+[04:21] continuous incarnation. Incarnation means taking form. The continuous incarnations of one thought form of consciousness into one thought form and emotional form after another. And if you're identified with it, that's who or what you think you are. There's nothing beyond that. In other words, you live in a kind of dream. It's a kind of dream-like existence. The script that is your mind, the conditioning of your mind is being acted out. It's thinking, it's thoughts. And so an unconscious human, spiritually speaking, an unconscious human is a human who has zero awareness, zero presence of what's happening in their minds. They are so identified with it that they are in the grip of every thought, every emotion that arises, it becomes them.
