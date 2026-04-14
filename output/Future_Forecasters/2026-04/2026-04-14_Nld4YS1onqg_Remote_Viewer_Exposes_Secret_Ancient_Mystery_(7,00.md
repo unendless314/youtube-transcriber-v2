@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "Nld4YS1onqg"
+title: 'Remote Viewer Exposes Secret Ancient Mystery (7,000+ Years Old)'
+published_at: "2026-04-14"
+duration: "3:11"
+word_count: 2335
+---
+
+# Remote Viewer Exposes Secret Ancient Mystery (7,000+ Years Old)
+
+[00:00] you just document with a lot of redacted lines and it's kept in like a safe maybe involve treaties gold teleportation conscious studies but they'd kill you if you see it there's a deep underground area and a town nearby looking at this structure next to this this feature here um it just felt like an old building um and this thing kind of goes down deep uh with some huge underground room with a hall but uh there are symbols on the ground and it just felt like dark rock like some shale or something something grayish like a healing place with special rock like a healing crystal or something but it's more intense and it's noticeable this thing all right now i'm in some sort of sort of like lab library or something um i saw these doors here were locked with access to this thing these are all books and i saw these tables of people here and whatever that is but it just felt like some sort of ancient mystery school um with some knowledge
+[01:23] you know some place like jesus would travel to in this time um great halls music chanting sounds uh and they drink some sort of liquid here that's kind of infused with some sort of rock um and this is deep enough that they hit a water table so you know in here there's a curriculum uh rules and you have to be invited and even rulers weren't allowed you know you had to show a certain quality of character to be here here i just saw this geometry stuff like imprinting of information um and this is another language it's unspoken not used and it's forgotten and it changes the human energy field like a magic symbol but it's more intrinsic we see it in you know when we do psychedelics it bypasses your conscious mind and you'll know something without knowing it it just it like gives off emf or something and your body can sense it your body reacts more than your your mind does this is where i saw this this guy um and this has to do with like transitions like reincarnation or something see this document with
+[02:41] a lot of redacted lines and it's kept in like a safe um the document is old you know maybe involved treaties gold teleportation conscious studies consciousness studies receipts payments made to like certain countries and i get the idea of nato maybe involved with it but they'd kill you if you see it watch the full session today with our private membership using the link below
