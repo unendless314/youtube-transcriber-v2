@@ -1,0 +1,32 @@
+---
+channel: "Eckhart Tolle"
+video_id: "cpvZcu37iuw"
+title: 'The Real Reason Your Life Feels Incomplete | Eckhart Tolle'
+published_at: "2026-04-16"
+duration: "10:16"
+word_count: 5839
+---
+
+# The Real Reason Your Life Feels Incomplete | Eckhart Tolle
+
+[00:00] Everybody whose identity is exclusively derived from the narrative of me is in search of something more real and more lasting. It is an unconscious search, ultimately, for yourself.
+[00:25] So thought, this thought, so when we talk about identifying, the question arises, well, if I am not my thoughts and emotions, if I am not the narrative in my mind that I call my life, if that's what I - essentially not, I am not, then who or what am I if I'm not my story?
+[01:05] Because most humans are their story. That's, they derive their sense of self, identity, they derive their sense of self from the narrative. That's the whole story of me.
+[01:23] It's an interesting story.
+[01:26] And most stories are not all that satisfying, many stories that are not, that seems something went wrong in the story of me. That wasn't supposed to happen.
+[01:45] That relationship wasn't supposed to break up, but the marriage was supposed to last. That didn't happen.
+[01:53] I was supposed to make a million dollars by the age of 22. That didn't happen.
+[02:03] I was supposed to whatever your mind was telling you.
+[02:09] And then other things happened. There's a sense of incompleteness as far as your narrative is concerned for most humans. And there's always a search. There's a search for yourself because everybody whose identity is exclusively derived from the narrative of me is in search of something more real and more lasting. It is an unconscious search ultimately for yourself, a deeper, more real version of yourself. Because somehow you can feel that that is not complete. That is not where ultimately I am. I am not complete. The sense of incompleteness, the sense of insufficiency is built into every ego because ego is the thing that you identify with.
+[03:16] In the lack of, there's complete lack of awareness. The thought structure that you identify with not completely is the ego. It is the unidentified, is the unrecognized mind, conditioned. The unobserved, we could say the unobserved mind is the ego. Mind plus emotion. So that becomes an entity that one could almost say an entity that you are possessed by. I don't want to get spooky, but it's an entity that you are possessed by that claims to be you. And it seeks to assert continuously its existence. It seeks to defend itself in its sense of identity because it is quite fragile.
+[04:22] Because somebody just insulting you will injure your sense of self. So it seeks to protect itself, but not enough. It also seeks to add more things in order to make itself feel more complete. So people are looking for themselves continuously by adding this or that to their, that mental structure that they identify with. So usually people, the sense of identity that is derived from that is you identify with the mental image of the mental image of your body. You identify with all identifications are ultimately mental. Even if you identify with a possession, as many people do, if you possess more or something better than another, then that works very well. For your ego can adopt that, identify with the car that you have. I know most of you are beyond that already, but there are still many humans who are in that evolved stage. They identify with some possession, a car, and then they feel enhanced in their sense of self because it's my car. It's not your car. And mine is bigger than you, than yours.
+[05:59] That's, it needs, it's, that sense of identity is comparative always. It needs the other.
+[06:10] Without the other, the sense of identity collapses. And you need to, it needs superiority over the other.
+[06:19] In one way or another, it needs the egoic sense of self, needs to sense or to assert its superiority over another. And so you identify, if you have a good body, better looking than other bodies, stronger than other bodies, then inevitably you as a young person would derive a significant part of your identity from the, the, ultimately the mental image of my body. A dog doesn't have that problem. A dog, they have, a dog has not arrived at the ego, egoic state of consciousness. So a dog is not proud of its body, nor is a dog ashamed of its body. Humans are either, many humans are proud of their body or ashamed of their body because other bodies are stronger, better looking than mine.
+[07:21] The, the dog doesn't have that problem. Even if the dog is overweight a lot, it's not a problem, just no mental image of me. It's free. It's free. It's free. The dog doesn't have a self. The human has a self.
+[07:42] The tennis is not ultimately real. So it occupies your mind. So the dog has, the dog's life is easier, more joyful than the human life.
+[07:59] Not, not many humans are like that. I've observed dogs for a long time and cats also.
+[08:07] They are joyful at the slightest excuse. They are joyful. They are not burdened with a mental image of themselves. They don't have a relationship with themselves. Humans have a relationship with themselves. There's a split. And then they say, it's me. I don't like me or I love. Some humans dislike who or what they are. So their split has occurred. Then if you go to certain, you discover certain, maybe new age teachings, which I think are great. They might teach you, you need to shift from disliking yourself, which is, love yourself. Love yourself. That's a good advice. It's a temporary thing.
+[09:00] It's an intermediate step. But it's, it's good for the time being. It's good to, good to have a better relationship with yourself than an antagonistic relationship with yourself. That's very, it's a horrible thing. If you continuously go through life disliking who or what you are or mentally criticizing yourself. That's ego too.
+[09:24] So you have antagonistic and so on. And then you learn from, you actually think, say, make an affirmation, I love myself. Ah, I love myself. Love myself. That's a step forward. It's not the ultimate step, but it's a step forward. And you put a sticker on your bathroom mirror. I love myself.
+[09:54] Thank you.
