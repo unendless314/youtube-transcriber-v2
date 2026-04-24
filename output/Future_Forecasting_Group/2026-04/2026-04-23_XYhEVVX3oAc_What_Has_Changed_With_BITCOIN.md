@@ -1,0 +1,21 @@
+---
+channel: "Future Forecasting Group"
+video_id: "XYhEVVX3oAc"
+title: 'What Has Changed With BITCOIN?'
+published_at: "2026-04-23"
+duration: "4:44"
+word_count: 3740
+---
+
+# What Has Changed With BITCOIN?
+
+[00:00] How has Bitcoin changed? Hi there, crypto fans. Hi there, remote viewing fans. Dick Allgare here, back from Korea. Ah, beautiful Ethereum place in Hawaii. We had a wonderful trip to Korea and some watchers of this channel complained because I did some food segments. It was like, "How dare you show food? You're supposed to be talking about cryptos and remote viewing." Well, remote viewing, I need a break from that and cryptos provide the luxurious lifestyle that allows us to enjoy great food in Korea, so we thought we'd show you some. Okay, no food on this segment. We're going to talk about how Bitcoin has changed. Actually, Bitcoin hasn't changed, but the perceptions around it have changed, certainly since I got into it back in 2017-2018.
+[00:45] Back in the day, there were a lot of people that were constantly saying, "Bitcoin is going to zero.
+[00:52] It has no intrinsic value. It's a Ponzi scheme. It's like the tulip bulb craze.
+[00:57] Yeah, Bitcoin's going to zero." These days, there are very few economists that are singing that tune.
+[01:03] There's one or two. Here's one. I'm in the Bitcoin's fundamental value value is zero bracket, so I'm sort of expecting it to have this sort of crush at some time.
+[01:13] Who is that? That guy's name was Steve Keen. He is an economist in Australia and just doesn't get it.
+[01:22] He just doesn't know. All right. A lot of people back in the day were saying that Bitcoin is only used by criminals. It's the tool of terrorists and drug dealers. There's no legitimate value in Bitcoin other than doing criminal enterprises. These days, it's hard to find someone with credibility saying that. Someone who has no credibility is Paul Krugman. Paul Krugman, what did you just say about Bitcoin and who uses it?
+[01:51] Paul Krugman: The places where Bitcoin has actually been useful to people, I mean, it's largely used for essentially criminal enterprise of some kind, but not all crimes are the same. And I will say that if you're trying to smuggle money out of Iran or something like that, then Bitcoin is a way around capital controls. But it's also a way that criminals install malware on your computer.
+[02:19] Paul Krugman, of course, is a nut job. He's the guy who in 1998 said, "The internet? There'll be no significant economic impact from the internet. People don't have anything to say to each other on a computer." Totally discredited. He'll be discredited again. In terms of only criminals using Bitcoin, who is like the third largest holder of Bitcoin? That would be BlackRock. BlackRock is the world's largest asset manager. It's the major financial institution in the world. So yeah, like I said, criminals. Oops. How has it changed? How has Bitcoin changed? Back in 2018, out of 21 million total supply of Bitcoin, 16.8 million had been mined. So there were still quite a few Bitcoin to be mined back then, eight years ago. Now, as of April of 2026, there have been over 20 million Bitcoin mined.
+[03:22] That's less than 1 million total supply left to be created. That means if a million people all tried to buy one newly minted Bitcoin, there wouldn't be enough to go around. Bitcoin is a fixed supply. It is a treasury asset. Back in the day when it first came online, it was an idea. It was a fringe financial concept. Now it's mainstream. Now it is acknowledged as a treasury asset. It is a store of value, digital store of value. Bitcoin is now the realization of energy as money. So I will never sell my Bitcoin. What I will do off my Bitcoin is earn interest. When Bitcoin goes to 200,000 to 250,000 to a half a million to a million. At that point, those of us with Bitcoin will just have it staked and we will earn interest on just owning it. Mark my words. Paul Krugman? Yeah, Paul Krugman. All right, that's the report. Aloha.
