@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "HOV549prHYw"
+title: 'Remote Viewer Looked at Iran''s Future - What He Saw Was Deeply Disturbing...'
+published_at: "2026-04-25"
+duration: "3:47"
+word_count: 2412
+---
+
+# Remote Viewer Looked at Iran's Future - What He Saw Was Deeply Disturbing...
+
+[00:00] something does feel haunted or infested or occupied may have to do with paranormal activity of some kind demonology worships summoning spirits like you know sacrifice blood rituals ritualistic things crowley comes to mind feels like it's a historical or past related thing and there may be some kind of leftovers or remains that are of interest okay i'm going to be going through my session data for p0d0-y2v6 starting off with my first visual diagram i'm seeing this uh what i'm gonna call a circular structure kind of concentric looking shape there my page two visit this looks like multiple circular aspects maybe stacked or layered on top of each other again a circular structure my low-level data seems like it's mostly structural things uh fine dust pitted stone um again this kind of concentric circular structure the way this is laid out uh it feels barred off or isolated i do feel like there's
+[01:30] gaps like concerning these vertical features like almost like you could pass in between you know there's some spacing in between these uh vegetation wind blowing rustling i got a very weird glimpse of this and i'm trying not to put too much aol on top of it here but older style architecture i would say it it reminds me of like old cathedral it's architecture this kind of gets kind of metaphysical with the probes here um i get the idea of holy land souls rest uh the land of the dead um there's chalky dusty redstone here i get the idea of inhospitable uh the road less traveled uh spirits haunt uh poltergeist phenomenon forbidden rustic uh like i said blocked off it reminds me of like a haunted castle or a haunted church house of horrors those kind of things come to mind here but an older structure maybe fallen out of use or looks like it's fallen out of use looking at the life i see a middle-aged man um i think he wears glasses i get the idea there might be involved with
+[03:02] magic black magic or witchcraft possession maybe studies and experiments maybe associated with like demonology or and stuff like that i see one of those i think it's the pentagram but uh summoning sigils like those kind of things come to mind here it does feel very occult and it's you know in the topics here demonology worships summoning spirits um like you know sacrifice blood rituals ritualistic things um you know pagan ritual comes to mind watch the full session today with our private membership using the link below
