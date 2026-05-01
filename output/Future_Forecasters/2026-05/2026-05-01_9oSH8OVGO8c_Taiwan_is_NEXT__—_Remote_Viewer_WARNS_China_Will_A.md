@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "9oSH8OVGO8c"
+title: '"Taiwan is NEXT" — Remote Viewer WARNS China Will Attack Taiwan'
+published_at: "2026-05-01"
+duration: "2:52"
+word_count: 2583
+---
+
+# "Taiwan is NEXT" — Remote Viewer WARNS China Will Attack Taiwan
+
+[00:00] i knew that it was something divided by water a large clash of cultures so there's an island area and then there's a land area and there's a separation between the two uh and you know the land and the island here but there's a tense situation that uh exists and it feels like there's going to be a future conflict here it's going to be like an invasion or incursion so like the land's going to invade the uh the island part um and it feels like this is like a one-way traffic of of of people in in troops and supplies that kind of stuff uh definitely sensed an asian field of this there is an aggressive angry feeling like uh one country invades another so it felt like they were going to invade like taiwan uh two divided opposing countries divided by an expanse that felt like water life in a situation very soon um growing tense situation very pressured uh i asked what this was politics squeeze feelings this compressed kind of politics um
+[01:02] uh that will break again it feels like a bordered land an island um felt under pressure exposed will be attacked uh i tried to look at when here between april 2025 and 2000 um and the dates here i don't know where that would be 2026 going into 2020 or something replaying an old style map showing a war invasion so you know when you see documentaries you see like they're replaying you know the world war ii maps of like the nazis moving in on europe and stuff i kept seeing an image like that of this like island and then this landlocked region with these arrows kind of like moving to the island as if showing that there's going to be some kind of invasion or troop movement type thing it felt very documentary like so a double action attack feel i feel aggressive action surprise event uh starts in the night time but lasts for several days a slap action starts it all embarrassment forces an issue uh this feels like an aggressive action from one country over another decisive aggressive movement direct fast surprise attack they feel like
+[02:14] neighbors but separated somehow maybe by water and the the aggressive motion feels like it's like south to north or east to west maybe even south southeast you know the southwest in that kind of feeling like that maybe two at the same time very strange kind of format also for this like yeah groups that would cluster countries that would cluster together and form five or six different alliance well i got there five alliances but a group of alliances which will then start working together because of this situation watch the full session today with our private membership using the link below
