@@ -1,0 +1,15 @@
+---
+channel: "Future Forecasting Group"
+video_id: "HqjdWbdvPIs"
+title: 'This Will Reshape Civilization'
+published_at: "2026-05-02"
+duration: "4:35"
+word_count: 2822
+---
+
+# This Will Reshape Civilization
+
+[00:00] in the olden days in the beginning of this iteration of the latest civilization on earth wealth was measured by ownership of water so you had someone here with a parcel of land and they had fresh water on it and they owned a well which meant they were well off they had wealth water was a current and the exchange of value and allocation of energy was measured through a current all right if you have this currency the current of water flowing from one place to another the way that the wealth is retained you retain the wealth by the banks that's where the currency resides within the bank some of the terms that we use today money has always been energy it's been stored as silver has been stored as gold and we're fast moving to a time we're in the transition right now
+[01:14] where wealth is going to be stored as digital information on distributed ledger blockchains through Bitcoin and other crypto currencies that will be the current the currency of wealth on this little ball of earth that we live on there have been six previous civilizations this is a race this is a competition that's why they call it the human race because it is a race it is a competition this is a pretty brutal place there are bears in the wood there are snakes in the grass there are people who stab you in the back you've got to learn to thrive you have to be tough you have to be smart and it is a competition at times it is a cutthroat competition that is for a reason to let us evolve and learn and grow it takes friction to create that growth so what this actually is is a scientific experiment so we as the beings within the
+[02:24] experiment are observing ourselves we're also being observed by the creators that's why you see the eyeball at the top of the pyramid the observation of the scientific race that's going on here previous civilizations it's been water events that have reset the civilizations so you have a water event and then you have a a renaissance you have the reset of the civilization through a catastrophe and then the renaissance and what is probably going to happen this time we may well have a water event but the renaissance will be the renaissance it will be the civilization being reshaped by technology we are future forecasting group dot com ffgrv dot com we created something of value that is not for for everyone but it is for discerning people to want to learn how to navigate this new system that's coming it is information that is not shared other places is information that is not available other
+[03:56] places ffgrv dot com what we give you is a different angle of observation on the coming changes we use remote viewing we have great sources we do interviews we keep up on the technology like this stuff and this stuff and remote viewing it's coming and it's coming fast future forecasting group dot com ffgrv dot com
