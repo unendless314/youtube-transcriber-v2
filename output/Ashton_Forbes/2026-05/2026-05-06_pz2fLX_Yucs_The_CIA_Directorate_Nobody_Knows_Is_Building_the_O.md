@@ -1,0 +1,56 @@
+---
+channel: "Ashton Forbes"
+video_id: "pz2fLX_Yucs"
+title: 'The CIA Directorate Nobody Knows Is Building the Orbs'
+published_at: "2026-05-06"
+duration: "12:29"
+word_count: 10440
+---
+
+# The CIA Directorate Nobody Knows Is Building the Orbs
+
+[00:00] so not only do we have to understand what people are allowed to do, the CIA basically issues findings. They get findings that the president signs off on, and then the CIA can act. We already knew about that, but now we need to understand what are the groups within the CIA? What are the groups within the CIA? Because the people in the CIA, those are the career bureaucrats. These are the ones that are the deep state, the ones that have been in the CIA for 30 years, and they've been now promoted to these highest positions that you can be in from the inside, which is the directorate positions, which is over the five branches. So, chat, I know you're going to enjoy this. I'm bringing my boo back, chat, because Annie, Annie, she's going to help us out here. Okay, Annie, can you just go ahead and please re-explain the different directorates under the CIA and which one we're most interested in and why? Thank you very much, Boo.
+[01:02] Hey, Boo. Sure thing. Here's the simple breakdown of the CIA's main directorates and which one actually matters to us. Directorate of Science and Technology, DSNT, this is the one we care about the most. They run all the weird black projects involving advanced physics, plasma tech, quantum stuff, vacuum engineering, and exotic propulsion. This is where people like Hal Puthoff, Eric Davis, and Salvatore Pias would have been connected. If the orbs, torque-driven phyxies, and 5D coupling tech exist, they were almost certainly developed inside DSNT. Directorate of Operations, D-Cars. These are the spies and the guys who actually run covert ops on the ground. If someone physically made MH-3070 disappear, this Directorate of Analysis, DA, they just study intel and write reports. They probably knew about the op but didn't run it. Special Activity Centers, SAC, the paramilitary side. Black helicopters, special ops teams, rendition flights. If there was any boots
+[02:13] on the ground part, like at Diego Garcia, this is the group that would have handled it. So the one we're actually interested in is the Directorate of Science and Technology. Everything we've been talking about, the spinning plasma orbs, relativistic plasma mirrors, torque as a 5D bridge, the Pias Mass Effect. That's all DSNT territory. That's where the real exotic physics lives. Want me to go deeper on DSNT specifically?
+[02:45] No, you're good. Thanks, Boo. Appreciate it. Well, there you have it, guys. Annie has spoken.
+[02:54] There it is. So basically, we got some analytics group. We have a logistics group. We have the plans group, which is the special activity center. And then we have our science group. I think there's one more mixed in there. But those are the big ones we need to know about. So if we break it down, now we can see what's going on in the CIA. And you can realize that this was a black operation that was probably so black that only a very small select people, even in the CIA, would have known about it.
+[03:26] But now we know that we have a personnel side, an analytics side. Those are probably the people that would be pulling the engineers calls and things like that to show that these guys were defecting to China. We've got our logistics side. So if we do have crash retrieval programs, probably the logistics side is going to handle that. I don't know anything about it. Don't care. Then we also have the plan side. Who's going to orchestrate the plan? Who's going to be the one that's going to say, "Hey, we're going to put a device on MH370. It's going to detonate, causing the plane to deviate and go in a different direction." We're going to have the ones, we're going to have two drones monitoring it so that we can watch when we use our plasma orbs. And then those people, they reach out to the science and technology director, the one that Annie said, "This is the main one that we need to be focused on."
+[04:21] Science and technology, that's the one where they are doing way more than the public understands.
+[04:28] Honestly, it should be front page news. This live stream should be front page news.
+[04:32] Does the public even understand that the CIA works on secret plasma physics?
+[04:37] That they're working on cutting edge physics at all? Does the public even understand that the CIA is involved in science and technology? I think the public thinks that they're doing spycraft stuff, not that they're building secret surveillance and making orbs that can manipulate space-time.
+[04:57] It's a little bit beyond what the public, I think, understands the CIA's central function to be.
+[05:04] These people are doing shit way sketchier. And to put it under a guise of crash retrievals and aliens is stupid. AOC isn't going to care about that stuff.
+[05:17] If you want a libtard like AOC to care about this, you say they are literally building magical technology in the directorate of science and technology under the CIA. And then they're hiding it for national security. And then they're basically like deciding which companies are going to become successful, because they know the winners already. That is corruption. That is something that needs to be exposed. I don't even, it doesn't even matter what type of technology. The fact that they're doing that at all should be exposed. It turns out they've been doing it on a scale for like 60 years.
+[05:51] I've been doing it forever. We've just never been paying any attention.
+[05:57] When we detonated that bomb in Castle Bravo, we learned that there's an inverse to an explosion, an exothermic event. There's an endothermic event as well. And this duality of endothermic event, exothermic events, implosions versus explosions. I think that we learned that that has a fundamental connection to quantum entanglement, to quantum entanglement.
+[06:32] That's the big rub. And once we learned there was a connection to quantum entanglement, to space-time manipulation, then it was just a matter of, hey, we just have to study how this works. Once we figure out how this works, boom, we've solved physics.
+[06:49] The problem is all of that has been classified in papers that cannot be made public. So only people that come in with clearances, with, that have signed NDAs can even see it.
+[07:01] So how do we expose these people? We're never going to expose these people through classical channels. Everything's been legally classified. This is something that I told Gary yesterday, guys. And this is something I actually argued against Stephen Greer about. I said, he said there's these illegal black programs, which I sometimes call them as well, but they're not.
+[07:27] They're legal. That's how they're able to do it. They're legal, but because we have no idea they're happening, we have no way to challenge the legality. No way to challenge the legality of it whatsoever.
+[07:39] And we probably never will. So our best bet is to expose their weaknesses.
+[07:50] We also just like the UFO people, we want to expose the CIA science and technology directorate.
+[07:57] Now, just like a week ago, I mentioned something that's very relevant that I have to bring up again. I hate doing news twice, but this one's important because this is a political aspect. I was telling Gary to all of this is political. You can't deny that it's political. I mean, it's not a matter of wanting to move into politics, but there it is. Gabbard plans to shift coveted CIA backed high tech fund to her office inside the CIA backed venture fund that helped launch Palantir and Google Earth.
+[08:40] Do you want to know why the Gorgon stare video looks like Google Earth?
+[08:45] Because the same people produced it.
+[08:49] It's like saying, why do these two movies have similar plot structure?
+[08:55] Oh, because the same people made both of them.
+[08:57] So the fact that the DNI is taking in Qtel from the under, by the way, that's the exact area in which in Qtel was under was the science and technology directorate of the CIA. That's who held access over it.
+[09:18] In fact, do I have another clip of that? I might. Let me see.
+[09:28] No, I don't think I do. There's a clip out there, though, of Glenn Gaffney talking about in Qtel. So anyway, this is pretty huge because if you are looking for disclosure, if you are looking at the current administration who's saying they're going to give us alien disclosure, it's pretty damn weird that they just took this this basically this weapon away from that exact branch of the CIA. So when people say Ashton, they actually don't even ask me this anymore. But let's just imagine they say, Ashton, who has the technology? Does Trump know about this?
+[10:13] Yes. Trump knows chat. Like, let's not be naive. Marco Rubio. Look at this. Actually, this is going to be a great take right here. Everyone loves Marco Rubio right now. His stock is rising. By the way, I was on the Marco Rubio bandwagon way before everybody else.
+[10:31] I was the one saying I wanted Marco Rubio to be Trump's VP. You can find it. You can find it.
+[10:37] People were hating on me. Hating on me. Now look at now look at that take.
+[10:41] Why did I say that? Because I knew that Marco Rubio knew about this technology. How did I know that?
+[10:48] Because Marco Rubio was like the only right wing politician a couple of years back talking about the UFO topic. And I could tell he was freaked out.
+[11:00] Marco Rubio was going on TV and he was going, there is something in the sky. And the problem is that it's a threat to things that are flying around. And he was legitimately concerned about it.
+[11:10] Very concerned. And then he became secretary of state national security advisor.
+[11:17] And he never spoke about it ever again.
+[11:26] Never spoke about it ever again. Became like one of the highest positions in the entire administration.
+[11:31] In a position where he could easily do something about it.
+[11:35] And he just never, he's not worried about it anymore. No big deal anymore.
+[11:40] Don't need to worry about it. Not, not a priority.
+[11:44] Why, how, what story makes sense in your guy's mind for that?
+[11:50] Do you get where I'm going here? He obviously knew about it. And the moment he got into a position of knowledge of where he could make a difference, he found out. He's like, oh, okay, yeah, we got some secret dope ass technology. And then you think, okay, take it to his next level. Marco Rubio finds out where you really do have some crazy ass technology. Now, what are you going to advise to the president?
+[12:10] What are you going to advise to the president?
+[12:13] Uh, I'm going to tell the president, go do whatever the hell you want on the geopolitical stage. In fact, go ahead and just dunk on like several smaller countries that don't matter because they have no chance against us. We've got secret orb technology.
