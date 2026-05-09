@@ -1,0 +1,20 @@
+---
+channel: "Future Forecasters"
+video_id: "ofWj3CwJxXI"
+title: '"The Sky Goes Dark" — Remote Viewer Sees Nuclear Event That Blacks Out The Sky'
+published_at: "2026-05-08"
+duration: "4:55"
+word_count: 3469
+---
+
+# "The Sky Goes Dark" — Remote Viewer Sees Nuclear Event That Blacks Out The Sky
+
+[00:00] So my sight sketch is a barren crater place with the trees all knocked down. So I look at land one and I get a big energy event, like a big pressure blast wave. It seems like this is something that birds 25 or 30 miles away are going to all get startled and flutter off. Like, wow, the overpressure is so strong, many miles away. So rumbling, boom, crash, burn.
+[00:31] Now the term 22,000 rads came to mind. I moved to after the event, like, okay, let me look at this without the explosion. And I saw this huge crater. There's a pipeline that's been severed. There's a lot of trunks that are, trucks that are burnt, skeletons, a dead zone, felt kind of Eastern Europe to me. That's what I was thinking. And then I looked out wider, like there's a zone where everything's gone, vaporized, then trees knocked down, then standing and damaged, and then living trees, concentric rings of devastation. And like Daz and Edward, I had different things going on at different places. Away from the blast zone is vehicles like military convoy, like a line of demarcation, a defensive readout, vehicle noise, confusion, battle type stuff.
+[01:32] And then an area where there's an underground command post that I knew was there, but I couldn't see it from the ground. It's like camouflaged. And there's fake decoy places where they're putting off radio traffic and EMF traffic to like, "Oh, we're not here. We're over there," like decoy areas.
+[01:56] And I get Wi-Fi jamming, fake transmission signals blocked, satellites going down, areas blacked out, problems with signals and transmissions. Out of the blue, I saw one of Elon's rockets and I go, "That thing's not launched. Something's disrepair. It ain't working." And then I had an S5 bilocation where I'm going, moving into a city. It's daytime, but the sky is really gray. It's full of particulate. You can't see the sun. It has a real disturbing feel. And the gray sky doesn't seem localized. It is dispersed in uniform.
+[02:38] Like, "Hey, something's really blacking out the sky." They asked me, said, "Do a timeline."
+[02:47] So I had finished my session. I reconnected. It's only by feeling ideograms. So I write the target ID and I embed. Instead of getting data from the ideogram, I embed data into the ideogram when I make it.
+[03:04] So I'm going, "This is the time that this target is happening." And then I make ideograms for summer, fall, winter, spring. And I probe them and feel which feels the most like it. And it felt like fall to me.
+[03:21] So right there, without using any numbers, I've narrowed it down to a 90-day window. And that window would be September 21st to December 21st. It was about, I think, 13 days. And then I made ideograms for 2020 or 2020. It was between 2020 and 2020. So I went with 2020. I say October 3rd plus or minus three days in October 2020.
+[03:54] And so let me ask, well, everybody, but Daz and Edward particularly, because it felt to me like this was several events that were different. Like it could have been a war in an exchange of weaponry, but also like an asteroid or a super volcano or something like competing disasters all at the same time are tied up like a bigger cosmic disaster in a time of war would be the theme of mine. It would certainly explain the changing of a map to the degree that Hitomi sketched if it was more than just war. But it depends on what types of weapons are being used too, right? And how widely. But yeah. Fascinating. Watch the full session today with our private membership using the link below.
