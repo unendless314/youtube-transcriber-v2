@@ -1,0 +1,179 @@
+---
+channel: "Coin Bureau"
+video_id: "fBCXleyVy-k"
+title: 'The Truth Behind The TON Pump'
+published_at: "2026-05-15"
+duration: "12:53"
+word_count: 12331
+---
+
+# The Truth Behind The TON Pump
+
+[00:00] Ton just pumped over 100% in four days.
+[00:02] Pavel Durov is everywhere, Telegram is officially eating its own blockchain and the timeline is calling it the next Solana.
+[00:09] But almost nobody is asking the question that actually matters.
+[00:12] Is any of this real?
+[00:14] Because when you strip away the Durov mythology, the Telegram hype machine, and look at the actual numbers, the story kinda falls apart.
+[00:22] The revenue is microscopic and the staking yields Durov keeps mentioning are funded by an inflation rate nobody wants to talk about.
+[00:29] Simply said, the on-chain activity does not match the market cap.
+[00:33] And the entire bull case, which is a massive one, rests on a Telegram integration narrative that has been promised for years.
+[00:39] So in this video, I'm going to break down exactly what is driving the Ton pump, the numbers Durov is hoping he will never get to see, and why this rally might be one of the cleanest narrative versus fundamental disconnects in the entire landscape of crypto.
+[00:53] Now, this is not a fud or a hit piece.
+[00:55] I'm holding Ton myself, but we just have to be honest about a couple of major things.
+[00:59] I'm DC and you're watching The Coin Bureau.
+[01:02] So let's start with what the market actually believes.
+[01:13] Ton closed May 3rd at $1.35.
+[01:15] By May 7th, it touched $2.90.
+[01:18] That is a 100.7% move in four days.
+[01:22] Year to date, Ton is up 43.9%.
+[01:25] In a market where Solana is down 24%, Avalanche is down 26% and Aptos is down 40%.
+[01:30] Almost every major layer one is bleeding out while Ton is ripping vertically.
+[01:35] And it makes sense.
+[01:36] The bull case is enormous.
+[01:38] Telegram, with 950 million monthly active users, is officially taking over the network as the largest validator.
+[01:45] Durov calls it mTonga, make Ton great again.
+[01:49] The CAT chain 2.0 upgrade dropped block times to 400 milliseconds.
+[01:52] Fees got cut six times to a fraction of a cent.
+[01:56] Staking yields are sitting at 18.8% according to Durov's own posts.
+[02:00] And the narrative is that we are watching a chain with a billion user distribution pipeline finally turn on its engine.
+[02:07] Fair enough.
+[02:08] That sounds very bullish.
+[02:09] And that is a real story.
+[02:11] By the way, if you want our team's real-time take on the next Ton-style setup before it rips, jump into our free telegram.
+[02:18] The link's in the description.
+[02:19] It's genuinely worth it.
+[02:21] Okay, let's look at what the chain actually produces.
+[02:24] Ton's 24-hour chain revenue is $2,342.
+[02:29] Annualized, that is roughly $855,000.
+[02:32] Not $855,000, $855,000.
+[02:36] For a network, the market is currently valuing at $5.88 billion.
+[02:40] That gives us a price-to-fees ratio of around 3,440 times.
+[02:45] For context, Solana's price-to-fees ratio sits around 310.
+[02:49] Avalanche is around 2,000.
+[02:51] And even Sui, which is still in its growth phase, is around 1,000.
+[02:54] So Ton is clearly sitting in a category by itself.
+[02:58] And it gets worse when we look at total value locked.
+[03:01] Ton's TVL is $89 million.
+[03:04] That is down 91% from the $800 million peak in summer 2024.
+[03:09] As a comparison, Solana's TVL sits around $5.5 billion.
+[03:13] So in other words, the market is pricing Ton at 66 times its locked capital, while it's pricing Solana at about 10 times.
+[03:20] Per dollar of actual on-chain economic gravity, the market is paying a 6.5 times premium for Ton over the chain that has actual revenue.
+[03:29] Now hold that number in your head because it gets really interesting when we layer on the yield narrative.
+[03:33] This is the part of the pitch that is doing the most damage.
+[03:36] Durov posted on May 8th that Ton offers the highest staking APR in the top 50 at 18.8%.
+[03:43] And he is technically correct.
+[03:45] You can really earn that.
+[03:48] What he left out is where the yield actually comes from.
+[03:50] A staking yield in proof of stake is one of two things.
+[03:53] It is either real fee revenue distributed to stakers or it is freshly minted tokens distributed to stakers.
+[04:00] In simple terms, the first is actual yield.
+[04:02] The second is dilution dressed up as yield.
+[04:05] Let's run the math.
+[04:06] Ton's annual inflation rate after the Cat Chain 2.0 upgrade in April jumped from 0.6% to roughly 3.6%.
+[04:14] Six times more block production means six times more validator emissions.
+[04:18] And only 16.3% of ton supply is currently staked.
+[04:22] When we run that through our calculator, 3.6 inflation divided by 16.3% participation gives us an effective staking APR of about 22%.
+[04:31] That is exactly where Durov's number comes from.
+[04:34] The yield is not generated by the network.
+[04:36] It is printed by the network.
+[04:37] The chain mints roughly $230 million worth of new ton every year to pay validators and it collects about $1.7 million in annual fees.
+[04:46] The fee burn offsets less than half a percent of emissions.
+[04:49] The other 99.6% comes out of the pockets of every ton holder who is not staking.
+[04:55] Which brings us to the question Durov will not answer.
+[04:58] If 16% of the supply is earning that 22%, who is paying for that?
+[05:03] Of course, the other 84%, every retail Telegram user who got a few ton from a hamster combat airdrop and left it in their wallet is being silently diluted by 3.6% a year.
+[05:14] And the inflation rate itself is not a fixed parameter.
+[05:17] It is a byproduct of the speed upgrade.
+[05:19] There is a validator governance vote scheduled for June to potentially cut block rewards back down.
+[05:24] Which means the 22% APR Durov is using as a marketing bullet point may be a temporary side effect of an upgrade he is now selling as a permanent feature.
+[05:34] But here's the deeper problem.
+[05:35] Even if the inflation gets fixed, the yield gets cut along with it.
+[05:39] You cannot have it both ways.
+[05:41] Either the network keeps printing to subsidize stakers and dilutes everyone else or it stops printing and the headline APR collapses back to single digits.
+[05:49] There simply is no third option that does not require the chain to actually generate meaningful fee revenue, which it currently does not.
+[05:56] Right.
+[05:57] If you're looking to trade these latest market moves, whether that's crypto or traditional assets like gold and commodities, then BitGet is definitely worth a look.
+[06:06] They've just rolled out their TradFi trading platform, which lets you trade assets like gold and other commodities directly using USDT.
+[06:14] So you don't need to jump between platforms.
+[06:17] You also get deep liquidity, low slippage and access to up to 500x leverage.
+[06:25] Now, if you sign up using the QR code on screen or the link in the description, you can get up to $50,000 in bonuses.
+[06:36] And on top of that, if you complete your first net deposit of $5,000 and place your first trade, you'll unlock a VIP 3 trial.
+[06:46] Now, that includes up to 38% fee discounts, exclusive VIP perks and free token airdrops.
+[06:56] So scan the QR code, check the link below and see what BitGet has to offer.
+[07:03] Okay, let's talk about the integration that is supposed to fix all of this.
+[07:06] Telegram has somewhere between 950 and a billion monthly active users.
+[07:11] That is the entire bull case in one number.
+[07:13] Ton has 125,000 daily active wallets.
+[07:17] And again, if we take our calculator, that is a conversion rate of 0.013%.
+[07:23] Now, for a project that has been promising the on-chain conversion of Telegram's user base since 2018, some might argue those numbers could be a little higher.
+[07:33] In all honesty, that's not a funnel.
+[07:35] That's a tiny, tiny leak.
+[07:37] And we have already watched what happens when the funnel gets temporarily plumbed.
+[07:41] Hamster Combat hit 300 million registrations in 2024.
+[07:44] By late 2025, monthly active players had dropped 86% to 41 million.
+[07:50] The mini app Gold Rush drove TVL to $800 million, but eventually the mini app Gold Rush ended and TVL collapsed to 98 million.
+[07:59] Now, Telegram stars, the in-app currency that is supposed to be the new on-ramp, is not actually a ton token.
+[08:05] It is an off-chain virtual currency that exists inside Telegram servers to comply with the App Store rules.
+[08:11] Traders have to manually withdraw stars to fragment, convert them to ton, and move them to a wallet.
+[08:17] But most users never take that path.
+[08:19] So the headline number Durov uses, the billion users, never touches the chain in any economically meaningful way.
+[08:27] Which brings us to Durov himself, and credit where credit is due.
+[08:30] Pavel Durov is one of the best narrative operators in the entire industry.
+[08:35] Full stop.
+[08:36] The Mtonga branding, the timing of the CatChain 2.0 announcement before the validator takeover announcement, the personal liquidity pool investment in late 2024, the alignment with Elon Musk on free speech, and the framing of Telegram becoming the largest validator as somehow strengthening decentralization.
+[08:53] This is masterclass level engineering.
+[08:56] But it is narrative engineering.
+[08:58] When the largest validator is the company that controls the application layer, that is not decentralization.
+[09:03] That is centralization with a public relations budget.
+[09:07] Durov is also navigating a 12-count French indictment, an active Russian criminal case, and a travel situation that was only fully relaxed in November 2025.
+[09:16] So every bull thesis on Ton is implicitly a bet that the founder remains free, focused, and operationally capable of executing the roadmap.
+[09:25] That is a key person risk.
+[09:28] And of course, that's not in the marketing materials.
+[09:30] So when we zoom out, we have to be honest.
+[09:34] Ton is a perfect case study for something that happens repeatedly in crypto.
+[09:38] The market keeps proving that a narrative can move prices much, much faster and further than any fundamentals can justify.
+[09:44] Luna did it with 20% anchor yields funded by venture subsidy.
+[09:48] ICP did it with a decentralized internet pitch.
+[09:51] Nia did it twice with sharding and ecosystem grants.
+[09:54] In every case, the chain eventually got priced back to what it actually produced.
+[09:59] And in every single case, the people paying full freight at the top were the ones who skipped the spreadsheet.
+[10:04] Now, this was the bearish part, but there's also a bullish part.
+[10:08] And we want to be fair.
+[10:09] There is a path where the bull case becomes real.
+[10:12] If Telegram Stars launches at scale in Q3 and meaningful slice of Telegram's ad revenue starts flowing through Ton, that is a genuine recurring demand mechanism.
+[10:22] If the June validator vote cuts inflation back to 1%, the dilution problem moderates and the staking yield becomes much more honest.
+[10:30] If the Ton teleport Bitcoin bridge ships and brings real BTC liquidity into the ecosystem, TVL has a huge path backup.
+[10:38] And if daily active wallets grow from 125,000 to about half a million over the next few quarters, the integration thesis starts to look measurable instead of mythological.
+[10:47] Yes, these are a bunch of ifs, but they are all real possibilities.
+[10:52] Unverified, forward-looking and entirely unreflected in current on-chain data, but possibilities.
+[10:58] So how do we actually position ourselves around this?
+[11:01] There are a few things we have to watch.
+[11:03] The May 24th token unlock of roughly 36 million Ton worth about $93 million is the next stress test.
+[11:10] If price absorbs it cleanly, that tells you something about real demand depth.
+[11:14] The June governance vote on validator rewards is the credibility test for the entire yield narrative.
+[11:20] If they cut emissions, the headline APR drops and the price probably follows.
+[11:24] If they do not, the dilution continues and the long-term holder math gets worse.
+[11:29] This is where we have to watch the cadence of Durov's statements.
+[11:32] When founders need to be in front of a camera every week to keep the price up, that is a sentiment indicator, not a fundamentals indicator.
+[11:39] And compare Ton to what Aptos did.
+[11:41] Aptos voted in April to cut its own staking rewards from 5.19% to 2.6% and cap its total supply.
+[11:48] The market caps Aptos at $833 million.
+[11:51] It caps Ton, which is moving in the exact opposite direction on supply discipline, at $5.88 billion.
+[11:58] One of those numbers looks wrong.
+[12:00] Look, Ton might still pump from here.
+[12:02] I sure hope it does.
+[12:03] But narratives in crypto can run far longer than fundamentals justify.
+[12:07] And Pavel Durov is one of the best narrative operators in the industry.
+[12:11] Keep that in mind.
+[12:12] Pumps built on inflation-funded yields and unverified integration promises eventually meet reality.
+[12:18] They always do.
+[12:18] The question is not whether Ton has a future.
+[12:21] The question is whether the price you are paying for today reflects what the network actually produces or what Durov is telling you it will produce someday.
+[12:29] And sadly, that's a recurring theme in crypto.
+[12:33] The most expensive lessons are the ones you learn after the music stops.
+[12:36] I just hope this one keeps playing as long as possible.
+[12:40] If you've got value from this, please smash the like button.
+[12:44] It genuinely helps the channel a lot.
+[12:46] And as always, thank you so much for watching.
+[12:48] I'll see you again very soon.
+[12:50] This is DC signing off.
