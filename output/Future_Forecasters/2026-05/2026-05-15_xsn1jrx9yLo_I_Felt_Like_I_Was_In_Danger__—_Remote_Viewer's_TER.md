@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "xsn1jrx9yLo"
+title: '"I Felt Like I Was In Danger" — Remote Viewer''s TERRIFYING Session on Ray Kurzweil'
+published_at: "2026-05-15"
+duration: "2:43"
+word_count: 2293
+---
+
+# "I Felt Like I Was In Danger" — Remote Viewer's TERRIFYING Session on Ray Kurzweil
+
+[00:00] if i had to call this one out before i did anything at all i would say like jack the ripper vibes but definitely had like a deranged look in his eye and it made me wonder is this person psychotic or not but i definitely smelled like cigar type tobacco old person soaked in the wet rain this person does not seem normal sees things differently and then as a remote viewer this doesn't happen very often but i felt like i was in danger passenger in the vehicle had their head back they were either intoxicated drugged or barely conscious head was bobbing around as the vehicle moved this person was hit very hard with something a heart-stopping experience like they saw themselves outside of their body and being taken away a somewhat terrifying ordeal that sense of letting go and drifting away going in and out of a state of consciousness this person is going awake and then asleep in and out reminds me of robert monroe or an edgar casey
+[01:07] type they go and then they come back a live then dead again cycle he celebrated some type of achievements like he's been awarded or you know he's noted in the public for something adored by some he's appeared in the media but then there's regret and distress and a rumor mill surrounding him like he's made controversial statements i see him writing almost like a declaration something written into existence through the power of the pen he's been singled out or he was treated differently and isolated he feels like a kind of like a black sheep or a loner like he feels separate and different from everybody and there were two other male lives that they were having uh you know having doing this kind of global impact kind of plan uh one of the lives here is over 50 highly placed but this is all about a strategic plan here and positioning and an alliance or a deal to do with the future lots of covert discussions and back channels very kind of sneaky feel to this uh almost like a dark feel to it very like aol's here a
+[02:16] political secret society feel very kind of skull and bones feel and this was definitely a with an american flavor so it was all about the person person on the rise uh who's maneuvering into position and he's sorry he's doing this by any means necessary watch the full session today with our private membership using the link below
