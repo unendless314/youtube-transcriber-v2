@@ -1,0 +1,15 @@
+---
+channel: "Eckhart Tolle"
+video_id: "T13Twrx2Dvk"
+title: 'What Most People Believe About Life is A Lie | Eckhart Tolle'
+published_at: "2026-05-21"
+duration: "5:15"
+word_count: 2870
+---
+
+# What Most People Believe About Life is A Lie | Eckhart Tolle
+
+[00:00] you are life an expression of the one life a temporary expression in this form of the one timeless life so you don't have a life because then it means there's life and you but who are you without life there is no there's not that barrier between there's me and there's the rest of the world no you are the universe you're not as i sometimes say you're not in the universe this is the mismatch me and and the universe you are the totality you are the whatever you experience the universe is experiencing if you are in joy the universe is in joy so the when you look at nature comes to a self-realization that wouldn't have been there without your so-called your presence and that's a wonderful thing to know that the that's really is the you begin to see the oneness with you and that and this the oneness
+[01:27] when you become which is not there the moment you conceptualize and impose labels on things that creates the barrier when you let go of that there's a continuum and there's a that sense of oneness with that which you are perceiving and ultimately in a deeper sense that that oneness is love not in the conventional sense not the sticky love that just but it's the recognition of oneness and that's a so this is the use nature so that to become still and present as you walk through it and perceive with all your senses and then you're aware you're aware of not only that which arises in your sensory perception but more even more fundamentally you are aware of yourself as the underlying presence without which all this wouldn't even be there it the light needs to be there the light of consciousness it all arises in the light of consciousness
+[02:54] you are that light and that light is not your possession you are it comes through you it's not these are not individual lights it's your life is not yours you don't have a life as one of my favorite has become one of my favorite sayings you don't have a life you are life i don't have a life it's an absurd error to say my life because this is what thought which then becomes language becomes words what it does to reality it creates misperceptions so i mean it seems so natural you say my life everybody says it and i say it sometimes and i say sometimes your life but i don't believe in it it's just a conventional way of speaking but most people actually believe in it they believe that that they actually have a life and they have this is my life i need to think about my life now um oh so you've separated yourself you said this is me and there's my life that's strange
+[04:14] and then of course the the fear comes oh what am i going to do with my life i could lose my life okay you can you cannot have a life because you are life an expression of the one life a temporary expression in this form of the one timeless life so you don't have a life because then it means there's life and you but who are you without life you
