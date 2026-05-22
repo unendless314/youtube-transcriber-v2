@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "JEUoeFi2Qec"
+title: '"Money Isn''t His Objective" — Remote Viewer Reveals What Pfizer''s CEO Really Wants'
+published_at: "2026-05-21"
+duration: "2:37"
+word_count: 2329
+---
+
+# "Money Isn't His Objective" — Remote Viewer Reveals What Pfizer's CEO Really Wants
+
+[00:00] i got somebody looking at their watch saw that like the ticking of time going by uh some sort of a cylindrical object that was curved forward motion not going up it was forward and then i got like the conveyor belt going on into s2 nemo uh i got somebody holding a box and i got vials all lined up like a manufacturing facility and i saw the people on the line watching the boxes and uh there was some type of product like the vials inside so mass production operation factory setting feels sterile uh downward motion as far as value goes and i just saw you know people working on an assembly line so this is where it gets a little more interesting i got sort of a i got a water gestalt uh structure energy and human um so i saw i i closed my eyes and i saw what looked like cells and uh but these little black things were moving in and like attacking the cells it was the weirdest visual i had on a blackboard in a long time but i was like at the molecular level looking at these
+[01:07] cells and they were being attacked and invaded and this is kind of like those videos you see of the mrna vaccines working with live blood now that i know what the target is government and business was blended like it wasn't the government it wasn't a business dirty deals um not in the best interest of us was the was the main thing i got um and i got this uh visual of a black cloud and like it felt like cancer spreading um like these cells were dividing it out of control like like you would see with cancer um not not a good feeling i didn't get the the ceo that you guys were getting but i centered in on this male uh he was an older male over 50 he's kind of pudgy bald had glasses very calculating he had zero emotion uh no remorse for the harm he was doing to others um i'd say we call him evil but he doesn't see himself that way it was very strange um so overall this target felt like it was more manufacturing oriented the overall economic feeling was negative like it's losing value but the man in
+[02:12] charge doesn't seem to like uh what he's or he doesn't doesn't seem or care like he's got another objective entirely like he the money isn't his objective it's something else that's that kind of sense i got so overall this target had a really creepy vibe to it watch the full session today with our private membership using the link below
