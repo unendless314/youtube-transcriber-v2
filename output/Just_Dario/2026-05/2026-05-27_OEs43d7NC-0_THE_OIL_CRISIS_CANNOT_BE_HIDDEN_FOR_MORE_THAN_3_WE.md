@@ -1,0 +1,43 @@
+---
+channel: "Just Dario"
+video_id: "OEs43d7NC-0"
+title: 'THE OIL CRISIS CANNOT BE HIDDEN FOR MORE THAN 3 WEEKS'
+published_at: "2026-05-27"
+duration: "9:34"
+word_count: 8146
+---
+
+# THE OIL CRISIS CANNOT BE HIDDEN FOR MORE THAN 3 WEEKS
+
+[00:00] Hello, everyone. Today is the 27th of May, 2026. In this new Just Dario daily update, I'm willing to continue to focus on the very important developments in the oil market, the impact on broader markets, and ultimately, the moment when I believe the worsening oil supply crisis will become impossible to hide, especially for governments, and in particular, the US government. Before we begin, don't forget to like the video, subscribe to the channel, and turn on the notifications if you don't want to miss any of my future updates.
+[00:34] All right. First of all, I want to show you a chart I presented during my last weekly podcast, comparing it with a remarkable Google Trends time series that includes searches for oil crisis and energy crisis. There is a lot of important information here. First of all, you can see how the Google Trends data in 2008 and 2022 and today confirms what I've been talking about on Monday when I presented the chart at the bottom. In 2008, there was neither an oil crisis nor an energy crisis.
+[01:08] In 2022, there wasn't an oil supply crisis. However, because of the war between Ukraine and Russia, there was a briefly scare of a potential energy crisis. Nevertheless, the Biden administration used the SPR as a tool to force oil prices lower in order to artificially contain inflation.
+[01:28] Fast forward to today, we saw both Google Trends spike sharply. But over the past few weeks, the oil prices trended significantly lower, even as oil prices have remained well anchored above $90 a barrel, despite all the price manipulation efforts. As we know, neither crude oil prices nor gasoline prices have been hitting new all-time highs. Despite we are experiencing the worst oil supply shock in history, in the future, the oil prices are over $90 a barrel. That continues to worsen, and that is the result of intense market manipulation designed to keep oil future prices capped at $100 a barrel, using both financial means and timely dump of strategic petroleum reserves into the open market by the U.S. and its major allies, like Europe and Japan. Here is the key to understanding how long this oil crisis can remain hidden from the public. The psychological narrative and psychological warfare has been incredibly successful so far, even though, as I warned you two days ago, there was no progress
+[02:34] whatsoever in the peace negotiations between U.S. and Iran, because the two sides are miles apart on the terms they would find acceptable to sign even a non-binding memorandum of understanding.
+[02:49] In this table, you can see that U.S. SPR during the Biden administration, which, as we know, used SPR dumping as a tool to force oil prices down and tame inflation, bottomed in the first week of July 2023 at 346,758,000 barrels. Afterwards, the administration slowly began to replenish the SPR, and the trend continued during the first period of the Trump administration.
+[03:19] This data is not included in the chart you are seeing on screen right now, because it will be updated tomorrow after the latest EIA release. Another significant SPR drawdown, roughly 9 million barrels, was just reported for last week, and that remains beyond the maximum weekly drawdowns recorded during the Biden administration.
+[03:40] This data, pay attention, isn't included in the chart you are seeing on screen right now, because it will be updated tomorrow after the latest EIA release. But if you subtract 9 million barrels from 374,175,000 barrels of SPR as of the 15th of May, 2026, we are now down to roughly 360 million barrels left in the SPR.
+[04:05] That means the gap between we stood last week, not this week, let's be careful. And the Biden administration law is roughly 30 million barrels.
+[04:19] That means we have about three weeks before the SPR hit another all-time loss.
+[04:31] Considering all the barrels being leased to commodity traders since the beginning of the war, we already know that the number is going to fall to at least 284 million barrels.
+[04:37] Now, what's important to understand is that this market isn't driven by fundamentals, no matter how much people like me try to bring that attention to them, but fundamentals will matter sooner or later, because reality can only be hidden for so long.
+[04:59] I believe that once we record a new all-time low in the US SPR people will start taking the unfolding oil crisis in serious consideration.
+[05:08] Properly assess the long-term disruptions from the still unresolved situation in the Strait of Hormuz.
+[05:14] If the Trump administration continues to draw down the SPR so quickly, the critical bottom of 150 million barrels will be reached within this year.
+[05:25] And it won't be possible to go any further. Otherwise, the salt caverns where the SPR sits will bloat because of lack of pressure.
+[05:35] And let's not forget one more thing.
+[05:38] We already know the bottom is expected to be at 284 million barrels unless more SPRs will be auctioned.
+[05:45] But there is another limit the Trump administration is not allowed to breach without specific approval: the government mandatory minimum of 270 million barrels.
+[05:56] As things stand right now, that limit could be hit in July.
+[06:00] That point will no longer be possible for the US administration to subsidize the world with cheap crude oil from its reserves without Congress approval.
+[06:10] Tell me who among the Congress representatives seeking re-election few months later will be willing to support that?
+[06:17] I feel nobody will. At the same time, commercial inventories will likely have collapsed to a significantly low level as well.
+[06:24] Since nobody has been restocking under the condition, the Strait of Hormuz will quickly be reopened.
+[06:31] And in the blink of an eye, everything will go back to business as usual, as it was on the 27th of February.
+[06:38] As the SPR drops, commercial inventories will be expected to fall even further if demand doesn't adjust accordingly.
+[06:48] But demand can only adjust through demand destruction if oil prices rise.
+[06:55] And so far, we are nowhere close to that level. There has been no meaningful demand destruction since the beginning of the war, as even the EIA pointed out last week.
+[07:07] In a market so driven by narrative psychology, I believe that breaking the SPR all-time low threshold might force many people to leave the la-la land they have been living in still, and a knowledge that this crisis won't be quickly solved in the blink of an eye.
+[07:24] Eventually, the warnings from agencies and real commodity experts, the ones who deal with the physical commodity, not tourist analysts who just follow any mainstream narrative spoon-fed to them, will be heard. And people are going to act accordingly. That could be the moment when things start to unravel. What will the impact be on the broader market?
+[07:50] As I'm speaking, semiconductor stocks, especially memory stocks like Micron, are flying through the stratosphere, despite the growing pile of news exposing the fake narratives that allow the AI bubble to expand so much and so fast, even though fundamentals and real revenues have never come close to the promises made for years by many of the relevant voices in the space, like Jensen Wang, Sam Oldman, Dario Moday, and others. To conclude, I know it's been frustrating to watch the market move the way it has.
+[08:25] To see news not matter. And to see the market barely react to escalating problems in the Middle East, as we saw in the early hours of Tuesday, when U.S. attacked some Iranian military targets in the straight-over-most claiming self-defense action. An action that should have made it clear that this peace deal with Iran is dead in the water. Everything will be ignored until reality hits. And when reality hits daily life, people will act accordingly, like they did in 2020. Considering how many people are standing on the same side of the boat of financial markets, speculating as if there is no tomorrow, don't be shocked by major volatility events when everyone rushes to the other side of the boat at the same time. Especially with so many riding this incredible bull market wave with margin lending, leverage, and derivatives. Thanks a lot for listening to my podcast today, for following me on x Instagram, and for reading my research on justdiary.com. I wish everyone a nice day. Bye.
