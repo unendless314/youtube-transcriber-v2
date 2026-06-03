@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "OTKe8fenIZk"
+title: 'Most Won''t Take Advantage Of This'
+published_at: "2026-06-03"
+duration: "3:49"
+word_count: 2714
+---
+
+# Most Won't Take Advantage Of This
+
+[00:00] most will not take advantage of this hi there crypto fans hi there remote viewing fans dick allgaier here poolside at ethereum place today and since we can hear the kids playing in the pool you might as well be able to see them that's a summer sound there kids frolicking in the pool i have a special message from my buddy jsnip before i get to the big dump in cryptos today and what that means and why most won't take advantage jsnip a few years ago introduced me to one of his sources a very fine nice gentleman by the name of john i won't use his full name he was an fbi agent and he was inside the beast and he knew the uh he knew the rot inside the fbi and we had many good conversations with him he was also a very spiritual guy went to lonvo a few times was a crypto guy and he passed away recently and they just had a memorial for him so jsnip thanks for introducing me to john and for john have a great journey my friend all right cryptos had a big dump
+[01:16] today down to like 60 about 67 000 bitcoin as i record this what were the reasons first geopolitical problems like this uh iran thing is just not getting solved and war more wars on the horizon so people are investors have a risk-off policy that may be a little too loud with the kids i hope it's not bothering you too much okay so risk off michael saylor sold 32 bitcoins oh no everybody freaked out michael saylor actually sold some bitcoin he's the guy that was only going to buy buy buy buy buy so that freaked people out there were massive etf outflows that affected the market and then a lot of leverage trades on the downside got wiped out so that's what happened to cryptos it's a good buying opportunity and probably the blood is not flowing in the streets quite yet it probably will soon so watch for that it's a time to get good deals on cryptos because they're going to go
+[02:31] back up bitcoin will go back to its all-time high and then beyond they're putting in the plumbing of the whole new financial system what you're seeing with xlm and canton the depository trust corporation xrp hbar hyperliquid they are they are going to tokenize a lot of kids playing out there in the pool that's the sounds of summer here screaming kids they're about to tokenize the entire financial system the entire commercial system the entire stock trading system of the world it's going to be run on distributed ledger blockchain technologies we have a list at futureforecastinggroup.com ffgrv.com the 200 millionaire list where we study the new plumbing we find the ones that are coming and then we give you information about that not financial advice but good information so it's an opportunity will you take advantage of it wait and see aloha from hawaii you
