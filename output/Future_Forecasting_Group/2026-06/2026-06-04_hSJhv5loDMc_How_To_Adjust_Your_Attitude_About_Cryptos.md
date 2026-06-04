@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "hSJhv5loDMc"
+title: 'How To Adjust Your Attitude About Cryptos'
+published_at: "2026-06-04"
+duration: "3:38"
+word_count: 2595
+---
+
+# How To Adjust Your Attitude About Cryptos
+
+[00:00] I'm shooting it right now you want to be in it you can you can go behind it no I won't tell you how to buy Bitcoin it's not my assigned task at this point this moment in time either crypto fans hi there remote viewing fans I'm going to talk about how to adjust your crypto attitude beautiful day a little bit warm at aetherium place I'll get to that in a minute okay so cryptos are down altcoins are just doing a couple of altcoins are starting to wake up but mostly the altcoins have really been down Bitcoin is so but here's the thing that's normal for Bitcoin a lot of people are getting squirrely a lot of people are getting really anxious and angry and fed up and that's the whole point is to get people fed up so they sell their Bitcoin to the big players it's a it's a game so what you have to remember here's the you have to keep your eye on the ball here this is the transition to a new financial system the financial system the rails
+[01:13] of the financial system are going to be distributed ledger blockchain cryptocurrency this is going to happen it takes a while this is the fits and starts as it comes online if you've been watching for a long time you remember when the big players said this is rat poison this is a Ponzi scheme this is a drug dealers and criminals and terrorists only and now they're saying well it is a this can be a store of value and yeah we are making an ETF and oh yeah we're going to tokenize the entire stock market on XLM the announcements like that are coming out so just keep your just remember that transition to a new financial system and this is coming and this the roller coaster that's part of the ride this is a good time to buy there you go that was my pep talk it's a little bit warm at a theory in place today they're up on the roof doing some kind of piping replacement some main coolant so we've been without air conditioning for this is the third day it's about 83 degrees let me we're lucky to have trade winds
+[02:20] blowing through do you want to see a look outside I'll get up turn the camera around hang on let's go find Mimi oh Mimi's defrosting the refrigerator she doesn't want to be on okay no comment for Mimi here's the to be a rich Korean you have to have one two three refrigerators so she does do you want another refrigerator where are you going to put one more refrigerator i don't want a refrigerator in the third bedroom i do oh god okay here we go it's a beautiful day hey the sirens are coming there goes a fire truck that's the beautiful june day with a ambulance going down the road at a theory in place take care everybody bye bye
