@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "qL8AXiRKLzU"
+title: 'Remote Viewers Just Revealed TRON''s Hidden Future (100x Incoming?)'
+published_at: "2026-06-04"
+duration: "2:59"
+word_count: 2378
+---
+
+# Remote Viewers Just Revealed TRON's Hidden Future (100x Incoming?)
+
+[00:00] they brag about it and they brag about all the different functions again i want to say layers there are concerns about quantum quantum containment making something quantum proof a visual depiction of this is of like a series of flywheels these are moving independently yet are connected so data gets written on different layers that move in different ways all connected somehow it's a very dynamic blockchain with multiple functions i did a one-year chart i see it going up and then a dramatic upswing and then some trouble down and then back up up up at three peaks over the next year and this bit of a warning be careful of an issue a problem with this locking up during a big run an issue with being able to liquidate or unlock certain amounts at certain places like exchanges before we get to the next moment you should know these videos are from our private membership we cover topics like these weekly on where the future is going and how to
+[01:17] prepare for it if that interests you then go below and sign up today now back to the video and then they would go into this kind of larger pool here that kind of stuff and these were some more ideas here like yield and financial rewards and losses and all those kinds of words were were coming in this could be where the sectors connect here in this here like that point where trad fi and dlt work together and this project feels like it's involved and this was kind of the the thing here we had traditional finance and then the distributed ledger people and there they kind of come together and say let's let's make a deal here and then it goes up really high and it goes sideways again there's an upward momentum here even a plateau of sorts the idea here is a big up move here followed by a sideways movements but what does that mean i wonder price discovery happens here a high is established the move up seems substantial not speculative driven more like adoption and or
+[02:30] integration driven and this feels like it might be the end of the issue or or you know more prominently going into next year so two peaks uh but with downtime as well on this couldn't get close to it for some reason and that's what i wrote here uh so i wanted i you know i really wanted to like and get close to this because at the beginning i really liked it um but by the end of it i felt a little bit repelled by it which i found a little bit worrying
