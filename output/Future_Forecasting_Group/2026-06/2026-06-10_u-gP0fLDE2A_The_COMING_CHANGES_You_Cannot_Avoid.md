@@ -1,0 +1,30 @@
+---
+channel: "Future Forecasting Group"
+video_id: "u-gP0fLDE2A"
+title: 'The COMING CHANGES You Cannot Avoid'
+published_at: "2026-06-10"
+duration: "7:13"
+word_count: 5634
+---
+
+# The COMING CHANGES You Cannot Avoid
+
+[00:00] The coming changes that you cannot avoid. This is going to be a disturbing segment to some of you, but I need to give you some cold, hard, brutal truths. Hi there, crypto fans. Hi there, remote viewing fans. Dick Allgaier here. Beautiful day at Ethereum Place. Okay.
+[00:18] Someone planned a new tokenized world that is about to be unveiled, unleashed, rolled out, developed, and you have no say in it. I say that you have no say because most people don't understand it and most people have no understanding of what's been happening to them over the past couple of decades. Okay. I'm going to post some questions to you. Now, some of you will push back on this and I'll get a lot of comments and I'll read them and you'll say, I don't consent. No, we're going to fight this. It's the mark of the beast and I'll never accept it. I'll ask you these questions. Did you give your consent to put surveillance cameras that record your every public move? Let me just ask you this. Did you vote on a camera at your bank? Did you vote on putting a camera at the checkout at every store? Did you put a, did you vote on putting a camera in every parking garage at every city? At every city intersection? You can't live your life in America today in any city
+[01:31] without your every move being recorded. When did you consent to that? When did anyone ask you if it was okay if they put a camera up in every supermarket, every bank, every parking garage, your fitness center, Walmart, the bus stop, everywhere you go? Did you agree to that? What input did you give to the International Standards Organization, the ISO, to design the digital financial system? Because they have designed that. It's called ISO 222. The International Standard Organization has certain tokens that will run the world financial system. ISO 222. Did they consult you on that? Did you have any say? When you go to the bank to wire money using the SWIFT code, did you design that?
+[02:28] Can you go to your bank and say, I demand that you don't use SWIFT? I demand that you don't use ISO 222. You have no say. Did you help design the Canton Network?
+[02:41] The Canton Network is going to be used to digitize all stocks. Did you consult with the Depository Trust Clearing Corporation when they decided to use Canton? To tokenize all the stocks and all the securities in America? DTCC, Depository Trust Clearing Corporation, they handle 100 trillion dollars worth of assets.
+[03:07] The stock certificates, all the certificates of securities, they hold them. They're putting them all on the blockchain. They're going to be using the Canton Network. Did you have a say in that?
+[03:18] Did you create the Bitcoin code? Did you help write Bitcoin? No, you didn't.
+[03:24] Did anyone ask you if it was okay to collect 20 years of metadata that has already stored and is being used to profile you? Let me ask you, what metadata did you say? Okay, I agree to this. Your social media, your credit card purchases, all the movies you ever watched or liked on Netflix or any other streaming service on your box, everything you said or liked on Facebook, it's all in the algorithms, your entire browser history, all your texts, all the health data from your fitness app, all of this data for 20 years without your consent, without your permission, without your knowledge, they didn't ask you.
+[04:10] They've stored up everything you've done in their algorithms predicting your behavior and nudging your behavior. That's a very important word. Your behavior is being nudged by what you're shown on Facebook and X and TikTok and Instagram and other social media.
+[04:29] You cannot escape the surveillance state. You already have a digital ID. The surveillance state is here. You're in it. Your digital ID will be rolled out little by little as they tell you, well, you don't have to remember all those passwords.
+[04:47] You don't really like two-factor authentication, do you? You don't like having to get a code on your email every time you want to do something at your bank. Why don't we just use your face?
+[04:58] Someone planned a new tokenized world and you have no say. That's the bad news. The good news is within this new system, you have a decision space, and you certainly have a decision space moving in to learn how to thrive within the system, and we talk about that at FFGRV, Future Forecasting Group, FFGRV.com.
+[05:25] The coming changes you cannot avoid, but you can thrive in them. As I record this, Bitcoin is about $61,000. The big money has been driving the price of Bitcoin down. They're very strategic dumps of cryptos to make the price fall, killing the leveraged buyers, putting public sentiment out like, oh, Michael Saylor is selling Bitcoin.
+[05:52] The sailor's company is going to go bankrupt. Oh, the ETFs are dumping Bitcoin. Oh, we're not buying Bitcoin because all the money is going into AI. The crypto fad is over, and everybody's going to dump their cryptos, and the big money will scoop it up.
+[06:11] And then what's going to happen? They're going to pass the clarity act, and it will go on the biggest bull run in history. Yep, that's what's going to happen. I'll read your comments. If someone would like to come on and actually, I'll do a segment. We'll put you on Zoom with me side by side.
+[06:29] We can debate this. We can debate this. Did you have a say in all these changes? What input did you have in the coming system, which is going to be a combination of the internet, blockchain, distributed ledger technology, and AI?
+[06:42] We will be governed by these things. Artificial intelligence, blockchain technology, and the internet of things.
+[06:51] Some of you didn't like that one, did you? Okay, let me have it. You can blast me in the comments.
+[07:00] Thanks, guys.
