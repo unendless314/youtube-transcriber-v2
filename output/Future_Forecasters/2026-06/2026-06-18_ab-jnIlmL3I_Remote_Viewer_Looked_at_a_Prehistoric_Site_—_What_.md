@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "ab-jnIlmL3I"
+title: 'Remote Viewer Looked at a Prehistoric Site — What He Found Was an Imminent Threat to the White House'
+published_at: "2026-06-18"
+duration: "3:10"
+word_count: 2524
+---
+
+# Remote Viewer Looked at a Prehistoric Site — What He Found Was an Imminent Threat to the White House
+
+[00:00] so that gave me a flash visual which i tried to draw a bit more detail here so here's like the obviously the end of water and it felt like there were all these structures more so around these two points here with the weird something about this there was a connection between these two points as well it felt like uh this land mass here with these these people were essentially in conflict with these people over here so it felt like it was a coastal area felt like there's a bridge like man-made construction or some kind of focus point between the two here many structures man-made feel like they're clustered around two key areas and then sporadically around the coast here definitely felt a bit like it was like a seaport type area before we get to the next moment you should know these videos are from our private membership we cover topics like these weekly on where the future is going and how to prepare for it if that interests you then go below and sign up today now back to the
+[01:00] video are they successful to stop it though i had to contemplate some of it though there are aspects to the threat that get through is what it seemed so that can be written as a natural event like wildfires or wildfires that are started via arson this area of interest seems to be a target continually for attacks because a lot of attacks going on there makes me think it is the white house due to this level of tension though the natural elements are more sweeping across hemispheres like north to south this location relates to other prominent locations like a network of important places that affect each other like north and south america a description a disruption on one could have a profound effect on the other but how does it relate i wonder and then i came back to this another day um this may have to do with geographical political ownership or possession like usurping land or conquering land taking over land a movement or a migration the idea of occupying a space moving in and taking over
+[02:21] and that might have to do with ownership rights and something like a charter or a constitution there's a life that's climbing and rising and it felt corporate to me here at least like climbing the ranks the idea of a new leader taking a spot or climbing the ranks coming into position and you know i see a guy in a suit a political politician prejudice elected elected official criminal case you know i don't know i didn't really feel like i didn't know how this really ties in in anywhere but um that's what i'm getting on this one
