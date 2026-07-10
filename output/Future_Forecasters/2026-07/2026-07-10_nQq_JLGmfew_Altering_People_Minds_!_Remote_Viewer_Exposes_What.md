@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasters"
+video_id: "nQq_JLGmfew"
+title: 'Altering People Minds?! Remote Viewer Exposes What''s Really Happening Inside W.H.O'
+published_at: "2026-07-10"
+duration: "3:03"
+word_count: 2374
+---
+
+# Altering People Minds?! Remote Viewer Exposes What's Really Happening Inside W.H.O
+
+[00:00] i have some very similar imagery with kids and people being monitored so and so i'll just go to my s3 here where i have this person kind of table old books light shining through kind of felt like an old library setting um i felt that they weren't very successful but they're like actually smart people and they're like they have a pioneer feel to this so that's what i kind of felt like it was a older these like yeah like tesla like energy you know what i mean they stick their neck out trying to trying things um and then going back to like old literature to to prove something that's being used okay here i see people i see kids um they're being educated uh they're kind of like weird telepathic stuff i don't know how that uh comes in but it reminded me of like the telepathy tapes kids it's not all just kids but there's adults uh they want to do it too i see this person kind of laying down here has something over its head and there's like some
+[01:12] sort of augmentation uh that they're trying to do with like cranial response and vagus nerve stimulation these people live a very structured life uh they do things uh at certain times of the day today they have like a full full-on schedule um and a service person uh that's kind of writing things down there's recordings uh like derek said um some of these things are recorded um i saw this person again asleep and they're they're being tested yeah it just felt like a group operation here um kind of again the city in the background this this house last church looking thing and next to it there's this kind of a squared off area uh with dirt and i saw just like gentle woman that takes care of people i felt like these people had like a a very church old school lifestyle they they believe in it uh christian catholic feel um there's kids and adults they're using their mind and they're being altered um not like clinical this is not like a typical hospital there's like an element of like experimentation here
+[02:28] so communication they're working with communication dark rooms sensory deprivation trials taking place and it kind of if i had to guess like the monroe days um where they were doing this type of stuff uh maybe the stargate days it had that type of feel to it and brain mapping under certain stimulation uh they were looking at that watch the full session today with our private membership using the link below
