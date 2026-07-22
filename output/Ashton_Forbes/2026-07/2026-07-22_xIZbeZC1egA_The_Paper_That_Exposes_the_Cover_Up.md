@@ -1,0 +1,78 @@
+---
+channel: "Ashton Forbes"
+video_id: "xIZbeZC1egA"
+title: 'The Paper That Exposes the Cover Up'
+published_at: "2026-07-22"
+duration: "19:59"
+word_count: 14959
+---
+
+# The Paper That Exposes the Cover Up
+
+[00:00] First thought generally on this alien stuff on where all this technology we've been talking about comes from. It's gonna be hard for me to say, chat. I have a harder time believing that humans naturally figured all this technology out than I do believing that all the technology in the world comes from aliens. Now, this is hard for me to say because A, I love Nikola Tesla. I love Nikola Tesla and Nikola Tesla is at the heart of free energy.
+[00:40] However, this technology is just too crazy and too many people on this planet are too stupid.
+[00:50] The whole phenomenon, why are we even looking at a plane being teleported out of the sky makes me think there really is some secret alien cover-up with secret alien technology.
+[01:05] And not that we have been hiding it just for a few years. We've been hiding it for 80 years or more.
+[01:14] It's possible that all the advanced technology in the world, microchips, computers, electronics, all have a basis because somebody saw something, ninja see something, but held something in their hands they couldn't understand. Regarding the videos, look at the intro to this. Watch it closely.
+[01:38] We're watching some plasma orbs in a covert operation, teleporting a Boeing 777. Huge plane.
+[01:50] Those videos don't represent somebody be like, hey, let's try this out for the first time.
+[01:58] Those videos represent a generational cover-up. To get to that point in the technology had to require a cover-up expanding decades where engineers built on secret physics that only they knew about and other engineers built upon their work and then so on and so on.
+[02:20] And I say, why would you do all of that? Why spend all that effort to hide all of that if it doesn't come from aliens? It's possible that it's all just one giant human cover-up. And when I say aliens, guys, I'm speaking very generally. Now, I bring this up because in the Eric Davis interview, he's constantly getting asked how many kinds of aliens there are.
+[02:52] This has got to be the stupidest question I've ever heard. How many kinds of aliens are there?
+[02:59] I don't know. How many kinds of species are there on planet Earth?
+[03:04] Okay, now extrapolate that to the universe, which is potentially infinitely large.
+[03:10] At least infinitely large from our perspective. There's going to be infinite kinds of aliens that are out there. These people just think too small, and I guess that's why they haven't been able to figure out that the very people they're talking to are the people that covered up this technology.
+[03:28] They didn't figure the technology out and are holding the wool over their eyes, keeping it secret.
+[03:34] Now, why do I say that? Because of General McCaslin. I've never met General McCaslin, but his words echo in my mind all the time. Specifically, these words.
+[03:55] It was the Cold War. It was the Cold War. Now, let me pull this up.
+[04:06] This right here is a scientific paper by Thomas Bearden for the United States government about UFOs. Actually, I'll go to the top of this in a second. I can't remember the full context, but I'll show you. Dreams and the collective unconscious. Just as a personal dream can be psychoanalyzed to review unresolved stresses and conflicts in the personal unconscious, the materialized dreams of the collective unconscious, i.e. the Tulpa manifestations, can be psychoanalyzed to reveal the unresolved stresses and collective unconscious, in the collective unconscious. However, in analyzing the tulpoidal materializations and manifestations, one must seek out the stresses that exist between two or more large groups of people, in fact, between two great nations. Since World War II, the major such stress on the collective unconscious has been the Cold War. Thus, the UFO tulpoid phenomenon psychologically should reveal
+[05:18] significant aspects of the Cold War. And we will incorporate conventional psychological analysis and knowledge of Soviet development of new superweapons, virtual state engineering, psychotronic weaponry to show the fit for major UFO phenomenon. Wow.
+[05:44] Oh, so that is Tom Bearden. Oh, this is prepared for MUFON, actually. So this is not United States government. A mind-brain-matter model consistent with quantum physics and the UFO phenomenon.
+[06:03] I bring up Tom Bearden because Tom Bearden was clearly an insider that worked on black projects, and he was trying to reveal this technology to the world. Now, it's very difficult to reveal this to the world when you have people that know about it who are lying, lying publicly about it.
+[06:23] And Eric Davis is one of those people lying about it. A deceiver. He constantly will badmouth people who are credible, including Salvatore Pais and his patents, his scientific papers where he's referencing Hal Pudoff. Eric Davis will say it's not legit, his physics isn't real, but he's saying the exact same physics that Eric Davis is. So it makes Eric Davis an unreliable narrator because he's clearly saying things that are true, but he's also lying to, I guess, cover up the technology and cover up what it's capable of doing for reasons that only he will be able to explain to the world when the truth comes out. I assume it's because of his NDAs that require him to lie about stuff that he's been involved in. I don't really know. The MH370 video showed three plasma orbs using a neutron fusion propulsion to macroscopic quantum tunnel the plane. What are your thoughts about them using your scientific papers to achieve this? We got a response. Now, it's important that we
+[07:37] did not get this on video because number one, if you get the question on video, it's a lot harder for people to deny it. Look at when Lou Elizondo got asked the question by Glenn Beck, which I, you know what, I'm just going to play it again because I think you need a people need to understand that these people are liars.
+[07:58] I've seen it and, you know, I'm always very careful for me, Glenn, because recently, so look, I'm a science guy, right? I've always just followed the science. Recently, about three weeks ago. Follow the science chat. Wear your mask. Wear your mask and follow the science chat. Don't ask questions. Google, someone on Wikipedia decided to label me as a quote unquote conspiracy theorist. I'm not a conspiracy theorist at all.
+[08:26] That's just someone trying to minimize, you know, this topic and kind of chip away with the narrative.
+[08:32] I'm very careful to be, to be open-minded about everything. Um, I know that the Malaysia airline, there were some people that were claiming there was maybe some UAP involvement. I don't know. I did not, I did not pursue it. Um, I know some of the people that I've talked to were dead, dead, dead, dead for it and dead against it. Something that's a complete nonsense. It's fake. Others said, no, that looks, you know, legit. And I could not tell you, Glenn. I have no idea. He wrote in his book, there was three orbs of energy in a triangle formation playing with an MQ-9 Reaper.
+[09:08] Now we're looking at videos of an MQ-9 Reaper recording three orbs in a triangle formation.
+[09:15] He has no interest. Well, I never, never said anything about Reapers and triangles and orbs.
+[09:24] How do people take these people seriously? So we know they're lying about that because they're talking about it themselves. And this is where Eric Davis comes into play. Let's listen to his, let's take a look at his answer, his response. The record shows there are no authentic videos.
+[09:39] What are we talking about here? Is this a lawyer response here? Somebody just asked you your opinion on some videos on the internet. This is not how you respond as a normal human being on this earth.
+[09:53] The record. Can we get through it? The record shows there are no authentic videos of MH370 while in flight. Okay, bro. First of all, what do you mean? There's no authentic videos of any airplane in flight. Can you show me authentic video of the airplanes that are flying above me in flight?
+[10:13] No, there's no such thing as that at all. So if you were talking about videos, they're not going to be publicly released. Here you go, guys. Some authentic videos of that plane that disappeared.
+[10:23] What are you talking about, dude? There are no authentic videos of MH370 while in flight and in route to its demise somewhere in the South China Sea.
+[10:32] Where, what does he think happened to the plane?
+[10:37] What does Eric Davis even think happened to MH370? This is why. Is everybody just an idiot on this planet. Are we living in idiocracy where even the wormhole experts on the world just don't know about basic facts of what's happening in current events or like the biggest airplane disappearance in human history? Next part. Orbs aren't flying nuclear reactors. So the rest of the question doesn't make any sense.
+[11:09] Orbs aren't flying nuclear fusion reactors. Well, that's where I'm going to go ahead and I'm going to call bullshit on you, Eric Davis. I'm going to call bullshit. Do you know where I learned that orbs are nuclear fusion reactors. I learned it from watching you dad. I learned it from watching you. This is why they say Ashton Forbes is very good at his research. Do you know how long it took me to pull up the exact proof of Eric Davis line? Uh, less than five minutes while I was on my break working all day today. Less than five minutes. Um, what does this say here? Oh, let's take a read of this ball lightning study by Eric W. Davis for the Air Force Research Labs in May of 2003. Over 20 years ago, this paper is all about how to make some plasma orbs that fly around in the sky. The whole paper is about understanding the phenomenon, the natural phenomenon of ball lightning, which is balls of lightning that stay coherent, that fly around. Are you ready? Are you ready for the kicker chat?
+[12:42] When you turn this to page 29, my favorite page of the paper, you come into this.
+[12:49] We're going to just read it. The best theoretical, the best theoretical. Let me say it one more time.
+[12:58] This is Eric W. Davis in his own words. The best theoretical model to explain the manifestation of EVs during micro arc discharge device operation is based on quantum vacuum electromagnetic zero point energy fluctuations. In short, once you realize it's about zero point energy in an extra dimension, your plasma balls make perfect sense. Okay, go on. You had me at hello. Such a concept based on the ZPE work of put off 1987. Any guesses? What 1987 is all about chat?
+[13:43] You're talking to, you know what? I'm the number one fan club. I'm the president of the Hal put off fan club. You didn't know that? You're coming at the president of the Hal put off fan club. 1987 put off his ground state of the hydrogen atom. Get back and step back. Step back, son. I know all the papers.
+[14:02] Oh, are you also referencing gravity as a zero point fluctuation force? Yes, you are.
+[14:06] Yes, you are. Chat. Yes, you are. Eric Davis and coal and put off coal and put off which show there's no thermodynamic violation of extracting zero point energy. How do I know that some good and I read the papers? How many people have actually even read any of these papers? Uh, this guy has. Hmm. Let's continue.
+[14:30] While put off shoulders and coworkers were investigating approaches to obtaining energy from the vacuum by zero point energy by way of exploiting these EVs. So they were making these cold plasmas where the electrons were weirdly able to cluster together. Like they were vibe. They were breaking the Coulomb barrier. Somehow they were controlling the nuclear forces. Somehow things should be repelling each other, but they're, they're getting closer and they're not. Why is that happening?
+[15:08] That's the whole idea of these EVs. Now you say if you're a high IQ futurist, which I know many of you are check. When I tell you that we've got electrons that are coming closer together than they should be.
+[15:23] Your first thought is fusion. Why? Because that's the whole idea of fusion is lowering the Coulomb barrier.
+[15:33] So we can fuse our atoms, fuse our ions at higher, at lower temperatures. That's the whole idea.
+[15:42] So anybody that was reviewing these EVs, their idea would have been, Hey, is this, is this cold fusion?
+[15:48] Is this a form of cool fusion that we can do fusion at lower temperatures?
+[15:52] So the emerging laboratory evidence. So right there, I want to point out it's specifically references how put off working with Ken's shoulders on this concept shows the Casimir effect, maybe a major contributing mechanism to generating these EVs.
+[16:16] He's saying they're producing negative energy somehow like the Casimir effect does.
+[16:22] Why is this important? Everybody thinks, well, we can't use the Casimir effect to make a wormhole.
+[16:28] It's two plates to come together. Well, what if we found a plasma version of the Casimir effect?
+[16:36] I think we did.
+[16:37] Put off via private communications. This is with Eric Davis proposes that a generation of a relatively cold, dense, non neutral plasma results in charge condensation effects.
+[16:59] That may be attributable to a Casimir type pinch effect.
+[17:04] I learned it from watching you, dad. I learned it from watching you.
+[17:13] Are you starting to realize why these guys are so terrified of me?
+[17:17] Because I know where all their secrets are buried. And when they try to lie about some bullshit, I just go point directly in their scientific papers where they were saying the opposite thing.
+[17:29] Wait for the next sentence, because that part right there is insane.
+[17:33] By the way, what that sentence says is the exact same thing that that Salvatore Pais said about his cold, non equilibrium plasmas drive it far from equilibrium, a.k.a. charged, a.k.a. not neutral, dense plasma, as in the dense plasma focus.
+[17:54] There it is. It results in what? These weird EV effects that Ken Shoulders found.
+[18:05] This is why everybody's asking people about Ken Shoulders, because the smart people who've been figuring out what's going on with this physics are going, wait a minute. They figured out something crazy here. And they're kind of covering this up because we're seeing where this leads. This is a zero point energy tap. OK, how do we tap this zero point energy? In a hypothesized EV based energy generation process. One would envision a Casimir fusion process.
+[18:36] Boom! Gotcha, bitch.
+[18:38] Casimir fusion process. Eric Davis's words, by the way. Eric Davis wrote this.
+[18:47] Casimir fusion process that would mimic the nuclear fusion process in its cycle of operation.
+[18:57] Can't make this up, Chad. Pudoff's first order model suggests that the process would begin, just like its nuclear counterpart, with an initial energy input to the plasma, which overcomes the Coulomb barrier, followed by a condensation of charged particles that are drawn together by a short range attractive potential, like the Casimir potential, with an accompanying energy release of some form. He's explaining the trampoline effect. He's explaining the trampoline effect of pulling energy out of the zero point energy field using this EV plasma based Casimir process that mimics fusion.
+[19:45] You're going to really tell me? You're really going to tell me that the plasma orbs aren't fusion?
+[19:50] G-T-F-O, Eric Davis. Don't pee on me and tell me that it's raining, bro.

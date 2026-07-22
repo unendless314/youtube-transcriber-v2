@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "cJfVdM9YPAs"
+title: 'Congress Can Go To Hell: Shove Clarity Act Up Their *ss'
+published_at: "2026-07-21"
+duration: "3:28"
+word_count: 2630
+---
+
+# Congress Can Go To Hell: Shove Clarity Act Up Their *ss
+
+[00:00] congress can go to hell and they can shove the clarity act up their ass i'm a little riled up today which way are you going this is my i have the hottest driver look at that i have this asian babe that drives me around in a mercedes lucky bee yeah go to picoin i'm dick allgaier i'm the co-founder of future forecasting group we give people information that is unavailable to 99 of the population we've made over 200 millionaires and i'm riled up today i need to rile things up on youtube a little bit be a little more i'm gonna use some swear words mimi hates it when i use the title of this i'm okay i'm just practicing now for today's youtube but i'm gonna make it say one like congress can go to hell and they can shove the clarity act up their ass that'd be the title congress go to hell and shove the clarity act up your ass wow you know wow okay but the the clarity act like get get with it guys why do we have to bitcoin and cryptocurrencies you're gonna run
+[01:12] this light doing good i could you wanted to run that yellow line didn't you okay what was i saying bitcoin and bitcoin and cryptocurrencies were sold to us as being permissionless borderless as a way to circumvent government control and the bankers and now we're sitting here waiting for the damn congress to to uh pass the clarity act congress is a bunch of scumbags they're a bunch of paid off douchebags they're criminals and perverts they are they're a bunch of criminals and perverts they're just scumbags and we're waiting for them to tell us it's okay to use our cryptos piss off and and you know i did a remote viewing on congress where i saw the senators what they're going to be doing with it was the death of the dollar session it's a famous bit of remote viewing where i saw them coming out throwing up vomiting on themselves because they've destroyed our economy and that's coming soon so in the meantime president trump made 1.4 trillion dollars on cryptos and like they're pissed off about that but okay
+[02:27] pass the damn act let us make some money yeah so i was yeah i was gonna say go ahead and call your uh congressman but don't do that because they're just idiots they're they're bought off scumbags what you need to do is make a membership at ffgrv.com future forecasting group.com become part of our team we have a great team of people that know that get information that 99 of the population don't get we have exclusive insider information we've made over 200 millionaires so you want to be well off this is this is coming they're going to pass the damn clarity act so join today ffgrv.com i didn't use too many swear words no it wasn't that bad
