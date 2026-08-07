@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "V8a2QLLY_KM"
+title: 'A Biblical Prediction? Prophecy?'
+published_at: "2026-08-06"
+duration: "3:28"
+word_count: 2492
+---
+
+# A Biblical Prediction? Prophecy?
+
+[00:00] a biblical prediction a prophecy or natural communication skill just remote viewing something we all can do hi there i'm dick allgaier i'm the co-founder of future forecasting group we use remote viewing to show our subscribers our members future events before they happen every month we use our remote viewing skills and we we make sketches describe things and we publish it for our members and then they watch that ahead of time then the next month or month after that they watch events and see what we showed them see it actually happened this one impressed me okay here we are at our monthly debrief this was the third week of july very interesting month coming up in my opinion uh some things just otherworldly and let's just put it that way so yeah so edward reardon there is going to predict a plague of locusts this was a wild one these were a bunch of bugs looks like locusts clouds of them biblical looking pestilence real biblical kind of stuff some crop concerns affecting
+[01:22] some air flight schedules as well biblical pestilence okay that was pretty specific guess what made international news yesterday millions of biblical locusts overtake russia yes the headlines around the world it is being called it is being called biblical it's being described as a plague here's some video of the event so how common is it to have a plague of locusts i looked this up on uh ai just to see like does it happen every august could you just say yeah well it's locust time no such plagues are called irregular and intermittent plagues widespread multi-year events with numerous swarms affecting multiple regions have been recorded since pharaohic ancient egyptian times but they do not follow a regular timetable in short these events depend on climate and ecology rather than a predictable biblical or calendrical rhythm good job edward reardon now that was a good one i was impressed so remote viewing is a natural skill we can all do it if you if you learn some methodology we're all connected to the greater consciousness field
+[02:40] we also predicted some ufos for this month and uh we are getting some reports of that we'll have more on that as that unfolds but watch for ufo reporting and a financial event for september that we just debriefed that is coming out tomorrow we're going to watch for some big things happening september and october you can see it all at ffgrv.com ffgrv.com future forecasting group and to see another great example of remote viewing check out this video right here
