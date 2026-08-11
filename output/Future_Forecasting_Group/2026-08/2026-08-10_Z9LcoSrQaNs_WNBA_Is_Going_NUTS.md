@@ -1,0 +1,26 @@
+---
+channel: "Future Forecasting Group"
+video_id: "Z9LcoSrQaNs"
+title: 'WNBA Is Going NUTS'
+published_at: "2026-08-10"
+duration: "5:59"
+word_count: 4877
+---
+
+# WNBA Is Going NUTS
+
+[00:00] The WNBA is going nuts. That's a great title. I mean, you got to give that one to me. That's a really good title. So the WNBA supports men who identify as women. So because of that, two former NBA players are saying, hey, I identify as a woman. Let me play in your league. Hi, I'm Dick Allgaier. I'm the co-founder of Future Forecasting Group. We have been documenting, predicting, and forecasting the transition to the new financial system as well as the transition to an entirely new civilization for planet Earth. And why am I talking about the WNBA in terms of future forecasting? Because what we have here is part of the transition. It's the hyper novelty. It's the breaking down of the old systems. It's keeping everybody arguing and off guard and off balance so that out of the ashes can rise this new civilization, this new dawn for humanity. Plus, I adore absurdity, and this is certainly absurd. All right, here's Royce White. He found his feminine
+[01:08] side. He says he's gender fluid, which apparently is a thing. You can be gender fluid. And Enos Cantor now identifies as a female, and he wants to play in the WNBA.
+[01:20] I am officially declaring myself a WNBA prospect. If simply declaring who you are is all that's required, then I meet every single requirement necessary to compete in the WNBA.
+[01:31] So, my problem is how to refer to these people. I mean, would Enos Cantor, if he's gender fluid, should I refer to him as him? He? Or she/her? They/them? Ze/zer? I want to know. I looked it up. So, I had AI help me. Here's what it tells me.
+[01:47] There are no universal, correct pronouns for a gender fluid person. Okay, pronoun preference is individual and can change over time with the person's self-reported identity. The only reliable way to know is to ask that specific person. Okay, fair enough. So, what is gender fluidity? Well, gender fluidity refers to a self-described experience in which someone's internal sense of gender shifts across the spectrum or between male and female rather than remaining fixed. So, it's a spectrum. So, how do you tell where someone is on the spectrum? That's what the WNBA is going to have to come up with. See, some people will say, well, they'll just say only women can play in the WNBA. That poses a problem for them because they would have to define a woman. And as we all know, even the the esteemed, brilliant legal mind Justice Ketanji Brown-Jackson says, you can't define a woman.
+[02:52] Can you provide a definition for the word woman? Can I provide a definition? Yeah. I can't. You can't? Not in this context. I'm not a biologist.
+[03:08] So, we're stumped. There's no definition for what is a woman or who can be a woman. So, the NBA, if they're going to try to contain this, they're probably going to have to create a standard for what they think is honest transitioning. Like, they'll say to these male players, like, I don't believe you really think you're a woman. Or, I don't think you really feel female. How will they be able to judge that level of commitment, though, if it's a spectrum?
+[03:37] If it's a spectrum. Will they, you know, like, okay, if you cut off your nuts, you must really, you're really going along with the commitment there.
+[03:46] What if you just take estrogen and talk in a high voice? Does that show enough commitment? Are you really transitioning? What if you get breast implants? Now, just having breasts, that doesn't seem to be a requirement in the WNBA. Here's Brittany Greiner. Could you just wear a dress and then pluck your eyebrows? How much commitment to the charade are you willing to invest?
+[04:13] All right. This is a diversion to keep us occupied, as I said, and arguing and off balance while they bring in the new system. I think the people that have the answer to this are the people of Thailand, because in Thailand, they have thriving communities of what they call ladyboys.
+[04:36] They have men who feel feminine, and I believe that, and they enjoy expressing themselves in a feminine way.
+[04:45] So they, some of them have surgery, some of them just get an implant, some of them just dress up, but they call them ladyboys. There's no, they don't consider them women. They're ladyboys. And it's all done with a wink and a nod and good humor and very accepting. And it's kind of fun and playful. And they don't try to shove it down anybody's throat or force anybody. It's just like, they're ladyboys. Okay. That's what they are. They're ladyboys.
+[05:14] That's what they are. They're ladyboys. And speaking of that, I did a segment on a ladyboy in Thailand about 13 years ago. And I put it up on YouTube. I'm going to show it to you.
+[05:23] I did this in a, in a, not a mocking or judgmental way. I just asked this person like, what do you feel? Why did you do this? What did you actually do? Did it hurt? Like what, why? And so here's that video, my profile of a ladyboy in Thailand from 13 years ago. It's worth watching.
+[05:47] It's worth watching.
