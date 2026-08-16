@@ -1,0 +1,23 @@
+---
+channel: "Future Forecasting Group"
+video_id: "7_LFpx-sbCQ"
+title: 'The Soundbite That Changed My Life: What Can YOU Learn?'
+published_at: "2026-08-14"
+duration: "5:20"
+word_count: 4244
+---
+
+# The Soundbite That Changed My Life: What Can YOU Learn?
+
+[00:00] This is the soundbite that had the greatest impact on my life. It changed my life. Hi there, I'm Dick Allgaier. I'm the co-founder of Future Forecasting Group. I have 30 years experience as a professional journalist and I'm also a professional remote viewer. In my career as a journalist over 30 years, I listened to literally tens or hundreds of thousands of soundbites.
+[00:25] All day every day we would go out and interview people and by soundbite I mean the little 30-second snippet that you would take and put on the air to encapsulate what someone was trying to get across.
+[00:37] It could be from an interview, it could be from a conference, it could be from a speech. So I listened to thousands of thousands of soundbites. This is the one that absolutely changed my life.
+[00:51] It's the one that is most memorable to me. Okay, so I interviewed many, many, many politicians, senators, city council members, governors. I was in the room with presidents, George Herbert, Walker Bush, Ronald Reagan, Barack Obama. Nothing any politician ever told me had much of an impact on me. It was like blah, blah, blah. Same old stuff. They don't have much to say. I interviewed criminals, notorious murderers. I talked to Ted Bundy one time. What Ted Bundy said to me, memorable, but didn't have that much of an impact on my life. I interviewed sports celebrities, celebrities, movie stars, Arnold Schwarzenegger. He didn't say much that had an impact on me.
+[01:38] Jerry Garcia, that was interesting. I remember that it was memorable, but it didn't have that much of an impact. So this is a seemingly boring panel discussion. I remember it very well. The guy is in a white chair. He's got a nice gray suit on. He's wearing glasses, nice pair of shoes. And he just casually mentioned the big companies that he was involved with. He just kind of throwing it out like, oh, I'm involved with these big people. But then what he said caused me to go home, call up my 401k manager and say, I want to cash it out. I cashed out 80% of my 401k, took it in a lump sum, paid taxes on it. And then my wife and I took out a home equity loan on our home in Hawaii and sold another property. And we went all in. So here is the soundbite from the blockchain connect blockchain conference in San Jose, Silicon Valley in July of 2018. This is the thing that had the impact on me. My name is Dan Friedberg. I'm the chair of the payments practice at Fenwick and West.
+[02:59] We're a technology only law firm that specializes in representing disruptive companies. And we represent some of the largest players in the world. But that's only because we started them.
+[03:10] We incorporated Apple. We incorporated Facebook. We represent Uber. We represent Airbnb. And we believe that the next wave is the blockchain. And we're committed to it. We represent all the different types of participants. And we believe that, uh, you know, 10 years from now, uh, we'll be looking at market caps of some of these companies that, uh, dwarf any market cap of any company out there now.
+[03:37] So what he was saying was a lot of money is going to go into blockchain technology. Based on that, I went and I started investigating and learning about blockchain, invested all that money, and made many, many, many, many X. Six years later, we were set for life.
+[03:57] Okay. So I have been investigating blockchain because of that full time now. And we have a segment called crypto masterminds at FFGRV.com. And we just recorded one yesterday that will be out tomorrow.
+[04:13] And we looked at three tokens, Tron, Bitcoin Cash, GeoNet. Two of them we like, one we don't like.
+[04:22] You can see the full segment at FFGRV.com. So what that guy was saying, that attorney Friedman, was that a lot of money, a staggering amount of money is going to flow into the blockchain, uh, the blockchain industry. How much? I think almost all the money in the world is going to come on as everything becomes tokenized. That's what our research is indicating. So you can learn more at FFGRV.com. By the way, that panel discussion is on the internet. I just found it. In eight years, only 800 people have watched it. It has the greatest effect on me and not many people have watched it.
+[05:04] I'll put a link up to it so you can see the full panel discussion if you want to. Aloha.

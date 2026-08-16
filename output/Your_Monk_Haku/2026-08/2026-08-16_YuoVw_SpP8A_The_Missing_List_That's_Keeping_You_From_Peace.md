@@ -1,0 +1,155 @@
+---
+channel: "Your Monk Haku"
+video_id: "YuoVw_SpP8A"
+title: 'The Missing List That''s Keeping You From Peace'
+published_at: "2026-08-16"
+duration: "28:48"
+word_count: 29581
+---
+
+# The Missing List That's Keeping You From Peace
+
+[00:00] A merchant sat at his desk each night and crossed off every line on his list.
+[00:04] Twelve tasks, twelve lines struck through, not one left undone.
+[00:08] And each night, when the last line was crossed, he felt no lighter than he had.
+[00:12] That morning, only tired in a new place, one he couldn't point to.
+[00:16] He did this for so many years that he stopped noticing the feeling had a name.
+[00:20] Across town, an old carpenter gave his apprentice a strange instruction on the boy's first day.
+[00:26] Beside every task on his list, write one more word.
+[00:29] Not what to do.
+[00:30] How to be, while doing it.
+[00:32] The apprentice wrote it off as an old man's habit and nearly forgot it by lunch.
+[00:37] Everyone plans their day.
+[00:38] Almost no one plans their state of mind for it.
+[00:41] This is about the second list.
+[00:43] The one nobody teaches you to write.
+[00:45] The one that decides whether the first list was ever going to bring you peace.
+[00:48] At all.
+[00:49] The merchant's name does not matter.
+[00:51] Because there are ten thousand men exactly like him.
+[00:54] Dot in every city that has ever existed.
+[00:56] And you may have already met one at breakfast this morning.
+[00:59] He kept his list on a single sheet of paper, folded into quarters.
+[01:03] Dot carried in the same pocket for eleven years.
+[01:06] Twelve lines.
+[01:08] Every morning, he wrote them fresh.
+[01:10] And every night before sleep, he crossed them off one by one.
+[01:14] And the crossing off was the only ceremony in his day that he performed without being asked.
+[01:19] He was, by every measure his neighbors could name, a successful man.
+[01:23] His debts were paid before they came due.
+[01:25] His children were fed before they were hungry.
+[01:28] His warehouse never once ran short of the grain it promised to buy us three towns over.
+[01:33] If you had asked anyone on his street whether this man had his life in order, they would have laughed at the question.
+[01:39] Because of course he did.
+[01:40] You could see it in the ledgers, in the crossed off lines.
+[01:44] Dot in the way he never once arrived late to anything in living memory.
+[01:48] But there was a particular hour, always the same hour, somewhere between the last line crossed and the candle blown out.
+[01:55] When the merchant would sit very still at his desk and feel something he had no word for.
+[02:00] It was not sadness.
+[02:02] Sadness has a shape, a cause, a direction you can point your finger toward.
+[02:06] This was flatter than sadness.
+[02:08] It was the feeling of having done everything and arrived nowhere.
+[02:11] He would look at the twelve neat lines through his desk.
+[02:14] Each one struck through with the same confident stroke.
+[02:16] And he would think, I did all of it.
+[02:19] And then, quieter, underneath the first thought.
+[02:22] A second one.
+[02:24] He never let himself finish.
+[02:25] So why does it feel like I did none of it?
+[02:28] He tried, for a while, adding more lines.
+[02:31] Thirteen tasks.
+[02:32] Fifteen.
+[02:33] He reasoned that the flatness must be a symptom of insufficient effort.
+[02:37] The way a man who is still hungry after a small meal simply eats more.
+[02:40] So, he ate more.
+[02:42] He took on a second warehouse.
+[02:44] He rose an hour earlier.
+[02:45] He crossed off fifteen lines instead of twelve.
+[02:48] And the flat feeling did not shrink.
+[02:50] If anything, it spread a little further into the morning.
+[02:53] So that now it greeted him, before the candle was even lit.
+[02:56] Waiting for him, like a second shadow he'd forgotten to account for.
+[03:01] He never spoke of this to anyone, because there was nothing, on the surface, to speak of.
+[03:06] What complaint could a man make, who had everything crossed off his list?
+[03:09] Who would believe, that the trouble was not in what remained undone?
+[03:13] But in something the list itself had never once asked him to consider, he did not yet have the word for what was missing.
+[03:19] He only had the hour at the desk.
+[03:21] The candle.
+[03:22] The flat feeling with no name.
+[03:25] And twelve.
+[03:25] Now, fifteen lines struck through with a confidence.
+[03:28] Two that had started, very quietly, to feel like a lie he told himself in his own handwriting.
+[03:34] He kept the list anyway.
+[03:35] What else was there to keep?
+[03:37] A man does not abandon the only ceremony he has, even when it stops working.
+[03:42] Because the ceremony is at least familiar, and familiarity is its own kind of comfort, even when it has long since stopped being nourishment.
+[03:51] So, he wrote his lines each morning, and crossed them off each night, and sat in the flat hour after, and told himself that tomorrow's list, if he wrote it carefully enough, might finally be the one that filled the space where the feeling lived.
+[04:04] It never was.
+[04:05] But he did not yet know why.
+[04:08] He only knew that somewhere in the gap between the last crossed-out line and the blown-out candle, dot something was missing that no fifteenth task was ever going to supply.
+[04:18] And he would not learn what it was from his own list.
+[04:21] He would learn it, though he did not know this yet, from a boy three towns over, who had just been handed his very first one.
+[04:29] The apprentice was fourteen the morning he walked into the carpenter's shop for the first time, and he arrived already, carrying a list of his own, not written down, but held tightly in the place where boys that age hold their expectations.
+[04:42] He expected sawdust.
+[04:44] He expected the old man's hands, cracked and sure, guiding his own clumsy ones around a chisel.
+[04:49] He expected, in the vague way that fourteen-year-olds expect things, to become something by the end of the year that he was not at the beginning of it.
+[04:56] What he did not expect was for the carpenter to hand him a folded piece of paper before either of them had touched a single tool.
+[05:05] On the paper were five tasks, written in a hand, so old, it had started to shake at the corners of its letters: sand the bench legs, sweep the far corner, oil the hinges on the east door, stack the offcuts by size, sharpen the small chisel.
+[05:19] Ordinary work, the kind of list any apprentice in any shop in any town might have been handed on his first morning.
+[05:25] But, beside each task, in the same shaking hand, was a second word.
+[05:30] Not an instruction about what to do the first word had already covered that, a different kind of word entirely.
+[05:37] Beside sand the bench legs, the word patient.
+[05:40] Beside sweep the far corner, the word thorough.
+[05:44] Beside oil the hinges, the word gentle.
+[05:47] The apprentice read the list twice, turned it over to see if the back held some explanation.
+[05:52] Found nothing.
+[05:53] And finally, asked the old man directly what the second words were for.
+[05:57] The carpenter did not look up from the plane he was running along a long board.
+[06:01] He said only that the first word tells the hands what to do, the second word tells the rest of you how to be, while the hands are doing it.
+[06:09] And then he said nothing further, as old men in these stories tend not to, leaving the boy to make of it what he could, which being fourteen.
+[06:17] And eager mainly to prove himself with the chisel, rather than with any word beside it, was not very much at all.
+[06:23] He sanded the bench legs.
+[06:25] He did not think about patience while he did it.
+[06:27] He thought about whether he was sanding correctly, whether the old man was watching, whether his arm would tire before the job was done.
+[06:34] He swept the far corner quickly, because quickly seemed more impressive than thorough.
+[06:39] And he told himself the two were close enough to the same thing, that the distinction hardly mattered.
+[06:43] By the end of the day, he had crossed off all five tasks in his own mind, the way a boy crosses things off before he's old enough to own a proper list.
+[06:51] And he felt the small, clean satisfaction of a job completed that any fourteen-year-old feels at the end of an honest day's labor.
+[06:58] He did not feel the flatness the merchant felt, not yet he was too young, and the day had been too full of newness for any hollow hour to find him.
+[07:06] But something in him had noted the second column of words without understanding it, the way you might notice a door in a house you're renting without ever once trying the handle.
+[07:15] He folded the list, and put it in his pocket.
+[07:18] Not because he thought he would need it again, but because throwing it away felt, for reasons he could not have explained, slightly wrong.
+[07:25] He would carry that same folded paper, unread and half forgotten, for a very long time.
+[07:31] Long enough that by the time he finally understood what the second word beside each task had been asking of him, the old carpenter who wrote it would be three years in the ground, and the boy would be a man old enough to be handing lists of his own to apprentices who would, in their turn, fold them without reading them all the way through.
+[07:49] Here is the thing the merchant did not know, and the thing the apprentice would not understand for years. A list of tasks and a list of ways to be are not the same instrument, and no amount of excellence at the first will ever substitute for the absence of the second.
+[08:07] Consider what a to-do list actually is. It is a record of outcomes you intend to produce in the world outside yourself. Sand the bench legs, pay the debt, answer the letter. Every line on it points outward, towards some future state of affairs that will exist once the task is finished. A smooth bench, a settled account, a letter no longer waiting on your desk. This is not a flaw in the to-do list. Outcomes matter. The bench does need sanding. The debt does need paying. Nothing in this teaching asks you to stop making lists, or to stop caring whether the tasks on them get done. But notice what the to-do list never once asks. It never asks how you intend to be while the sanding happens. It never asks what state of mind you plan to bring to the paying of the debt, the answering of the letter, the 10,000 small tasks that make up an ordinary day. It assumes, silently and by omission, that the how will simply take
+[09:08] care of itself. That if you complete enough tasks with enough competence, some feeling of completeness will arrive on its own, the way heat arrives once you've built the fire high enough. This is the assumption the merchant lived inside for 11 years without ever naming it. He believed, the way most people believe without examining the belief. That peace was a by-product of sufficient accomplishment. That if he crossed off enough lines, the flat feeling would eventually have nowhere left to stand. He kept adding lines to test this theory.
+[09:38] The theory kept failing. It failed not because he wasn't accomplishing enough, but because accomplishment was never the variable that flat feeling responded to in the first place. He was solving for the wrong quantity. The way a man might keep adding salt to a soup that was missing water, tasting it each time, and concluding, wrongly, that it simply needed more salt. The old carpenter's second column names, the variable, the merchant never solved for, not what you do, how you are, while you do it. Patient, while sanding, thorough, while sweeping, gentle, while oiling a hinge that has stuck for years, and will resist your hand at first, no matter how correctly you approach it.
+[10:21] This is not a fifteenth task added to fourteen others. It is not more effort, more striving, one more line to write and cross off before the candle is blown out. It is a completely different question, asked about the same actions. Not what, but how. Not doing, but being. And it is a question the to-do list, by its very nature, was never built to ask. This is the missing dimension. Thinking good, no matter what, is not the same as controlling what happens to you. And it is not the same as forcing a smile over a day that gives you no reason to smile. It is the practice of bringing a chosen quality of presence into whatever the day happens to hand you, task by task, hour by hour, whether the outcome cooperates or not. The bench gets sanded whether you approach it with patience or with irritation. But you do not experience those two sandings the same way. And this is the part that changes everything. Neither does the bench. But you do not experience those two sandings the same way. And the boy would need years to learn. The merchant's
+[11:25] 15th line would never have helped him. Because he was adding volume to the wrong list. What he needed was not a longer to-do list. He needed for the first time in 11 years a to-be list running quietly beside it. And he did not yet know one existed. Here is a fact about the mind that explains why this shift, simple as it sounds, is so rarely made. And why forcing it tends to fail. Even when you understand the theory perfectly. The human mind evolved to weigh threat more heavily than comfort. A single sharp criticism will occupy more of your attention for longer than a dozen quiet compliments offered in the same week. A single unfinished task on an otherwise complete list will nag at you long after the 11 finished ones have gone silent. This is not a personal failing. It is closer to a design feature inherited from ancestors for whom noticing the one rustle in the grass that meant danger. Dot was worth more than noticing the thousand rustles that meant nothing at all. The mind that survived was the mind biased toward the
+[12:33] threat. And you have inherited that mind whole, unedited, running quietly beneath every to-do list you have ever written. This is why simply deciding to think positively so often collapses within the hour. You are not fighting a bad habit when you try to force cheerfulness onto a difficult day. You are fighting several hundred thousand years of inherited wiring. That insists the difficult thing deserves more of your attention than the easy things surrounding it. Willing yourself to feel good, no matter what, by sheer force of intention, is like trying to stop a current by standing in the river and pushing against it with your hands. You will tire long before the current does. And the current was never your enemy to begin with.
+[13:17] It was simply doing what current does. There is an old idea from far older teachers than this one called wu-wei. It is usually translated as effortless action, though the translation loses something, the way translations often do. It does not mean doing nothing. It does not mean passivity, or drifting, or letting the day simply happen to you without engagement. It means acting in a way that does not fight the shape of the moment you are actually in, the way water does not fight the shape of the riverbed, but moves through it, around every stone, without once expending effort on resenting that the stone is there. Positive thinking, as it is usually taught, asks you to stand in the river and push.
+[13:58] It asks you to override the threat-weighted mind, through sheer, repeated insistence, to paper over a difficult hour with a sentence you don't quite believe yet. This rarely works for long, because you are fighting the current directly, and the current has a few hundred thousand years of momentum behind it that your sentence does not. Presence the second word beside the task, the how, instead of the what, does not ask you to fight the current at all. It asks you to notice the water is moving, notice which direction, and place your attention there, in the moving, rather than in the resenting. The task in front of you might be difficult. The mind's old habit of weighing the difficulty heavily might still be running, exactly as it evolved to run. You do not have to defeat that habit to think good, no matter what. You only have to stop insisting the water hold still and start moving with it. Patient while sanding, thorough while sweeping, gentle with the hinge that resists your hand. This is why the carpenter's
+[15:00] second word was never a fifteenth task. A task is a stone you push against, until it moves or you tire.
+[15:08] A word like patient, held beside a task rather than added on top of it, is not a stone at all. It is closer to a direction the water was already trying to flow, and all that was ever missing was a hand willing to stop pushing against the current long enough, to notice which way it wanted to go. There is a small house at the edge of a village that no one living remembers the name of, and in it lived a woman, who made tea the same way every afternoon for forty years. And if you had watched her do it, really watched, not merely glanced, you would have seen something the merchant spent eleven years failing to find, and did not even know he was looking for. She did not make tea quickly. She did not make tea quickly. This was not because she lacked the skill to be quick. Dot, her hands, after forty years, could have measured the leaves and poured the water without a single wasted motion. Dot, faster than any apprentices. She made it slowly, because speed was never the task's purpose. And she seemed to be one of the
+[16:04] very few who had understood this early and never once forgotten it. She warmed the pot first, turning it in her hands, until the clay had taken the heat evenly. And while she did this, her attention was entirely inside the turning. Not on the guest waiting in the next room. Not on the kettle beginning to sing on the fire. Not on the dozen small tasks that would follow this one before the day was done.
+[16:27] Just the pot, turning, warming. When she measured the leaves. When she measured the leaves, she did not measure them while thinking about the pouring that would come after. When she poured the water, she did not pour it while thinking about the drinking that would come after that. Each motion held the whole of her, briefly, completely, and then released her into the next motion, which took the whole of her in turn. A young woman from the village once asked her, Dot, watching this ritual for the first time, why she didn't simply boil the water and steep the leaves the way everyone else did, quickly, while thinking about the rest of the afternoon's tasks, the way any sensible person would. The old woman considered the question for a moment and then asked one back. She asked whether the young woman had ever eaten a meal while thinking so hard about the next thing she had to do, that she reached the bottom of the bowl without remembering having tasted any of it. The young woman admitted that she had,
+[17:18] many times, most days, if she was honest. The old woman nodded as though this confirmed something she had long suspected about how most people spent most of their hours, and said that this was the whole difference. The tea itself did not require her full attention to be correctly made. A distracted hand could measure the same leaves, warm the same pot, and produce a cup that tasted identical. But the woman making it distractedly would not have been present for the making of it. And 40 years of afternoons had taught the old woman that this absence, repeated enough times, was the very thing that left a person feeling, at the end of a long life of correctly completed tasks, strangely as though she had not quite been there for any of them. This is not a story about slowness, for its own sake, and it would be a misreading to believe the lesson is simply to move less quickly. The old woman moved quickly enough, when the task called for it, she was no stranger to urgency, and had raised children, and buried a husband,
+[18:15] and managed a household, through lean years, that demanded speed, and did not forgive hesitation.
+[18:21] The lesson is not about pace, it is about where her attention lived, whether the warming of the pot, got the whole of her, or only a fraction of her, borrowed and distracted, while the rest of her had already wandered ahead to the pouring, the drinking, the tasks waiting beyond. At the end of a long life of correctly completed tasks, strangely, as though she had not quite been there for any of them. This is what to be looks like, when no one is grading it, and no ledger will ever record it, and no to-do list has a line for it, because it was never a task to begin with, it was the second word, beside the task, until it became simply how she moved through a day, rather than something she had to remember to add to it. By now, the shape of the teaching should be coming into focus, though there remains one distinction, still worth drawing carefully, because it is the distinction most easily missed, and missing it, is precisely what sends so many well-intentioned people back toward the same failed strategy. The merchant tried for 11 years.
+[19:21] Positive thinking, as it is commonly taught, is a form of reaction management. Something difficult happens, a debt comes due earlier than expected, a hinge resists the oil, a day arrives with 15 lines instead of 12, and the instruction is to manage your reaction to it, to reach for a better thought, a brighter interpretation, a more optimistic frame, and to hold that frame in place against whatever the difficulty is trying to make you feel. This is effortful by its very design. It happens after the difficulty arrives, as a kind of repair work performed on a feeling, on a feeling that has already gone wrong. And repair work, however skillfully done, is still work. And repair work, however skillfully done, is still work. A stone still being pushed against, however gently.
+[20:11] Presence is not reaction management, and this is the distinction worth sitting with. Presence is not something you reach for after the difficult moment has already knocked you off balance. Patient, while sanding, chosen before the wood, ever resists the tool. Patient, while sanding, chosen before the wood, ever resists the tool. It is not a reaction to what happens. It is the condition you were already standing in when whatever happens happens. This is why presence is subtraction rather than addition, and why the carpenter's list was never actually longer than the merchant's, despite having two columns instead of one. The merchant kept adding lines, believing that peace lived somewhere further down a growing list. Always one task away. Always just beyond the fifteenth line, then the sixteenth.
+[20:58] This is addition the belief that more effort, more accomplishment, more crossed out tasks will eventually add up to enough. It rarely does, because the flat feeling was never a symptom of insufficient quantity. Subtraction asks a different question entirely. It does not ask what you need to add to the day to finally feel complete. It asks what you need to stop doing. What resistance, what pushing against the current, what performing of tasks, with your attention already halfway to the next one. In order to notice that the completeness was available in the sanding itself, the tea itself, the ordinary task itself, all along. This is the sermon's central claim, and it is a genuinely counter-intuitive one, worth stating plainly, rather than leaving implied. Peace was never something you needed to add to your list. It was something already present in the doing of the task, obscured only by the habit of doing the task while your attention lived somewhere else. In the next task,
+[21:57] in the outcome, in the tallying of lines crossed off, the old woman did not add a peace-producing ritual to her day on top of making tea. She simply stopped doing the tea-making while absent from it.
+[22:08] Subtraction, not addition. The removing of a habit, not the acquiring of a new one.
+[22:13] This is also why forcing positivity so reliably fails where presence, quietly practiced, does not.
+[22:20] Forcing positivity adds a layer of brighter thought, stacked on top of a difficult feeling. Effortfully maintained. Exhausting in exactly the way. Pushing against a current is exhausting. Presence removes a layer. The layer of divided attention. Of doing one thing while thinking about the next. Of crossing off a line, while already halfway toward the line after it. What remains, once that layer is subtracted, is simply the task. Met fully, without the extra weight of a mind standing half outside it. This was always available. It never needed to be built. It only needed the habit of absence to be gently set down.
+[22:58] The apprentice became a master carpenter in his own right, as these stories tend to arrange themselves, and somewhere in the long stretch of years, between the folded list in his pocket, and the grey that eventually found its way into his own hair, he stopped thinking of the old man's instruction as a strange habit, and started, without quite noticing the shift, living inside it. It happened gradually enough that he could never afterward name the exact day it changed. He only knew that at some point he had stopped sanding a bench leg, while thinking about the next six tasks waiting behind it, and had started, instead, simply sanding the whole of his attention inside the motion of the hand, the grain of the wood, the particular resistance of this piece, rather than the last one. He had stopped sweeping quickly to seem impressive, and started sweeping thoroughly, because thoroughness had become, without his deciding it consciously, simply the way he swept. He had, in short, become a man who wrote a
+[23:56] second word beside his tasks without needing to write it down anymore, because it had stopped being an instruction, and had become instead the shape of his attention itself. It was on an ordinary afternoon, decades after the old carpenter had died, that a merchant walked into his shop, an old man himself by then, though not the same merchant from the beginning of this sermon, only one, very much like him, because, as was said at the start, there are ten thousand men, exactly like him, in every city that has ever existed. This merchant wanted a bench built, and while the carpenter measured the wood, the merchant, out of some restlessness he could not quite name, began to talk. He talked about his ledgers, his debts paid on time, his children raised well, his life, by every outward measure, in perfect order. And then, almost despite himself, about the flat hour that visited him, some nights after the last task of the day was finished, the hour with no name, the tiredness in a place he could
+[24:54] not point to, the carpenter set down his measuring tool and did not answer immediately, the way his own teacher had once not answered immediately, all those decades before. When he did answer, he did not offer advice about managing debts more wisely or resting more fully. He asked the merchant a single question, whether he had ever, in all his years of crossing off lines, once asked himself, not what he needed to do that day, but how he intended to be while he did it. The merchant did not have an answer.
+[25:24] He had never been asked the question in a form that made him understand it was a question at all.
+[25:29] This is what the old carpenter had meant all those years before, with the second word beside each task, on a fourteen-year-old boy's very first list, not a lesson about carpentry, a lesson about where a person's attention lives while their hands are occupied, a lesson so quietly given on such an ordinary first morning, that it took the boy the better part of a lifetime to understand. He had been handed the answer to a question he had not yet known enough to ask. The list itself had been almost incidental: sand the bench legs, sweep the corner, oil the hinges. Any five tasks would have served the same purpose. It was never about the tasks, it was about the word beside them, and the years it took one boy to let that word become, quietly and without ceremony, the way he simply was. So here finally is the answer to the question this sermon opened with, arrived at the way most true answers arrive late, and only after the story has done the work that a direct statement never could have done on its own.
+[26:29] Late, and only after the story has done the work that a direct statement never could have done on its own.
+[26:35] How do you think good, no matter what happens? Not by managing your reaction after the difficulty lands, reaching each time for a brighter thought to stack on top of a heavy one, exhausting yourself the way a man exhausts himself, pushing against a current that was never going to stop moving simply because he pushed, and not by adding more to your list, more tasks completed, more lines crossed off, in the quiet hope that enough accomplishment will eventually add up to a piece that accomplishment was never actually holding. That path leads only to the merchant's flat hour, repeated night after night, no matter how long the list grows. You think good, no matter what, by writing the second word beside the first, not what you will do today, but how you intend to be while you do it. Patient, while the hinge resists you. Thorough, while the corner seems too small to matter. Gentle, with a difficulty that did not ask your permission before arriving. This does not change what happens to you. The debt still comes
+[27:33] due. The bench leg still needs sanding, whether you approach it with your whole attention or only half of it. The moon on the water still fractures, when the storm comes and gathers whole again when the water stills. The moon itself, never moving, never straining, never once trying harder to be reflected well. What changes is not the weather, what changes is where you were standing while it passed through. This was never a fifteenth task. It was never something to add. It was, from the very beginning, something to notice, a layer of divided attention, gently set down, revealing a piece that had been available inside the ordinary task all along, waiting only for someone to arrive fully enough to find it.
+[28:14] Tonight, before you sleep, take tomorrow's list, the one you would have written anyway, the one with its ordinary tasks in its ordinary order, and beside each line, write one more word. Not what you will do, how you intend to be, while you do it. This is the only change the teaching asks of you. Not a new column of effort. A single word, chosen once, before the day has the chance to choose your state of mind for you. The water was never the well, and the peace was never at the bottom of the list. If this reached something in you, subscribe, and walk with Mankaku into the next teaching.
