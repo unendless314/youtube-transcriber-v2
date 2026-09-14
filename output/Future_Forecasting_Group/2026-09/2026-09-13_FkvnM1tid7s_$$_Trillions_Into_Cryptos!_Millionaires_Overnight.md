@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "FkvnM1tid7s"
+title: '$$ Trillions Into Cryptos! Millionaires Overnight?'
+published_at: "2026-09-13"
+duration: "2:48"
+word_count: 2354
+---
+
+# $$ Trillions Into Cryptos! Millionaires Overnight?
+
+[00:00] trillions of dollars into the system overnight millionaires made overnight we're waiting for the clarity act yeah it's time to talk about that i'm dick allgaier i'm the co-founder of future forecasting group i'm a long-time remote viewer people might ask why didn't you just remote view the clarity act well they didn't give us a that as a target and you can't do it front-loaded self-directed blind i can't just close my eyes click my ruby slippers and go it's not gonna pass okay everybody's waiting for tuesday's vote in the senate will the senate approve the clarity act they should and we hope they do here's carl higbee of newsmax um saying that trillions of dollars will flow into cryptos overnight and that many people that hold just little small amounts of crypto will be instant millionaires take it away carl the senate is supposed to vote on the clarity act next week whether or not they will who knows i i've been talking about a lot about this most people don't
+[01:03] trade crypto and that's okay but it will affect everybody because it allows your retirement from some institutional investor your pension or your even your assets in a bank account that has regulations to now be invested into cryptocurrency banks would shift trillions into this market overnight thousands of people maybe even you if you hold a little bit of it would become millionaires by the way did you notice carl's uh tie there he had the american flag tie with the eagle on it very patriotic guy of course i'm wearing a bitcoin shirt we all have our little uniforms so what's going to happen with the clarity act i don't think that trillions of dollars are going to flow into cryptos this week and i don't think people are going to be instant millionaires that's just i'm a little more cautious than that the reason i'm thinking that is because if they were going to pass the clarity act two days from now the insiders would already know that and you would see bitcoin in the crypto market
+[02:05] starting to move already and they haven't as i record this bitcoin is about 77.2 hasn't made a move so if they were going to pass that it would already be pumping that's my take i could be wrong we'll see stay tuned tuesday i think uh maybe the time isn't right we'll talk to our analyst marty hibbs about that marty hibbs the great marty hibbs and he'll be on ffgrv.com stay tuned
