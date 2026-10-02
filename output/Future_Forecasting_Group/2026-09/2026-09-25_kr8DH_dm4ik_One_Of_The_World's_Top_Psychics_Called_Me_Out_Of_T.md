@@ -1,0 +1,14 @@
+---
+channel: "Future Forecasting Group"
+video_id: "kr8DH_dm4ik"
+title: 'One Of The World''s Top Psychics Called Me Out Of The Blue'
+published_at: "2026-09-25"
+duration: "3:02"
+word_count: 2419
+---
+
+# One Of The World's Top Psychics Called Me Out Of The Blue
+
+[00:00] one of the world's top psychics just called me out of the blue unexpectedly phone rang it was Lan Vo. Lan Vo psychic she's a Vietnamese lady here in Hawaii and she absolutely is the real deal every time I do a reading with her it is remarkable the details the accurate details that she gets about my personal life things that no one else could know and this time when she called me she said oh your left eye you have a problem with your eyes your eye okay and I thought what is wrong with my left eye oh I had a sty on my eye it was really swollen and you know itchy one of those things it is resolving now but Lan Vo got that right she mentioned a couple of my business partners people that you don't know about the she she said where they were located and one guy she said was having trouble and I had just heard that he was having some some problems so she was very accurate in the personal hidden personal details and then she said oh you just invested in a new crypto you just
+[01:10] bought a new little crypto token she said that one's going to do really good you're going to make a lot of money on that she said it's going to go 14 to 18x now I was we did a segment on that on our our crypto masterminds at ffgrv.com and we talked about yesterday where I gave the exact price points that Lonvo said so you can log in and see that ffgrv.com we've re-hypothecated we've we've turned our patreon site back on so you can go see our work at our patreon site it's a better deal and you get all the current remote viewing work right now the link is below meanwhile Lonvo is going to Vietnam she has a foundation there where she provides shelter and food to orphans in need and she's going to be there delivering tons of rice I made it excuse me I made a donation to the Lonvo foundation I help her out she she really is an amazing amazing lady and she she told me cryptos are about to go big time she told me I'm going to be buying a new house like seven million dollars she's you're going to buy a second house it's going
+[02:25] to be seven million you're going to do very good but the crypto that I just bought the little dinky one that I I had a good intuitive when I heard about the when we did the segment and I saw that my psychic cents lit up and it's interesting that Lonvo called me out of the blue and she said that token you just bought that's going to make you a lot of money that's the report join our patreon site aloha
