@@ -1,0 +1,14 @@
+---
+channel: "Just Dario"
+video_id: "vhTBifuCCkQ"
+title: 'THE DIESEL PROBLEM NO POLITICIAN UNDERSTANDS'
+published_at: "2026-10-02"
+duration: "2:52"
+word_count: 2484
+---
+
+# THE DIESEL PROBLEM NO POLITICIAN UNDERSTANDS
+
+[00:00] Hello everyone. We have been told the oil crisis is over, but it's not. I specifically warned about it on X in June that the oil crisis was postponed, especially for diesel, not avoided, and now the SPR buffer is gone. Since then, I've been monitoring market developments with my premium subscribers on Slice, sharing market updates in real time, and if you want to be part of my community, simply subscribe by following the link on my profile here on YouTube. What I'm about to tell you today are things that politicians and experts still don't want to admit publicly, assuming they understand them, something I'm not so sure about. 1. Crude oil is not the same everywhere. The US can only store light and medium-sour crude in its salt caverns, so when Trump said he will refill the SPR with Venezuelan heavy crude, that's a plain lie. 2. The US is not energy-independent. American refineries are built for heavy sour
+[01:02] crude, the kind the US doesn't produce enough of, so the US exports its surplus of light crude and imports the sour crude it actually needs from Mexico and Canada mostly. That's not independence. 3. Diesel is not the same everywhere either. It's refined from different crude blends depending on the region, and when Middle East's supply went offline, everyone else ramped up refining to fill the gap, with some greedier refineries running above 100% capacity. That's why refineries kept blowing up worldwide in the past months. 4. The real problem is the refinery capacity, its crude supply. Shipping through Hormuz and Babelmandab is disrupted. Tankers are being hit, and then the current insurance costs are exploding. Canada and Mexico, America's main sour crude suppliers, are now selling cargoes to Asia as well. So US diesel prices rise because of crude input costs, not throughput. And Europe? Europe is stuck in a refinery shortage and a crude shortage
+[02:07] at the same time. And with winter demand ahead, it's running out of both diesel and crude that keep its economy moving. A US diesel export ban won't lower diesel prices at home, because US refineries will scale back production and avoid the excess capacity now exported to Europe. A US diesel export ban will just crush Europe faster. And as commercial inventories hit multi-decade laws, everyone will rush to secure crude sold to the highest bidder. Countries that can't out-beat get left behind. There is only one real fix: end the war against Iran and its proxies. Everything else is just buying time.
