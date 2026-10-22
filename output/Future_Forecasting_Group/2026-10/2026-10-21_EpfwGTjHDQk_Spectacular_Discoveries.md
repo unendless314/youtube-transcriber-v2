@@ -1,0 +1,30 @@
+---
+channel: "Future Forecasting Group"
+video_id: "EpfwGTjHDQk"
+title: 'Spectacular Discoveries'
+published_at: "2026-10-21"
+duration: "7:49"
+word_count: 5493
+---
+
+# Spectacular Discoveries
+
+[00:00] We've made some amazing discoveries and we're going to share some even more spectacular discoveries, things that we are revealing about remote viewing. I'm Dick Allgaier. I'm the co-founder of Future Forecasting Group. I'm the most published remote viewer in the world, not saying I'm the best, but I have more published sessions and our team is the most published remote viewing team in the world. We have done, we checked in our records, it's somewhere in excess of 900, maybe 950 sessions under double-blind rigorous scientific protocol, well-published, well-documented. This is an incredible wealth of information. I'll explain a little bit how this works. Remote viewing is a skill that enables you to displace your awareness across time and space and bring back valid data. Every remote viewing session is a combination of good data, hopefully mostly good, there's always some bad data that is just frankly off, you're never 100%, and then there's a nebulous area that we call
+[01:15] contamination. So every session that every remote viewer does contains some good data, some bad data, and some contamination. The contamination is where it gets really interesting and we found this using AI.
+[01:33] Explain a little bit about how remote viewing works. We have dimensions of time and space. And we have another dimension that is consciousness. Consciousness is pervasive and it is actually dimension. So here we have time and space enfolded in consciousness with past, present, and future. So we have the present, we have the future, and we have the past.
+[02:20] All of those in the dimension of consciousness. As remote viewers, we're something of consciousness astronauts. We're surfing the matrix. We go after a target and all data of everything past, present, and future, and future is enfolded in this, and entrained to our consciousness. Because human being has a conscious awareness that is linked in a subconscious way to this greater field of consciousness. So we're entrained to that.
+[02:46] So we're able to displace a part of our awareness and go anywhere in time and space and see past, present, and future.
+[02:54] We're tasked to see future events. We're tasked to see future events involving cryptocurrencies and the geopolitical scene. We do financial.
+[03:08] So we're all over the place in this field of consciousness.
+[03:13] Keep in mind, some good data, some bad data, some contamination.
+[03:18] And what we found is that certain events in the past, present, and future within consciousness have what we call luminosity.
+[03:31] I'm not spelling that right, luminosity. Some are more luminous. So we may go after something that we're looking for a future medical event, but a near future geopolitical event may get our attention.
+[03:49] And it shows up in our sessions as contamination.
+[03:54] We've had examples of this where when we present data and it appears to be off target, we disregard it and set it aside. So we've got these files, 950 files in each session that we, 950 sessions or more, and each session has 12, 15, sometimes 20, 30 pages of data. We have this vast library of data.
+[04:19] Some of the things we discovered in a normal debrief, Edward Reardon drew the COVID virus and described gain of function before anybody had heard that. A year before that happened, it was in our data. The assassination attempt on President Trump, Naeem Vandreas drew the scene, called it an assassination. Daz Smith, in an earlier session, described everything about the crooks, the assassin, his motivation, his state of mind, and the person that was going to be the target of that.
+[04:58] The Israeli attack of when Israel was attacked on October 7th, that showed up a month before in our data.
+[05:06] So what we're doing now is we're putting all these hundreds of tens of thousands of pages of documents of our sessions into artificial intelligence. And we're having artificial intelligence analyze it.
+[05:22] And what it's spitting out for us is startling, amazing, significant. We have this huge library of valid remote viewing work. This has been, in essence, one of the greatest scientific experiments into consciousness ever conducted under verifiable conditions. And we're now going to be using AI to go back and look at our work and validate much of these nuggets that popped up in our work, seemingly as contamination. But we're actually precognitive and absolutely spectacular and amazing.
+[06:04] It's akin to what Cliff High does with his ALTA reports, where he comes through data on the internet of people just typing innocuous things in chats and on forums. And he correlates all that and he looks to see common linguistics that come out that are predictive. And this is normal people not trying to be psychic. What we have is a group of remote viewers. We have Daz Smith, Edward Reardon, Naeem Vendreas, myself. We have Derek. We have Evan and Brian Budu. We had Hitomi. Hitomi Akamatsu's data is in this trove.
+[06:45] And we're going to take all that data and we're combing through it with AI and we're going to find some amazing things. So stay tuned. We'll have more developments at future forecasting group, ffgrv.com.
+[06:59] Amazing times. This has been an incredible scientific experiment funded by our Patreon members for you Patreon people and members of ffgrv.com. Your membership has been enabling this amazing, amazing scientific experiment. Now, science tries to downplay this. Science doesn't accept it. We're doing an end run on science. Information is going to come out where mainstream normie scientists are just going to be pushed aside. So join us at ffgrv.com.

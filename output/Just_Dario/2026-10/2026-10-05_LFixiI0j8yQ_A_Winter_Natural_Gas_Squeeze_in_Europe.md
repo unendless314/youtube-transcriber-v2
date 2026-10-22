@@ -1,0 +1,14 @@
+---
+channel: "Just Dario"
+video_id: "LFixiI0j8yQ"
+title: 'A Winter Natural Gas Squeeze in Europe?'
+published_at: "2026-10-05"
+duration: "2:32"
+word_count: 2508
+---
+
+# A Winter Natural Gas Squeeze in Europe?
+
+[00:00] happy monday everyone besides crude oil and diesel i have been monitoring market developments in europe's natural gas situation and i just published another comprehensive analysis on the matter that i shared already with my community of premium subscribers on slice unfortunately europe is definitely walking into this winter with a natural gas problem if you want to join my community and get the market update in real time simply subscribe by following the link on my profile here on youtube now let me share with you what the numbers actually say about europe and natural gas first of all we need to understand the current situation europe spent all summer hoping the middle east crisis will end soon so it could restock natural gas cheaply ahead of the winter season but the middle east crisis is still ongoing and europe didn't restock enough natural gas reserves then october the first arrived that's when households across europe start turning on their
+[01:00] heating and here is the part people tend to overlook 70 percent of european homes heating runs on natural gas europe currently has 18 mtoe that stands for million tons of oil equivalent of domestic supply and spi storage of natural gas it needs to import another 42 to get through the winter but as you can see a mild winter burns through 148 mtoe and a hard winter 185 and who's supplying the difference qatar is offline russia is disrupted and broadly avoided for political reason that leaves american lng as the marginal supplier and where you are the marginal suppliers you set the price but here is the twist nobody's surprising in u.s winters matter too and rehab natural gas price spikes when it gets really cold and historically europe and u.s winters move together it might impact the cost of making lng then ship to europe putting it all together temperature in europe is going to be the key factor to determine whether there will be a potential trade opportunity in the european natural gas
+[02:01] and as a consequence in the lng one where chelniere energy is the pure play i can anticipate to you that the only scenario where europe will be able to avoid a full-fledged natural gas energy crisis this coming winter is if the temperatures are abnormally high for the season but statistically speaking the probability is rather low if you are interested in reading my full analysis and my latest update on other key markets like crude oil gold silver and government bonds you can easily find it in my slice important have a good day everyone bye

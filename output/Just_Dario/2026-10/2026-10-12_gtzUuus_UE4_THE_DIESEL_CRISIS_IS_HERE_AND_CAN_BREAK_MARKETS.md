@@ -1,0 +1,14 @@
+---
+channel: "Just Dario"
+video_id: "gtzUuus_UE4"
+title: 'THE DIESEL CRISIS IS HERE AND CAN BREAK MARKETS'
+published_at: "2026-10-12"
+duration: "2:29"
+word_count: 2566
+---
+
+# THE DIESEL CRISIS IS HERE AND CAN BREAK MARKETS
+
+[00:00] forget the headlines about iran forget the hooties the real story is diesel and the us government is running out of ways to hide it let me show you why first of all the proof last week the department of energy authorized an emergency release of 4 million barrels from the spr straight to exxon mobile and bp america reason a single hurricane disrupted supply in the gulf the spr has hardly ever been tapped for something this mode that's not a routine move that's a tell when you burn your emergency reserves over a minor disruptions it means there is little left in the tanks furthermore trump announced a deal with russia on friday utin confirmed it within hours another russian refinery was hit then afterwards trump announced a second energy ceasefire and i don't think it could last a week his goal is simple bring diesel prices down before the midterm elections but it won't succeed i have been monitoring this energy crisis with my premium subscribers on slice since day one
+[00:59] if you want to join our community simply subscribe by following the link on my profile here on youtube to get my real-time updates and analysis now let us get back to the diesel deal and all other failing attempts to force the diesel price lower you might wonder why diesel is so hard to manipulate because the playbook used on crude oil doesn't work here paper futures barely influence the diesel spot market because unlike crude oil diesel consumption is immediate and that's what dictates the price at the pump you can print your way out of a physical shortage either the barrels are there or they aren't and right now they aren't both for crude oil and diesel but since crude oil is not directly consumed they still have room to manipulate hiding from the public the true extent of the shortages like when they claimed an absurd number of barrels leaving the strait of hormones every day clearly the market is starting to realize the extent of the shortage of the specific type of crude oil needed to make diesel upstream oil companies are finally
+[01:55] showing resilience long-dated crude oil futures are now trading above march highs spot crude and front end crude oil futures spreads are almost back at march levels signaling real supply tightness not fear-driven that's why bids keep showing up below 90 dollar and 100 dollar for wti and brand crude oil futures respectively and getting swat for physical barrels immediately via exchange for physical swaps the diesel crisis isn't coming it's here and the only question left is how long the governments can keep pretending otherwise
